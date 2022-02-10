@@ -3,7 +3,7 @@ import numpy as np
 from numpy.random import randn, random, uniform
 from numpy.linalg import norm
 from tools import angle, vectors
-from settings import *
+from settings import settings
 
 
 class model():
@@ -26,27 +26,30 @@ class model():
             sgn = 0
         angle = sgn*uniform(0, self.max_angle)
         return angle
+    
 
 class Robot():
-    def __init__(self, x, y, rot, speed = None, model = None):
+    def __init__(self, x, y, rot, noize_rot, noize_dist, speed = .5, model = None):
         self.x = x
         self.y = y
         self.rotation = rot
         self.speed = speed
         self.model = model
+        self.noize_rot = noize_rot
+        self.noize_dist = noize_dist
         
     def move(self, movement):
         
-        self.rotation += movement[1] + randn() * noize_rot
+        self.rotation += movement[1] + randn() * self.noize_rot
         self.rotation %= 2 * np.pi
 
         self.x += np.cos(self.rotation) * movement[0]
         self.y += np.sin(self.rotation) * movement[0]
         self.rotation += movement[2]
         
-    def model_move(self):
+    def model_move(self, size_x, size_y):
         angle = self.model.get_next_way()
-        self.rotation += angle + randn() * noize_rot
+        self.rotation += angle + randn() * self.noize_rot
         self.rotation %= 2 * np.pi
         
         self.x += np.cos(self.rotation) * self.speed
@@ -74,6 +77,11 @@ class Robot():
         self.rotation += angle(a, b)
         self.x = curve[index][0]
         self.y = curve[index][1]
-    
-    def get_dist_to_points(self, points):
+    def get_model_curve(self, n):
+        coords = np.zeros(2)
+        
+        curve = np.zeros((n, 2))
+        for i in range(n):
+            curve[i]
+    def get_dist_to_points(self, points, noize_sens):
         return (norm(points - np.array([self.x, self.y]), axis=1) + (randn(len(points)) * noize_sens))

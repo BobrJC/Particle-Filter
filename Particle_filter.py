@@ -49,9 +49,9 @@ class ParticleFilter():
             self.particles[i] = Particle(new_particles[i][0], new_particles[i][1], 
                                          new_particles[i][2], 1/self.N)
        
-    def predict(self, u, noizeD):
+    def predict(self, u, noize_dist, noize_rot):
         for i in range(self.N):
-            dist = u[0] + randn()*noizeD
+            dist = u[0] + randn()*noize_dist
             
             self.particles[i].rotation += u[1] + randn()*noize_rot
             self.particles[i].rotation %= 2 * np.pi
@@ -59,11 +59,10 @@ class ParticleFilter():
             self.particles[i].x += np.cos(self.particles[i].rotation) * dist
             self.particles[i].y += np.sin(self.particles[i].rotation) * dist
             
-    def weight(self, norm):
+    def weight(self, norm, noize_sens):
         sum_weight = 0
         distance_s = []
         distance0 = []
-        start_time = time.perf_counter()
         for i in range(self.N):
             distance0.append(dist((self.particles[i].x, self.particles[i].y), (0,0)))
             distance = dist((self.particles[i].x, self.particles[i].y), norm)
@@ -141,17 +140,18 @@ class ParticleFilter():
         self.set_particles(new_particles)
         return new_particles
     
-    def fast_start(self, u, norm, resample_type):
+    def fast_start(self, u, norm, resample_type, noize_dist, noize_rot, noize_sens):
         neff = 0
         sum_weight = 0
         distanc = 0
-        distance = np.zeros((self.N, 4))
+        distance = 0
         
         sum_dist = []
         cumulative_sum = [0]
         summ = 0
+        distance0 = []
         for i in range(self.N):
-            distance0 = []
+            
             #prediction part
             distanc = u[0] + randn()*noize_dist
             #print(self.particles[i].rotation)
@@ -164,26 +164,31 @@ class ParticleFilter():
             self.particles[i].rotation += u[2] + randn()*noize_rot
             self.particles[i].rotation %= 2 * np.pi
             #weight part
-            for j in range(len(landmarks)):
-                distance[i][j] = dist((self.particles[i].x, self.particles[i].y), (landmarks[j]))
+            distance0.append(dist((self.particles[i].x, self.particles[i].y), (0,0)))
+            distance = dist((self.particles[i].x, self.particles[i].y), norm)
+            sum_dist.append(distance0[i] + distance)
+            #for j in range(len(landmarks)):
+            #    distance[i][j] = dist((self.particles[i].x, self.particles[i].y), (landmarks[j]))
+
             
             #sum_dist.append(distance[i]+distance0[i])
         #particles = self.get_particles()
-        coeff = []
-        for i in range(len(norm)):
-            coeff = stats.norm(distance[:,i], noize_sens).pdf(norm[i])
-            #print(coeff[i])
-            for j in range(self.N):
-                self.particles[j].weight *= coeff[j]
-                self.particles[j].weight += 1.e-12
-        for j in range(self.N):
-            sum_weight += self.particles[j].weight
-        #norm = stats.norm(distance0, noize_sens).pdf(sum_dist)
-        #for i in range(self.N):
-        #    self.particles[i].weight *= norm[i]
-        #    self.particles[i].weight += 1.e-12
-        #    sum_weight += self.particles[i].weight
+        # coeff = []
+        # for i in range(len(norm)):
+        #     coeff = stats.norm(distance[:,i], noize_sens).pdf(norm[i])
+        #     for j in range(self.N):
+        #         self.particles[j].weight *= coeff[j]
+        #         self.particles[j].weight += 1.e-12
+        # for j in range(self.N):
+        #     sum_weight += self.particles[j].weight
+
+        norma = stats.norm(distance0, noize_sens).pdf(sum_dist)
+        for i in range(self.N):
+           self.particles[i].weight *= norma[i]
+           self.particles[i].weight += 1.e-12
+           sum_weight += self.particles[i].weight
         #print(self.get_particles())
+        
         for i in range(self.N):
             self.particles[i].weight/=sum_weight
             neff += self.particles[i].weight**.5

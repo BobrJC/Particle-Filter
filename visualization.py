@@ -4,7 +4,7 @@ from bokeh.models import ColumnDataSource, CustomJS, Slider
 from bokeh.layouts import column
 from settings import *
 
-def visualize(Robot_hist, particles_hist, mean_hist, curve = None):
+def visualization(Robot_hist, particles_hist, mean_hist, size_x, size_y, N_p, iterations, curve = None):
 
     pl = figure(plot_width = 800, plot_height = 800, 
                     x_range = (0, size_x), y_range = (0, size_y), 
@@ -44,12 +44,12 @@ def visualize(Robot_hist, particles_hist, mean_hist, curve = None):
     )
     xs = list(map(lambda item: item['X'], Robot_hist.values()))
     ys = list(map(lambda item: item['Y'], Robot_hist.values()))
-    print(type(curve))
+    #print(type(curve))
     if curve is not None:
         pl.line(x = curve[:,0], y = curve[:,1])
     else:
         pl.line(x = xs, y = ys)
-    print(Robot_hist, '\n\n\n\n', mean_hist)
+    #print(Robot_hist, '\n\n\n\n', mean_hist)
     Iter_slider = Slider(start=0, end=iterations, value=0, step=1, title="Iteration")
     callback = CustomJS(args=dict(source_particles=particles_hist, 
                                   source_robot = Robot_hist,
@@ -85,5 +85,5 @@ def visualize(Robot_hist, particles_hist, mean_hist, curve = None):
     Iter_slider.js_on_change('value', callback)
     
     layout = column(Iter_slider, pl)
-    save(layout)
+    #save(layout)
     show(layout)

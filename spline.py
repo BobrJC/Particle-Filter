@@ -2,7 +2,9 @@ import copy
 import math
 import numpy as np
 
-
+p = 2
+n = 10
+points = 1000
 
 def numerical_interpolate(t, degree, points : np.array):
     i = s = l = 0
@@ -42,24 +44,27 @@ def create_curve(p, points, n=10000):
 def generate_points(n):
     return np.array([np.array([i, math.cos(i)]) for i in range(n)])
 
-p = 2
-n = 10
-points = 1000
+
 #Задаются точки для построения Би-сплайна
-po = np.array([np.array([3., 2.]), np.array([4., 7.]), np.array([5., 1.]),
+
+
+def get_curves():
+    
+    po = np.array([np.array([3., 2.]), np.array([4., 7.]), np.array([5., 1.]),
                np.array([6., 6.]), np.array([1., 6.]), np.array([6., 1.]), np.array([3., 1.])])
-curve = create_curve(p, po, points)
+    curve = create_curve(p, po, points)
 
-# eight = np.empty((2, 1000))
-# with open('xs.out', 'r') as f:
-#     a = f.read().split('\n')
-#     a.remove('')
-#     x = list(map(float, a))
+    eight = np.empty((2, 1000))
+    with open('xs.out', 'r') as f:
+        a = f.read().split('\n')
+        x = list(map(float, a))
 
-# with open('ys.out', 'r') as f:
-#     a = f.read().split('\n')
-#     a.remove('')
-#     y = list(map(float, a))
-# eight[1] = x
-# eight[0] = y
-# eight = np.rot90(eight, 3)
+    with open('ys.out', 'r') as f:
+        a = f.read().split('\n')
+        y = list(map(float, a))
+    eight[1] = x
+    eight[0] = y
+    eight = np.rot90(eight, 3)
+
+    
+    return (curve, eight)
