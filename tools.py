@@ -1,4 +1,7 @@
 import math
+import os
+import sys
+import inspect
 
 def angle(a, b):
     sgn = 1
@@ -17,3 +20,18 @@ def get_katets(a, b, length):
 
 def vectors(a, b, c):
     return (b[0] - a[0], b[1] - a[1]), (c[0] - b[0], c[1] - b[1])
+
+
+def get_script_dir(follow_symlinks=True):
+    if getattr(sys, 'frozen', False):
+        path = os.path.abspath(sys.executable)
+    else:
+        path = inspect.getabsfile(get_script_dir)
+    if follow_symlinks:
+        path = os.path.realpath(path)
+    return os.path.dirname(path)
+
+def update_folder(folder_path):
+    script_dir = get_script_dir()
+    if not os.path.exists(script_dir + folder_path):
+        os.mkdir(script_dir + folder_path)

@@ -103,6 +103,14 @@ class ParticleFilter():
         else:
             return self.particles
 
+    def recount_n_weight(self, weights):
+        probs = random(self.N)
+        for i in range(self.N):
+            if probs[i] > self.particles[i].weight:
+                self.particles.pop(i)
+                self.N -= 1
+
+
     def systematic_resample(self):
         if self.neff() < self.N/2:
             new_particles = np.empty((self.N, 3))

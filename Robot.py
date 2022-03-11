@@ -7,7 +7,7 @@ from settings import settings
 
 
 class model():
-    def __init__(self, prob_left, prob_right, max_angle):
+    def __init__(self, prob_left, prob_right, max_angle, speed):
         if prob_left + prob_right > 1.:
             print('Wrong probability data')
         else:
@@ -15,7 +15,11 @@ class model():
             self.prob_right = prob_right
             self.max_angle = max_angle*math.pi/180
             self.prob_forward = 1. - prob_left - prob_right
-    
+            self.speed = speed
+    def get_speed(self):
+        return self.speed
+    def get_name(self):
+        return f'speed{self.speed}'
     def get_next_way(self):
         way = np.searchsorted((self.prob_left, self.prob_right + self.prob_left), random())
         if way == 1:
@@ -29,11 +33,10 @@ class model():
     
 
 class Robot():
-    def __init__(self, x, y, rot, noize_rot, noize_dist, speed = .5, model = None):
+    def __init__(self, x, y, rot, noize_rot, noize_dist, model = None):
         self.x = x
         self.y = y
         self.rotation = rot
-        self.speed = speed
         self.model = model
         self.noize_rot = noize_rot
         self.noize_dist = noize_dist
@@ -49,16 +52,18 @@ class Robot():
         
     def model_move(self, size_x, size_y):
         angle = self.model.get_next_way()
+        old_rot = self.rotation
         self.rotation += angle + randn() * self.noize_rot
         self.rotation %= 2 * np.pi
         
-        self.x += np.cos(self.rotation) * self.speed
-        self.y += np.sin(self.rotation) * self.speed
+        self.x += np.cos(self.rotation) * self.model.get_speed()
+        self.y += np.sin(self.rotation) * self.model.get_speed()
         if self.x > 0 and self.y > 0 and self.x < size_x and self.y < size_y:
             return angle
         else:
-            self.x -= np.cos(self.rotation) * self.speed
-            self.y -= np.sin(self.rotation) * self.speed
+            self.x -= np.cos(self.rotation) * self.model.get_speed()
+            self.y -= np.sin(self.rotation) * self.model.get_speed()
+            self.rotation = old_rot
             return None
         
     def get_coords(self):
@@ -68,7 +73,7 @@ class Robot():
         return self.rotation
     
     def get_speed(self):
-        return self.speed
+        return self.model.get_speed()
     
     def move_on_curve(self, curve, index, prev_index):
         a, b = vectors(curve[prev_index-1], curve[prev_index], curve[index])

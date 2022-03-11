@@ -50,8 +50,8 @@ def generate_points(n):
 
 def get_curves():
     
-    po = np.array([np.array([3., 2.]), np.array([4., 7.]), np.array([5., 1.]),
-               np.array([6., 6.]), np.array([1., 6.]), np.array([6., 1.]), np.array([3., 1.])])
+    po = np.array([np.array([4., 3.]), np.array([5., 8.]), np.array([6., 2.]),
+               np.array([7., 7.]), np.array([2., 7.]), np.array([7., 2.]), np.array([4., 2.])])
     curve = create_curve(p, po, points)
 
     eight = np.empty((2, 1000))
@@ -63,7 +63,9 @@ def get_curves():
         a = f.read().split('\n')
         y = list(map(float, a))
     eight[1] = x
+    eight[1] -= 1
     eight[0] = y
+    eight[0] += 1
     eight = np.rot90(eight, 3)
 
     
