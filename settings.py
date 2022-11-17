@@ -1,24 +1,30 @@
 
 import numpy as np
-
-
+from Particle_filter import ParticleFilter
+# Настройки фреймворка. Задаются режим работы фильтра (строка из списка modes), 
+# тип используемой повторной выборки (метод класса ParticleFilter), 
+# алгоритм адаптации числа частиц (строка из списка change_n), размеры поля по осям x и y (int или float), 
+# шумы перемешения, поворота и измерений (float), число итераций (int), параметр детального вывода (bool), 
+# параметр визуализации результатов (bool), параметр созранения больших значений ошибок (bool).
 settings = {
-    'resample_type' : 'mult',
+    'mode' : 'fast',
+    'resample_type' : ParticleFilter.multinomial_resample,
+    'change_n' : 'KD',
+    'fission': False,
     'size_x' : 10,
     'size_y' : 10,
-    'noize_dist' : 0.1,
-    'noize_rot' : 0.1,
-    'noize_sens' : 0.1,
-    'fast' : True,
-    'iterations' : 12,
     'N_p' : 5000,
-    'fast' : True,
-    'visualize' : True,
+    'noize_dist' : 0.2,
+    'noize_rot' : 0.2,
+    'noize_sens' : 0.2,
+    'iterations' : 12,
     'detail': False,
-    'save_errors': True
+    'visualize' : True,
+    'save_errors': True,
+    'save' : False
 }
-
-resamplings = ['mult', 'strat', 'syst']
+modes = ['normal', 'fast', 'change_n']
+change_n = ['KD', 'KD_2', 'Pna']
+#resamplings = ['syst', 'mult', 'strat']
+test_resamplings = {'strat' : ParticleFilter.stratified_resample, 'syst' : ParticleFilter.systematic_resample, 'mult' : ParticleFilter.multinomial_resample}
 curves = ['curve', 'eight']
-
-landmarks = np.array([[1., 1.], [1., 9.], [9., 1.], [9., 9.]])

@@ -35,7 +35,7 @@ def numerical_interpolate(t, degree, points : np.array):
     return v[s]
 
 
-def create_curve(p, points, n=10000):
+def create_curve(points, p = 2, n=10000):
     ts = np.linspace(0, 1, n)
     curve = np.array([numerical_interpolate(t, p, points) for t in ts])
     
@@ -52,7 +52,7 @@ def get_curves():
     
     po = np.array([np.array([4., 3.]), np.array([5., 8.]), np.array([6., 2.]),
                np.array([7., 7.]), np.array([2., 7.]), np.array([7., 2.]), np.array([4., 2.])])
-    curve = create_curve(p, po, points)
+    curve = create_curve(po, p, points)
 
     eight = np.empty((2, 1000))
     with open('xs.out', 'r') as f:

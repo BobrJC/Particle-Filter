@@ -1,73 +1,102 @@
-import enum
-from importlib.util import spec_from_file_location
-from settings import settings, resamplings, curves
-from sympy import true
+from Particle_filter import ParticleFilter
+import settings
 from main import main
 import numpy as np
 from spline import get_curves
 import time
-import matplotlib.pyplot as plt
-import matplotlib.ticker as ticker
-from copy import copy, deepcopy
+from copy import deepcopy
 from tools import get_script_dir, update_folder
 from Robot import model
 import os
 
-
-def check_errors(N, angle = False, R_model = None):
-    settings_mult = deepcopy(settings)
-    settings_mult['resample_type'] = 'mult'
-    settings_syst = deepcopy(settings)
-    settings_syst['resample_type'] = 'syst'
-    settings_strat = deepcopy(settings)
-    settings_strat['resample_type'] = 'strat'
+# Функция проведения тестов с текущими настройками.
+# Принимает количество повторений теста. Тип данных int. 
+# Опционально принимает модель перемещения робота. Тип - класс model.
+# Возвращает два списка - с усредененными ошибками на каждой итерации и с временем выполнения.
+def check_errors(N, R_model = None, settings = settings.settings, 
+                test_resamplings: dict = settings.test_resamplings, 
+                change_n = settings.change_n, curves = [None]):
     iterations = settings['iterations']
+    test_settings = []
+    err_list = []
+    res_list = []
+    time_arr = []
     if settings['detail']:
         iterations*=2
-    if R_model is None:
-        curves = get_curves()
-    else:
+    if R_model is not None:
         curves = [None]
     iterations+=1
-    
-    err_mult = np.zeros((len(curves), N, iterations))
-    err_strat = np.zeros((len(curves), N, iterations))
-    err_syst = np.zeros((len(curves), N, iterations))
-    res_mult = np.zeros((len(curves), iterations))
-    res_strat = np.zeros((len(curves), iterations))
-    res_syst = np.zeros((len(curves), iterations))
-    if angle:
-        column = 1
-    else:
-        column = 0
+    for type in change_n:
+        for resampling in test_resamplings.values():
+            settings['change_n'] = type
+            settings['resample_type'] = resampling
+            test_settings.append(deepcopy(settings))
+            if settings['change_n'] == None:
+                err_list.append(np.zeros((len(curves), N, iterations)))
+                res_list.append(np.zeros((len(curves), iterations)))
+                time_arr.append(np.zeros((len(curves))))
+            else:
+                err_list.append(np.zeros((len(curves), N, 2, iterations)))
+                res_list.append(np.zeros((len(curves), 2, iterations)))
+                time_arr.append(np.zeros((len(curves))))
     for i, curve in enumerate(curves):
         for test in range(N):
-            err_syst[i][test] = np.asarray(main(settings_syst, curve, R_model))[:,column]
-            err_mult[i][test] = np.asarray(main(settings_mult, curve, R_model))[:,column]
-            err_strat[i][test] = np.asarray(main(settings_strat, curve, R_model))[:,column]
-        res_mult[i] = np.sum(err_mult[i], axis = 0) / N
-        res_strat[i] = np.sum(err_strat[i], axis = 0) / N
-        res_syst[i] = np.sum(err_syst[i], axis = 0) / N
-    return res_mult, res_strat, res_syst
+            for j, setting in enumerate(test_settings):
+                time_start = time.perf_counter()
+                try:
+                    err_list[j][i][test] = np.asarray(main(setting, curve, R_model))
+                except FloatingPointError:
+                    err_list[j][i][test].fill(1)
+                time_end = time.perf_counter()
+                time_arr[j][i] += time_end - time_start
+        for j, res in enumerate(res_list):
+            res_list[j][i] = np.sum(err_list[j][i], axis = 0) / N
+            time_arr[j][i] /= N
+    return res_list, time_arr
 
-def test_curves(N_p_start, N_p_end, N_p_step, N, noize_start, noize_end, noize_step, model = None):
+# Функция задающая параметры тестирования и сохраняющая результаты. 
+# Принимает число частиц для начала диапозона тестирования, для конца диапозона, 
+# шаг изменения числа частиц, число тестирований, шум налача диапозона тестирования, 
+# конца диапозона, шаг изменения шума. тип данных float. 
+# Опционально принимает модель перемещения робота. Тип - класс model.
+# Возвращает список со всеми результатами тестирований.
+def test_curves(N_p_start, N_p_end, N_p_step, N, 
+                noize_start, noize_end, noize_step, 
+                model = None, settings = settings.settings, 
+                test_resamplings = settings.test_resamplings, 
+                change_n = settings.change_n, curves = settings.curves):
+
     result = []
-    preres = []
+    trajectories = []
     index = 0
     script_dir = get_script_dir() 
     update_folder('/tests')
     update_folder(f'/tests/{N}')
     path = rf'{script_dir}/tests/{N}/'
     if model is None:
-        trajectories = curves
+        default_curv = get_curves()
+        for tr in curves:
+            if (tr == default_curv[0]).any():
+                trajectories.append("curve")
+            elif (tr == default_curv[1]).any():
+                trajectories.append("eight")
+            else:
+                trajectories.insert(0, "generated")
     else:
         trajectories = [model.get_name()]
-    for i in resamplings:
-        update_folder(f'/tests/{N}/' + i)
+    if settings['change_n'] != None:
+        resampling_names = []
+        for i in test_resamplings.keys():
+            for j in change_n:
+                resampling_names.append(i + j)
+    else:
+        resampling_names = list(test_resamplings.keys())
+    for i in resampling_names:
+        update_folder(f'/tests/{N}/' + 'New' + i)
         for j in np.arange(noize_start, noize_end, noize_step):
-            update_folder(f'/tests/{N}/' + i + '/' + j.__str__())
+            update_folder(f'/tests/{N}/' + 'New' + i + '/' + str(j))
             for k in trajectories:
-                update_folder(f'/tests/{N}/' + i + '/' + j.__str__() + '/' + k)
+                update_folder(f'/tests/{N}/' + 'New' + i + '/' + str(j) + '/' + k)
     for noize in np.arange(noize_start, noize_end, noize_step):
         settings['noize_rot'] = noize
         settings['noize_dist'] = noize
@@ -77,167 +106,42 @@ def test_curves(N_p_start, N_p_end, N_p_step, N, noize_start, noize_end, noize_s
         for N_p in range(N_p_start, N_p_end, N_p_step):
             settings['N_p'] = N_p
             start_time = time.perf_counter()
-            preres.append(check_errors(N, R_model=model))
-            print(preres)
-            print('not model time:', time.perf_counter() - start_time)
-            for i in range(len(resamplings)):
+            print('sett', settings, 'res ', test_resamplings, 'ch', change_n)
+            preres.append(check_errors(N, R_model=model, settings=settings, test_resamplings=test_resamplings, change_n=change_n, curves=curves))
+            end_time = time.perf_counter() - start_time
+            for i in range(len(resampling_names)):
                 for k in range(len(trajectories)):
-                    cur_path = path + f'{resamplings[i]}/' + f'{noize}/' + f'{trajectories[k]}/' + f'{N_p}'
+                    cur_path = path + f'New{resampling_names[i]}/' + f'{noize}/' + f'{trajectories[k]}/' + f'{N_p}'
+                    if os.path.exists(cur_path):
+                        os.remove(cur_path)
+                    if settings['change_n'] == None:
+                        with open(cur_path, 'a') as f:
+                            for j in range(settings['iterations']):
+                                f.write(f'{preres[index][0][i][k][j + 1]}\n')
+                    else:
+                        cur_path = path + f'New{resampling_names[i]}/' + f'{noize}/' + f'{trajectories[k]}/' + f'{N_p}'
+                        if os.path.exists(cur_path):
+                            os.remove(cur_path)
+                        with open(cur_path, 'a') as f:
+                            for j in range(settings['iterations']):
+                                f.write(f'{preres[index][0][i][k][0][j + 1]}\n')
+                        cur_path = path + f'New{resampling_names[i]}/' + f'{noize}/' + f'{trajectories[k]}/' + f'{N_p}' + '_N'
+                        if os.path.exists(cur_path):
+                            os.remove(cur_path)
+                        with open(cur_path, 'a') as f:
+                            for j in range(settings['iterations']):
+                                f.write(f'{preres[index][0][i][k][1][j + 1]}\n')
+                    cur_path = path + f'New{resampling_names[i]}/' + f'{noize}/' + f'{trajectories[k]}/' + f'{N_p}' + '_time'
                     if os.path.exists(cur_path):
                         os.remove(cur_path)
                     with open(cur_path, 'a') as f:
-                        for j in range(settings['iterations']):
-                            f.write(f'{preres[index][i][k][j + 1]}\n')
+                            f.write(str(preres[index][1][i][k]))
             index+=1
         result.append(preres)
     return result
 
-def test_models_new(N_p_start, N_p_end, N_p_step, N, noize_start, noize_end, noize_step, model):
-    result = []
-    script_dir = get_script_dir() 
-    path = rf"{script_dir}//tests//{N}//models//"
-    noize_n = 0
-    for noize in np.arange(noize_start, noize_end, noize_step):
-        settings['noize_rot'] = noize
-        settings['noize_dist'] = noize
-        settings['noize_sens'] = noize
-        preres = []
-        N_p_n = 0
-        for N_p in range(N_p_start, N_p_end, N_p_step):
-            settings['N_p'] = N_p
-            preres.append([])
-            re = check_errors(N, R_model=model)
-            preres[N_p_n].append(re)
-            for i in range(len(resamplings)):
-                with open(path + f'{resamplings}//' + f'{N_p}' + f'_{resamplings[i]}' + f'_speed{round(model.get_speed(), 1)}', 'a') as f:
-                    for j in range(settings['iterations']):
-                        f.write(f'{preres[noize_n][N_p_n][i][0][j]}\n')
-            N_p_n += 1
-        noize_n += 1
-        result.append(preres)
-
-# def test_models(N_p_start, N_p_end, N_p_step, N, noize_start, noize_end, noize_step, speed_start, speed_end, speed_step):
-#     result = []
-#     preres = []
-#     index = 0
-#     script_dir = get_script_dir() 
-#     path = rf"{script_dir}//tests//{N}//models//"
-#     for noize in np.arange(noize_start, noize_end, noize_step):
-#         settings['noize_rot'] = noize
-#         settings['noize_dist'] = noize
-#         settings['noize_sens'] = noize
-#         preres = []
-#         index = 0
-#         for N_p in range(N_p_start, N_p_end, N_p_step):
-#             preres.append([])
-#             settings['N_p'] = N_p
-#             for speed in np.arange(speed_start, speed_end, speed_step):
-#                 j = 0
-#                 start_time = time.perf_counter()
-#                 preres[index].append(check_errors(N, R_model=model(.4, .4, 180, speed)))
-#                 print('model time:', time.perf_counter() - start_time, 'N_p=', N_p, )
-#                 print(preres[index][j])
-#                 for i in range(len(resamplings)):
-#                     with open(path + f'{round(noize, 2)}//' + f'{N_p}' + f'_{resamplings[i]}' + f'_speed{round(speed, 1)}', 'a') as f:
-#                         for k in range(settings['iterations']):
-#                             f.write(f'{preres[index][j][i][k]}\n')
-#                     j+=1
-#             index+=1
-#         result.append(preres)
-
-def visualize_errors(N, noize, N_p, model = False, speeds = None, save = False, pathh = None):
-    script_dir = get_script_dir() 
-    errors = []
-    path = rf"{script_dir}//tests//{N}//"
-
-    if type(N_p) is not list:
-        if pathh is None:
-            if not model:
-                for i, curve in enumerate(curves):
-                    errors.append([])
-                    for j, resampling in enumerate(resamplings):
-                        with open(path + f'{noize}//' + f'{noize}' + f'_{N_p}' + f'_{resampling}' + f'_{curve}', 'r') as f:
-                            err_list = [float(err.strip()) for err in f]
-                        errors[i].append(err_list)
-            else:
-            
-                for i, resampling in enumerate(resamplings):
-                        errors.append([])
-                        if speeds is not None:
-                            for speed in speeds:
-                                with open(path + 'models//' + f'{noize}//' + f'{N_p}' + f'_{resampling}' + f'_speed{speed}') as f:
-                                    err_list = [float(err.strip()) for err in f]
-                                errors[i].append(err_list)
-        else:
-            print('here')
-            
-            for i, p in enumerate(pathh):
-                errors.append([])
-                print(p)
-                with open(path + p) as f:
-                    errors[i] = [float(err.strip()) for err in f]
-    else:
-        if not model:
-            for i, Np in enumerate(N_p):
-                errors.append([])
-                #for j, resampling in enumerate(resamplings):
-                with open(path + f'{noize}//' + f'{noize}' + f'_{Np}' + '_mult' + '_eight') as f:
-                    err_list = [float(err.strip()) for err in f]
-                errors[i] = err_list
-        else:
-            for i, Np in enumerate(N_p):
-                errors.append([])
-                #for j, resampling in enumerate(resamplings):
-                with open(path + 'models//' + f'{noize}//' + f'{Np}' + '_strat' + '_speed0.5') as f:
-                    err_lis = [float(err.strip()) for err in f]
-                    err_list = []
-                    for j, err in enumerate(err_lis):
-                        err_list.append(err)
-                        if j == 11:
-                            break
-                errors[i] = err_list
-
-        
-    x = np.arange(1, 13)
-    if type(N_p) is not list:
-        if not model and path is None:
-            fig, ax = plt.subplots(1, len(curves))
-            for i in range(len(curves)):
-                for j in range(len(resamplings)):
-                    ax[i].plot(x, errors[i][j], label=resamplings[j])
-                
-                ax[i].legend(prop={'size': 30})
-        elif path is None:
-            fig, ax = plt.subplots(1, len(speeds))
-            for i in range(len(resamplings)):
-                if len(speeds) > 1:
-                    for j in range(len(speeds)):
-                        ax[i].plot(x, errors[i][j], label=resamplings[j])
-                    ax[i].legend()
-                else:
-                    ax.plot(errors[i][0])
-                    ax.legend(prop={'size': 30})
-        else:
-            fig, ax = plt.subplots()
-            for i in range(len(pathh)):
-                ax.plot(x, errors[i], label=noize[i])
-            ax.xaxis.set_major_locator(ticker.MultipleLocator(1))
-            ax.legend(prop={'size': 30})
-    else:
-        fig, ax = plt.subplots()
-        print(errors)
-        for i in range(len(N_p)):
-            ax.plot(x, errors[i], label=f'ПРЧ = {int(N_p[i]/100)}')
-        ax.xaxis.set_major_locator(ticker.MultipleLocator(1))
-        ax.legend(prop={'size': 20})
-
-    fig.set_figwidth(20)
-    fig.set_figheight(15)
-    plt.show()
-
 if __name__ == '__main__':
-    settings['visualize'] = False
-
+    settings.settings['visualize'] = False
     # test_models(500, 3500, 500, 70, .05, .2, .05, .5, 1, .5)
     # start_time = time.perf_counter()
     # test_models(1500, 5000, 500, 70, .05, .2, .05, 1, 2, .5)
@@ -262,9 +166,34 @@ if __name__ == '__main__':
     # visualize_errors(100, 0.1, [i for i in range(3500, 10500, 500)])
     #N_p = [i for i in range(500, 3500, 500)]
     #visualize_errors(100, 0.1, N_p, model=True)
-    
-    # start_time = time.perf_counter()
-    test_curves(2000, 2100, 100, 1, 0.1, 0.2, 0.1, model=model(.4, .4, 180, 2))
+   
+    # models = [model(.4, .4, 180, 1), model(.4, .4, 180, 2), model(.4, .4, 180, 3)]
+    # settingss = []
+    # for j in range(3):
+    #     settingss = settingss + [[i, i+1000, 1000, 1, 0.1, 0.2, 0.1, models[j]] for i in range(1000, 11000, 1000)]
+    # processes = []
+    # time_start = time.perf_counter()
+    # #pool = Pool()
+    # for i in settingss:
+    #     a = Process(target=test_curves, args=[l, k] + i )
+    #     a.start()
+    #     processes.append(a)
+    # for i in processes:
+    #     i.join()
+    # print(time.perf_counter() - time_start)
+   
+   
+
+    test_resamplings = {'mult' : ParticleFilter.multinomial_resample}
+    time_start = time.perf_counter()
+    for i in range(1, 2):
+        test_curves(1000, 1100, 1, 1, 0.1, 0.2, 0.1, model=model(.4, .4, 180, i))
+    print(time.perf_counter() - time_start)
+
+    #pool.close()
+    #pool.join()
+    # start_time = time.perf_counter()True
+    #test_curves(2000, 2100, 100, 1, 0.1, 0.2, 0.1, modeTruel=model(.4, .4, 180, 2))
     #print(check_errors(1))
     # print(time.perf_counter() - start_time)
     # start_time = time.perf_counter()
@@ -272,5 +201,3 @@ if __name__ == '__main__':
     # test_models_new(2000, 2100, 100, 1, 0.5, 0.6, 0.1, model(.4, .4, 180, .5))
     # print(time.perf_counter() - start_time)
     #print(time.perf_counter() - start_time)
-    
-    

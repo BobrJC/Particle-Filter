@@ -63,3 +63,4711 @@ __pycache__/spline.cpython-38.pyc
 __pycache__/tools.cpython-38.pyc
 __pycache__/visualisation.cpython-38.pyc
 BIG_ERRORS2
+.png
+21.png
+22.png
+comp_all_PNA_50.png
+comp_all_PNA_100.png
+comp_dens_KD_2.png
+comp_dens_KD.png
+comp_dens_pna.png
+comp_KD_2.png
+comp_KD.png
+comp_N_50.png
+comp_N_pres.png
+comp_N.png
+comp_PNA.png
+ddip1.png
+ddip2.png
+ddip2.png.png
+ddip3.png
+fission_occ_70.png
+fission_occ_100.png
+fission_occ.png
+KD_2_comp_res.png
+KD_comp_res.png
+KD_problems_2.png
+KD_problems.png
+N_comp_2.png
+N_comp.png
+Newcomp_all_PNA_50.png
+Newcomp_all_PNA_100.png
+Newcomp_dens_KD_2.png
+Newcomp_dens_KD.png
+Newcomp_dens_pna.png
+Newcomp_KD_2.png
+Newcomp_KD.png
+Newcomp_N_50.png
+Newcomp_N.png
+Newcomp_PNA.png
+Newfission_occ_70.png
+Newfission_occ_100.png
+Newfission_occ.png
+NewKD_2_comp_res.png
+NewKD_comp_res.png
+NewKD_problems.png
+NewPna_comp_res.png
+noizes_comp_40.png
+noizes_comp_80_log.png
+noizes_comp_80.png
+Pna_comp_res.png
+pres_1.png
+pres_2.png
+pres_comp_all_PNA_100.png
+pres_comp_KD.png
+pres_comp_N.png
+pres_fission_occ_100.png
+pres_KD_comp_res.png
+pres_KD_problems_2s.png
+pres_noizes_comp_40.png
+pres_speed_comp.png
+source_code.zip
+speed_comp_log.png
+speed_comp.png
+text_comp_all_PNA_50.png
+text_comp_all_PNA_100.png
+text_comp_dens_KD_2.png
+text_comp_dens_KD.png
+text_comp_dens_pna.png
+text_comp_KD_2.png
+text_comp_KD.png
+text_comp_N_50.png
+text_comp_N.png
+text_comp_PNA.png
+text_KD_2_comp_res.png
+text_KD_comp_res.png
+text_N_comp_2.png
+text_N_comp.png
+text_Pna_comp_res.png
+text_speed_comp.png
+tests.html
+PF_KDA_DIST.html
+main.html
+xs.out
+ys.out
+z_comp_KD.png
+z_KD_2_comp_res.png
+z_KD_comp_res.png
+Исходники.zip
+рис1.png
+рис2.png
+рис11.png
+рис22.png
+рис222.png
+__pycache__/Partucle_filter.cpython-38.pyc
+__pycache__/Robot.cpython-38.pyc
+__pycache__/settings.cpython-38.pyc
+__pycache__/spline.cpython-38.pyc
+__pycache__/tools.cpython-38.pyc
+__pycache__/visualisation.cpython-38.pyc
+tests/1/multKD/0.1/speed1/1000
+tests/1/multKD/0.1/speed1/1000_N
+tests/1/multKD/0.1/speed1/1000_time
+tests/1/multKD/0.1/speed1/2000
+tests/1/multKD/0.1/speed1/2000_N
+tests/1/multKD/0.1/speed1/2000_time
+tests/1/multKD/0.1/speed1/3000
+tests/1/multKD/0.1/speed1/3000_N
+tests/1/multKD/0.1/speed1/3000_time
+tests/1/multKD/0.1/speed1/4000
+tests/1/multKD/0.1/speed1/4000_N
+tests/1/multKD/0.1/speed1/4000_time
+tests/1/multKD/0.1/speed1/5000
+tests/1/multKD/0.1/speed1/5000_fission
+tests/1/multKD/0.1/speed1/5000_fission_N
+tests/1/multKD/0.1/speed1/5000_fission_time
+tests/1/multKD/0.1/speed1/5000_N
+tests/1/multKD/0.1/speed1/5000_time
+tests/1/multKD/0.1/speed1/6000
+tests/1/multKD/0.1/speed1/6000_fission
+tests/1/multKD/0.1/speed1/6000_fission_N
+tests/1/multKD/0.1/speed1/6000_fission_time
+tests/1/multKD/0.1/speed1/6000_N
+tests/1/multKD/0.1/speed1/6000_time
+tests/1/multKD/0.1/speed1/7000
+tests/1/multKD/0.1/speed1/7000_fission
+tests/1/multKD/0.1/speed1/7000_fission_N
+tests/1/multKD/0.1/speed1/7000_fission_time
+tests/1/multKD/0.1/speed1/7000_N
+tests/1/multKD/0.1/speed1/7000_time
+tests/1/multKD/0.1/speed1/8000
+tests/1/multKD/0.1/speed1/8000_fission
+tests/1/multKD/0.1/speed1/8000_fission_N
+tests/1/multKD/0.1/speed1/8000_fission_time
+tests/1/multKD/0.1/speed1/8000_N
+tests/1/multKD/0.1/speed1/8000_time
+tests/1/multKD/0.1/speed1/9000
+tests/1/multKD/0.1/speed1/9000_fission
+tests/1/multKD/0.1/speed1/9000_fission_N
+tests/1/multKD/0.1/speed1/9000_fission_time
+tests/1/multKD/0.1/speed1/9000_N
+tests/1/multKD/0.1/speed1/9000_time
+tests/1/multKD/0.1/speed1/10000
+tests/1/multKD/0.1/speed1/10000_fission
+tests/1/multKD/0.1/speed1/10000_fission_N
+tests/1/multKD/0.1/speed1/10000_fission_time
+tests/1/multKD/0.1/speed1/10000_N
+tests/1/multKD/0.1/speed1/10000_time
+tests/1/multKD/0.1/speed1/11000
+tests/1/multKD/0.1/speed1/11000_N
+tests/1/multKD/0.1/speed1/11000_time
+tests/1/multKD/0.1/speed1/12000
+tests/1/multKD/0.1/speed1/12000_N
+tests/1/multKD/0.1/speed1/12000_time
+tests/1/multKD/0.1/speed1/13000
+tests/1/multKD/0.1/speed1/13000_N
+tests/1/multKD/0.1/speed1/13000_time
+tests/1/multKD/0.1/speed1/14000
+tests/1/multKD/0.1/speed1/14000_N
+tests/1/multKD/0.1/speed1/14000_time
+tests/1/multKD/0.1/speed1/15000
+tests/1/multKD/0.1/speed1/15000_N
+tests/1/multKD/0.1/speed1/15000_time
+tests/1/multKD/0.1/speed2/1000
+tests/1/multKD/0.1/speed2/1000_N
+tests/1/multKD/0.1/speed2/1000_time
+tests/1/multKD/0.1/speed2/2000
+tests/1/multKD/0.1/speed2/2000_N
+tests/1/multKD/0.1/speed2/2000_time
+tests/1/multKD/0.1/speed2/3000
+tests/1/multKD/0.1/speed2/3000_N
+tests/1/multKD/0.1/speed2/3000_time
+tests/1/multKD/0.1/speed2/4000
+tests/1/multKD/0.1/speed2/4000_N
+tests/1/multKD/0.1/speed2/4000_time
+tests/1/multKD/0.1/speed2/5000
+tests/1/multKD/0.1/speed2/5000_fission
+tests/1/multKD/0.1/speed2/5000_fission_N
+tests/1/multKD/0.1/speed2/5000_fission_time
+tests/1/multKD/0.1/speed2/5000_N
+tests/1/multKD/0.1/speed2/5000_time
+tests/1/multKD/0.1/speed2/6000
+tests/1/multKD/0.1/speed2/6000_fission
+tests/1/multKD/0.1/speed2/6000_fission_N
+tests/1/multKD/0.1/speed2/6000_fission_time
+tests/1/multKD/0.1/speed2/6000_N
+tests/1/multKD/0.1/speed2/6000_time
+tests/1/multKD/0.1/speed2/7000
+tests/1/multKD/0.1/speed2/7000_fission
+tests/1/multKD/0.1/speed2/7000_fission_N
+tests/1/multKD/0.1/speed2/7000_fission_time
+tests/1/multKD/0.1/speed2/7000_N
+tests/1/multKD/0.1/speed2/7000_time
+tests/1/multKD/0.1/speed2/8000
+tests/1/multKD/0.1/speed2/8000_fission
+tests/1/multKD/0.1/speed2/8000_fission_N
+tests/1/multKD/0.1/speed2/8000_fission_time
+tests/1/multKD/0.1/speed2/8000_N
+tests/1/multKD/0.1/speed2/8000_time
+tests/1/multKD/0.1/speed2/9000
+tests/1/multKD/0.1/speed2/9000_fission
+tests/1/multKD/0.1/speed2/9000_fission_N
+tests/1/multKD/0.1/speed2/9000_fission_time
+tests/1/multKD/0.1/speed2/9000_N
+tests/1/multKD/0.1/speed2/9000_time
+tests/1/multKD/0.1/speed2/10000
+tests/1/multKD/0.1/speed2/10000_fission
+tests/1/multKD/0.1/speed2/10000_fission_N
+tests/1/multKD/0.1/speed2/10000_fission_time
+tests/1/multKD/0.1/speed2/10000_N
+tests/1/multKD/0.1/speed2/10000_time
+tests/1/multKD/0.1/speed2/11000
+tests/1/multKD/0.1/speed2/11000_N
+tests/1/multKD/0.1/speed2/11000_time
+tests/1/multKD/0.1/speed2/12000
+tests/1/multKD/0.1/speed2/12000_N
+tests/1/multKD/0.1/speed2/12000_time
+tests/1/multKD/0.1/speed2/13000
+tests/1/multKD/0.1/speed2/13000_N
+tests/1/multKD/0.1/speed2/13000_time
+tests/1/multKD/0.1/speed2/14000
+tests/1/multKD/0.1/speed2/14000_N
+tests/1/multKD/0.1/speed2/14000_time
+tests/1/multKD/0.1/speed2/15000
+tests/1/multKD/0.1/speed2/15000_N
+tests/1/multKD/0.1/speed2/15000_time
+tests/1/multKD/0.2/speed1/1000
+tests/1/multKD/0.2/speed1/1000_N
+tests/1/multKD/0.2/speed1/1000_time
+tests/1/multKD/0.2/speed1/2000
+tests/1/multKD/0.2/speed1/2000_N
+tests/1/multKD/0.2/speed1/2000_time
+tests/1/multKD/0.2/speed1/3000
+tests/1/multKD/0.2/speed1/3000_N
+tests/1/multKD/0.2/speed1/3000_time
+tests/1/multKD/0.2/speed1/4000
+tests/1/multKD/0.2/speed1/4000_N
+tests/1/multKD/0.2/speed1/4000_time
+tests/1/multKD/0.2/speed1/5000
+tests/1/multKD/0.2/speed1/5000_N
+tests/1/multKD/0.2/speed1/5000_time
+tests/1/multKD/0.2/speed1/6000
+tests/1/multKD/0.2/speed1/6000_N
+tests/1/multKD/0.2/speed1/6000_time
+tests/1/multKD/0.2/speed1/7000
+tests/1/multKD/0.2/speed1/7000_N
+tests/1/multKD/0.2/speed1/7000_time
+tests/1/multKD/0.2/speed1/8000
+tests/1/multKD/0.2/speed1/8000_N
+tests/1/multKD/0.2/speed1/8000_time
+tests/1/multKD/0.2/speed1/9000
+tests/1/multKD/0.2/speed1/9000_N
+tests/1/multKD/0.2/speed1/9000_time
+tests/1/multKD/0.2/speed1/10000
+tests/1/multKD/0.2/speed1/10000_N
+tests/1/multKD/0.2/speed1/10000_time
+tests/1/multKD/0.2/speed1/11000
+tests/1/multKD/0.2/speed1/11000_N
+tests/1/multKD/0.2/speed1/11000_time
+tests/1/multKD/0.2/speed1/12000
+tests/1/multKD/0.2/speed1/12000_N
+tests/1/multKD/0.2/speed1/12000_time
+tests/1/multKD/0.2/speed1/13000
+tests/1/multKD/0.2/speed1/13000_N
+tests/1/multKD/0.2/speed1/13000_time
+tests/1/multKD/0.2/speed1/14000
+tests/1/multKD/0.2/speed1/14000_N
+tests/1/multKD/0.2/speed1/14000_time
+tests/1/multKD/0.2/speed1/15000
+tests/1/multKD/0.2/speed1/15000_N
+tests/1/multKD/0.2/speed1/15000_time
+tests/1/multKD/0.2/speed2/1000
+tests/1/multKD/0.2/speed2/1000_N
+tests/1/multKD/0.2/speed2/1000_time
+tests/1/multKD_2/0.1/speed1/1000
+tests/1/multKD_2/0.1/speed1/1000_N
+tests/1/multKD_2/0.1/speed1/1000_time
+tests/1/multKD_2/0.1/speed1/2000
+tests/1/multKD_2/0.1/speed1/2000_N
+tests/1/multKD_2/0.1/speed1/2000_time
+tests/1/multKD_2/0.1/speed1/3000
+tests/1/multKD_2/0.1/speed1/3000_N
+tests/1/multKD_2/0.1/speed1/3000_time
+tests/1/multKD_2/0.1/speed1/4000
+tests/1/multKD_2/0.1/speed1/4000_N
+tests/1/multKD_2/0.1/speed1/4000_time
+tests/1/multKD_2/0.1/speed1/5000
+tests/1/multKD_2/0.1/speed1/5000_N
+tests/1/multKD_2/0.1/speed1/5000_time
+tests/1/multKD_2/0.1/speed1/6000
+tests/1/multKD_2/0.1/speed1/6000_N
+tests/1/multKD_2/0.1/speed1/6000_time
+tests/1/multKD_2/0.1/speed1/7000
+tests/1/multKD_2/0.1/speed1/7000_N
+tests/1/multKD_2/0.1/speed1/7000_time
+tests/1/multKD_2/0.1/speed1/8000
+tests/1/multKD_2/0.1/speed1/8000_N
+tests/1/multKD_2/0.1/speed1/8000_time
+tests/1/multKD_2/0.1/speed1/9000
+tests/1/multKD_2/0.1/speed1/9000_N
+tests/1/multKD_2/0.1/speed1/9000_time
+tests/1/multKD_2/0.1/speed1/10000
+tests/1/multKD_2/0.1/speed1/10000_N
+tests/1/multKD_2/0.1/speed1/10000_time
+tests/1/multKD_2/0.1/speed1/11000
+tests/1/multKD_2/0.1/speed1/11000_N
+tests/1/multKD_2/0.1/speed1/11000_time
+tests/1/multKD_2/0.1/speed1/12000
+tests/1/multKD_2/0.1/speed1/12000_N
+tests/1/multKD_2/0.1/speed1/12000_time
+tests/1/multKD_2/0.1/speed1/13000
+tests/1/multKD_2/0.1/speed1/13000_N
+tests/1/multKD_2/0.1/speed1/13000_time
+tests/1/multKD_2/0.1/speed1/14000
+tests/1/multKD_2/0.1/speed1/14000_N
+tests/1/multKD_2/0.1/speed1/14000_time
+tests/1/multKD_2/0.1/speed1/15000
+tests/1/multKD_2/0.1/speed1/15000_N
+tests/1/multKD_2/0.1/speed1/15000_time
+tests/1/multKD_2/0.1/speed2/1000
+tests/1/multKD_2/0.1/speed2/1000_N
+tests/1/multKD_2/0.1/speed2/1000_time
+tests/1/multKD_2/0.1/speed2/2000
+tests/1/multKD_2/0.1/speed2/2000_N
+tests/1/multKD_2/0.1/speed2/2000_time
+tests/1/multKD_2/0.1/speed2/3000
+tests/1/multKD_2/0.1/speed2/3000_N
+tests/1/multKD_2/0.1/speed2/3000_time
+tests/1/multKD_2/0.1/speed2/4000
+tests/1/multKD_2/0.1/speed2/4000_N
+tests/1/multKD_2/0.1/speed2/4000_time
+tests/1/multKD_2/0.1/speed2/5000
+tests/1/multKD_2/0.1/speed2/5000_N
+tests/1/multKD_2/0.1/speed2/5000_time
+tests/1/multKD_2/0.1/speed2/6000
+tests/1/multKD_2/0.1/speed2/6000_N
+tests/1/multKD_2/0.1/speed2/6000_time
+tests/1/multKD_2/0.1/speed2/7000
+tests/1/multKD_2/0.1/speed2/7000_N
+tests/1/multKD_2/0.1/speed2/7000_time
+tests/1/multKD_2/0.1/speed2/8000
+tests/1/multKD_2/0.1/speed2/8000_N
+tests/1/multKD_2/0.1/speed2/8000_time
+tests/1/multKD_2/0.1/speed2/9000
+tests/1/multKD_2/0.1/speed2/9000_N
+tests/1/multKD_2/0.1/speed2/9000_time
+tests/1/multKD_2/0.1/speed2/10000
+tests/1/multKD_2/0.1/speed2/10000_N
+tests/1/multKD_2/0.1/speed2/10000_time
+tests/1/multKD_2/0.1/speed2/11000
+tests/1/multKD_2/0.1/speed2/11000_N
+tests/1/multKD_2/0.1/speed2/11000_time
+tests/1/multKD_2/0.1/speed2/12000
+tests/1/multKD_2/0.1/speed2/12000_N
+tests/1/multKD_2/0.1/speed2/12000_time
+tests/1/multKD_2/0.1/speed2/13000
+tests/1/multKD_2/0.1/speed2/13000_N
+tests/1/multKD_2/0.1/speed2/13000_time
+tests/1/multKD_2/0.1/speed2/14000
+tests/1/multKD_2/0.1/speed2/14000_N
+tests/1/multKD_2/0.1/speed2/14000_time
+tests/1/multKD_2/0.1/speed2/15000
+tests/1/multKD_2/0.1/speed2/15000_N
+tests/1/multKD_2/0.1/speed2/15000_time
+tests/1/multKD_2/0.2/speed1/1000
+tests/1/multKD_2/0.2/speed1/1000_N
+tests/1/multKD_2/0.2/speed1/1000_time
+tests/1/multKD_2/0.2/speed1/2000
+tests/1/multKD_2/0.2/speed1/2000_N
+tests/1/multKD_2/0.2/speed1/2000_time
+tests/1/multKD_2/0.2/speed1/3000
+tests/1/multKD_2/0.2/speed1/3000_N
+tests/1/multKD_2/0.2/speed1/3000_time
+tests/1/multKD_2/0.2/speed1/4000
+tests/1/multKD_2/0.2/speed1/4000_N
+tests/1/multKD_2/0.2/speed1/4000_time
+tests/1/multKD_2/0.2/speed1/5000
+tests/1/multKD_2/0.2/speed1/5000_N
+tests/1/multKD_2/0.2/speed1/5000_time
+tests/1/multKD_2/0.2/speed1/6000
+tests/1/multKD_2/0.2/speed1/6000_N
+tests/1/multKD_2/0.2/speed1/6000_time
+tests/1/multKD_2/0.2/speed1/7000
+tests/1/multKD_2/0.2/speed1/7000_N
+tests/1/multKD_2/0.2/speed1/7000_time
+tests/1/multKD_2/0.2/speed1/8000
+tests/1/multKD_2/0.2/speed1/8000_N
+tests/1/multKD_2/0.2/speed1/8000_time
+tests/1/multKD_2/0.2/speed1/9000
+tests/1/multKD_2/0.2/speed1/9000_N
+tests/1/multKD_2/0.2/speed1/9000_time
+tests/1/multKD_2/0.2/speed1/10000
+tests/1/multKD_2/0.2/speed1/10000_N
+tests/1/multKD_2/0.2/speed1/10000_time
+tests/1/multKD_2/0.2/speed1/11000
+tests/1/multKD_2/0.2/speed1/11000_N
+tests/1/multKD_2/0.2/speed1/11000_time
+tests/1/multKD_2/0.2/speed1/12000
+tests/1/multKD_2/0.2/speed1/12000_N
+tests/1/multKD_2/0.2/speed1/12000_time
+tests/1/multKD_2/0.2/speed1/13000
+tests/1/multKD_2/0.2/speed1/13000_N
+tests/1/multKD_2/0.2/speed1/13000_time
+tests/1/multKD_2/0.2/speed1/14000
+tests/1/multKD_2/0.2/speed1/14000_N
+tests/1/multKD_2/0.2/speed1/14000_time
+tests/1/multKD_2/0.2/speed1/15000
+tests/1/multKD_2/0.2/speed1/15000_N
+tests/1/multKD_2/0.2/speed1/15000_time
+tests/1/multKD_2/0.2/speed2/1000
+tests/1/multKD_2/0.2/speed2/1000_N
+tests/1/multKD_2/0.2/speed2/1000_time
+tests/1/multPna/0.1/speed1/1000
+tests/1/multPna/0.1/speed1/1000_N
+tests/1/multPna/0.1/speed1/1000_time
+tests/1/multPna/0.1/speed1/2000
+tests/1/multPna/0.1/speed1/2000_N
+tests/1/multPna/0.1/speed1/2000_time
+tests/1/multPna/0.1/speed1/3000
+tests/1/multPna/0.1/speed1/3000_N
+tests/1/multPna/0.1/speed1/3000_time
+tests/1/multPna/0.1/speed1/4000
+tests/1/multPna/0.1/speed1/4000_N
+tests/1/multPna/0.1/speed1/4000_time
+tests/1/multPna/0.1/speed1/5000
+tests/1/multPna/0.1/speed1/5000_N
+tests/1/multPna/0.1/speed1/5000_time
+tests/1/multPna/0.1/speed1/6000
+tests/1/multPna/0.1/speed1/6000_N
+tests/1/multPna/0.1/speed1/6000_time
+tests/1/multPna/0.1/speed1/7000
+tests/1/multPna/0.1/speed1/7000_N
+tests/1/multPna/0.1/speed1/7000_time
+tests/1/multPna/0.1/speed1/8000
+tests/1/multPna/0.1/speed1/8000_N
+tests/1/multPna/0.1/speed1/8000_time
+tests/1/multPna/0.1/speed1/9000
+tests/1/multPna/0.1/speed1/9000_N
+tests/1/multPna/0.1/speed1/9000_time
+tests/1/multPna/0.1/speed1/10000
+tests/1/multPna/0.1/speed1/10000_N
+tests/1/multPna/0.1/speed1/10000_time
+tests/1/multPna/0.1/speed1/11000
+tests/1/multPna/0.1/speed1/11000_N
+tests/1/multPna/0.1/speed1/11000_time
+tests/1/multPna/0.1/speed1/12000
+tests/1/multPna/0.1/speed1/12000_N
+tests/1/multPna/0.1/speed1/12000_time
+tests/1/multPna/0.1/speed1/13000
+tests/1/multPna/0.1/speed1/13000_N
+tests/1/multPna/0.1/speed1/13000_time
+tests/1/multPna/0.1/speed1/14000
+tests/1/multPna/0.1/speed1/14000_N
+tests/1/multPna/0.1/speed1/14000_time
+tests/1/multPna/0.1/speed1/15000
+tests/1/multPna/0.1/speed1/15000_N
+tests/1/multPna/0.1/speed1/15000_time
+tests/1/multPna/0.1/speed2/1000
+tests/1/multPna/0.1/speed2/1000_N
+tests/1/multPna/0.1/speed2/1000_time
+tests/1/multPna/0.1/speed2/2000
+tests/1/multPna/0.1/speed2/2000_N
+tests/1/multPna/0.1/speed2/2000_time
+tests/1/multPna/0.1/speed2/3000
+tests/1/multPna/0.1/speed2/3000_N
+tests/1/multPna/0.1/speed2/3000_time
+tests/1/multPna/0.1/speed2/4000
+tests/1/multPna/0.1/speed2/4000_N
+tests/1/multPna/0.1/speed2/4000_time
+tests/1/multPna/0.1/speed2/5000
+tests/1/multPna/0.1/speed2/5000_N
+tests/1/multPna/0.1/speed2/5000_time
+tests/1/multPna/0.1/speed2/6000
+tests/1/multPna/0.1/speed2/6000_N
+tests/1/multPna/0.1/speed2/6000_time
+tests/1/multPna/0.1/speed2/7000
+tests/1/multPna/0.1/speed2/7000_N
+tests/1/multPna/0.1/speed2/7000_time
+tests/1/multPna/0.1/speed2/8000
+tests/1/multPna/0.1/speed2/8000_N
+tests/1/multPna/0.1/speed2/8000_time
+tests/1/multPna/0.1/speed2/9000
+tests/1/multPna/0.1/speed2/9000_N
+tests/1/multPna/0.1/speed2/9000_time
+tests/1/multPna/0.1/speed2/10000
+tests/1/multPna/0.1/speed2/10000_N
+tests/1/multPna/0.1/speed2/10000_time
+tests/1/multPna/0.1/speed2/11000
+tests/1/multPna/0.1/speed2/11000_N
+tests/1/multPna/0.1/speed2/11000_time
+tests/1/multPna/0.1/speed2/12000
+tests/1/multPna/0.1/speed2/12000_N
+tests/1/multPna/0.1/speed2/12000_time
+tests/1/multPna/0.1/speed2/13000
+tests/1/multPna/0.1/speed2/13000_N
+tests/1/multPna/0.1/speed2/13000_time
+tests/1/multPna/0.1/speed2/14000
+tests/1/multPna/0.1/speed2/14000_N
+tests/1/multPna/0.1/speed2/14000_time
+tests/1/multPna/0.1/speed2/15000
+tests/1/multPna/0.1/speed2/15000_N
+tests/1/multPna/0.1/speed2/15000_time
+tests/1/multPna/0.2/speed1/1000
+tests/1/multPna/0.2/speed1/1000_N
+tests/1/multPna/0.2/speed1/1000_time
+tests/1/multPna/0.2/speed1/2000
+tests/1/multPna/0.2/speed1/2000_N
+tests/1/multPna/0.2/speed1/2000_time
+tests/1/multPna/0.2/speed1/3000
+tests/1/multPna/0.2/speed1/3000_N
+tests/1/multPna/0.2/speed1/3000_time
+tests/1/multPna/0.2/speed1/4000
+tests/1/multPna/0.2/speed1/4000_N
+tests/1/multPna/0.2/speed1/4000_time
+tests/1/multPna/0.2/speed1/5000
+tests/1/multPna/0.2/speed1/5000_N
+tests/1/multPna/0.2/speed1/5000_time
+tests/1/multPna/0.2/speed1/6000
+tests/1/multPna/0.2/speed1/6000_N
+tests/1/multPna/0.2/speed1/6000_time
+tests/1/multPna/0.2/speed1/7000
+tests/1/multPna/0.2/speed1/7000_N
+tests/1/multPna/0.2/speed1/7000_time
+tests/1/multPna/0.2/speed1/8000
+tests/1/multPna/0.2/speed1/8000_N
+tests/1/multPna/0.2/speed1/8000_time
+tests/1/multPna/0.2/speed1/9000
+tests/1/multPna/0.2/speed1/9000_N
+tests/1/multPna/0.2/speed1/9000_time
+tests/1/multPna/0.2/speed1/10000
+tests/1/multPna/0.2/speed1/10000_N
+tests/1/multPna/0.2/speed1/10000_time
+tests/1/multPna/0.2/speed1/11000
+tests/1/multPna/0.2/speed1/11000_N
+tests/1/multPna/0.2/speed1/11000_time
+tests/1/multPna/0.2/speed1/12000
+tests/1/multPna/0.2/speed1/12000_N
+tests/1/multPna/0.2/speed1/12000_time
+tests/1/multPna/0.2/speed1/13000
+tests/1/multPna/0.2/speed1/13000_N
+tests/1/multPna/0.2/speed1/13000_time
+tests/1/multPna/0.2/speed1/14000
+tests/1/multPna/0.2/speed1/14000_N
+tests/1/multPna/0.2/speed1/14000_time
+tests/1/multPna/0.2/speed1/15000
+tests/1/multPna/0.2/speed1/15000_N
+tests/1/multPna/0.2/speed1/15000_time
+tests/1/multPna/0.2/speed2/1000
+tests/1/multPna/0.2/speed2/1000_N
+tests/1/multPna/0.2/speed2/1000_time
+tests/1/NewmultKD/0.1/speed1/5000_fission
+tests/1/NewmultKD/0.1/speed1/5000_fission_N
+tests/1/NewmultKD/0.1/speed1/5000_fission_time
+tests/1/NewmultKD/0.1/speed1/6000_fission
+tests/1/NewmultKD/0.1/speed1/6000_fission_N
+tests/1/NewmultKD/0.1/speed1/6000_fission_time
+tests/1/NewmultKD/0.1/speed1/7000_fission
+tests/1/NewmultKD/0.1/speed1/7000_fission_N
+tests/1/NewmultKD/0.1/speed1/7000_fission_time
+tests/1/NewmultKD/0.1/speed1/8000_fission
+tests/1/NewmultKD/0.1/speed1/8000_fission_N
+tests/1/NewmultKD/0.1/speed1/8000_fission_time
+tests/1/NewmultKD/0.1/speed1/9000_fission
+tests/1/NewmultKD/0.1/speed1/9000_fission_N
+tests/1/NewmultKD/0.1/speed1/9000_fission_time
+tests/1/NewmultKD/0.1/speed1/10000_fission
+tests/1/NewmultKD/0.1/speed1/10000_fission_N
+tests/1/NewmultKD/0.1/speed1/10000_fission_time
+tests/1/NewmultKD/0.1/speed2/5000_fission
+tests/1/NewmultKD/0.1/speed2/5000_fission_N
+tests/1/NewmultKD/0.1/speed2/5000_fission_time
+tests/1/NewmultKD/0.1/speed2/6000_fission
+tests/1/NewmultKD/0.1/speed2/6000_fission_N
+tests/1/NewmultKD/0.1/speed2/6000_fission_time
+tests/1/NewmultKD/0.1/speed2/7000_fission
+tests/1/NewmultKD/0.1/speed2/7000_fission_N
+tests/1/NewmultKD/0.1/speed2/7000_fission_time
+tests/1/NewmultKD/0.1/speed2/8000_fission
+tests/1/NewmultKD/0.1/speed2/8000_fission_N
+tests/1/NewmultKD/0.1/speed2/8000_fission_time
+tests/1/NewmultKD/0.1/speed2/9000_fission
+tests/1/NewmultKD/0.1/speed2/9000_fission_N
+tests/1/NewmultKD/0.1/speed2/9000_fission_time
+tests/1/NewmultKD/0.1/speed2/10000_fission
+tests/1/NewmultKD/0.1/speed2/10000_fission_N
+tests/1/NewmultKD/0.1/speed2/10000_fission_time
+tests/1/NewmultKD/0.1/speed3/5000_fission
+tests/1/NewmultKD/0.1/speed3/5000_fission_N
+tests/1/NewmultKD/0.1/speed3/5000_fission_time
+tests/1/NewmultKD/0.1/speed3/6000_fission
+tests/1/NewmultKD/0.1/speed3/6000_fission_N
+tests/1/NewmultKD/0.1/speed3/6000_fission_time
+tests/1/NewmultKD/0.1/speed3/7000_fission
+tests/1/NewmultKD/0.1/speed3/7000_fission_N
+tests/1/NewmultKD/0.1/speed3/7000_fission_time
+tests/1/NewmultKD/0.1/speed3/8000_fission
+tests/1/NewmultKD/0.1/speed3/8000_fission_N
+tests/1/NewmultKD/0.1/speed3/8000_fission_time
+tests/1/NewmultKD/0.1/speed3/9000_fission
+tests/1/NewmultKD/0.1/speed3/9000_fission_N
+tests/1/NewmultKD/0.1/speed3/9000_fission_time
+tests/1/NewmultKD/0.1/speed3/10000_fission
+tests/1/NewmultKD/0.1/speed3/10000_fission_N
+tests/1/NewmultKD/0.1/speed3/10000_fission_time
+tests/1/NewstratKD/0.1/speed1/5000_fission
+tests/1/NewstratKD/0.1/speed1/5000_fission_N
+tests/1/NewstratKD/0.1/speed1/5000_fission_time
+tests/1/NewstratKD/0.1/speed1/6000_fission
+tests/1/NewstratKD/0.1/speed1/6000_fission_N
+tests/1/NewstratKD/0.1/speed1/6000_fission_time
+tests/1/NewstratKD/0.1/speed1/7000_fission
+tests/1/NewstratKD/0.1/speed1/7000_fission_N
+tests/1/NewstratKD/0.1/speed1/7000_fission_time
+tests/1/NewstratKD/0.1/speed1/8000_fission
+tests/1/NewstratKD/0.1/speed1/8000_fission_N
+tests/1/NewstratKD/0.1/speed1/8000_fission_time
+tests/1/NewstratKD/0.1/speed1/9000_fission
+tests/1/NewstratKD/0.1/speed1/9000_fission_N
+tests/1/NewstratKD/0.1/speed1/9000_fission_time
+tests/1/NewstratKD/0.1/speed1/10000_fission
+tests/1/NewstratKD/0.1/speed1/10000_fission_N
+tests/1/NewstratKD/0.1/speed1/10000_fission_time
+tests/1/NewstratKD/0.1/speed2/5000_fission
+tests/1/NewstratKD/0.1/speed2/5000_fission_N
+tests/1/NewstratKD/0.1/speed2/5000_fission_time
+tests/1/NewstratKD/0.1/speed2/6000_fission
+tests/1/NewstratKD/0.1/speed2/6000_fission_N
+tests/1/NewstratKD/0.1/speed2/6000_fission_time
+tests/1/NewstratKD/0.1/speed2/7000_fission
+tests/1/NewstratKD/0.1/speed2/7000_fission_N
+tests/1/NewstratKD/0.1/speed2/7000_fission_time
+tests/1/NewstratKD/0.1/speed2/8000_fission
+tests/1/NewstratKD/0.1/speed2/8000_fission_N
+tests/1/NewstratKD/0.1/speed2/8000_fission_time
+tests/1/NewstratKD/0.1/speed2/9000_fission
+tests/1/NewstratKD/0.1/speed2/9000_fission_N
+tests/1/NewstratKD/0.1/speed2/9000_fission_time
+tests/1/NewstratKD/0.1/speed2/10000_fission
+tests/1/NewstratKD/0.1/speed2/10000_fission_N
+tests/1/NewstratKD/0.1/speed2/10000_fission_time
+tests/1/NewstratKD/0.1/speed3/5000_fission
+tests/1/NewstratKD/0.1/speed3/5000_fission_N
+tests/1/NewstratKD/0.1/speed3/5000_fission_time
+tests/1/NewstratKD/0.1/speed3/6000_fission
+tests/1/NewstratKD/0.1/speed3/6000_fission_N
+tests/1/NewstratKD/0.1/speed3/6000_fission_time
+tests/1/NewstratKD/0.1/speed3/7000_fission
+tests/1/NewstratKD/0.1/speed3/7000_fission_N
+tests/1/NewstratKD/0.1/speed3/7000_fission_time
+tests/1/NewstratKD/0.1/speed3/8000_fission
+tests/1/NewstratKD/0.1/speed3/8000_fission_N
+tests/1/NewstratKD/0.1/speed3/8000_fission_time
+tests/1/NewstratKD/0.1/speed3/9000_fission
+tests/1/NewstratKD/0.1/speed3/9000_fission_N
+tests/1/NewstratKD/0.1/speed3/9000_fission_time
+tests/1/NewstratKD/0.1/speed3/10000_fission
+tests/1/NewstratKD/0.1/speed3/10000_fission_N
+tests/1/NewstratKD/0.1/speed3/10000_fission_time
+tests/1/NewsystKD/0.1/speed1/5000_fission
+tests/1/NewsystKD/0.1/speed1/5000_fission_N
+tests/1/NewsystKD/0.1/speed1/5000_fission_time
+tests/1/NewsystKD/0.1/speed1/6000_fission
+tests/1/NewsystKD/0.1/speed1/6000_fission_N
+tests/1/NewsystKD/0.1/speed1/6000_fission_time
+tests/1/NewsystKD/0.1/speed1/7000_fission
+tests/1/NewsystKD/0.1/speed1/7000_fission_N
+tests/1/NewsystKD/0.1/speed1/7000_fission_time
+tests/1/NewsystKD/0.1/speed1/8000_fission
+tests/1/NewsystKD/0.1/speed1/8000_fission_N
+tests/1/NewsystKD/0.1/speed1/8000_fission_time
+tests/1/NewsystKD/0.1/speed1/9000_fission
+tests/1/NewsystKD/0.1/speed1/9000_fission_N
+tests/1/NewsystKD/0.1/speed1/9000_fission_time
+tests/1/NewsystKD/0.1/speed1/10000_fission
+tests/1/NewsystKD/0.1/speed1/10000_fission_N
+tests/1/NewsystKD/0.1/speed1/10000_fission_time
+tests/1/NewsystKD/0.1/speed2/5000_fission
+tests/1/NewsystKD/0.1/speed2/5000_fission_N
+tests/1/NewsystKD/0.1/speed2/5000_fission_time
+tests/1/NewsystKD/0.1/speed2/6000_fission
+tests/1/NewsystKD/0.1/speed2/6000_fission_N
+tests/1/NewsystKD/0.1/speed2/6000_fission_time
+tests/1/NewsystKD/0.1/speed2/7000_fission
+tests/1/NewsystKD/0.1/speed2/7000_fission_N
+tests/1/NewsystKD/0.1/speed2/7000_fission_time
+tests/1/NewsystKD/0.1/speed2/8000_fission
+tests/1/NewsystKD/0.1/speed2/8000_fission_N
+tests/1/NewsystKD/0.1/speed2/8000_fission_time
+tests/1/NewsystKD/0.1/speed2/9000_fission
+tests/1/NewsystKD/0.1/speed2/9000_fission_N
+tests/1/NewsystKD/0.1/speed2/9000_fission_time
+tests/1/NewsystKD/0.1/speed2/10000_fission
+tests/1/NewsystKD/0.1/speed2/10000_fission_N
+tests/1/NewsystKD/0.1/speed2/10000_fission_time
+tests/1/NewsystKD/0.1/speed3/5000_fission
+tests/1/NewsystKD/0.1/speed3/5000_fission_N
+tests/1/NewsystKD/0.1/speed3/5000_fission_time
+tests/1/NewsystKD/0.1/speed3/6000_fission
+tests/1/NewsystKD/0.1/speed3/6000_fission_N
+tests/1/NewsystKD/0.1/speed3/6000_fission_time
+tests/1/NewsystKD/0.1/speed3/7000_fission
+tests/1/NewsystKD/0.1/speed3/7000_fission_N
+tests/1/NewsystKD/0.1/speed3/7000_fission_time
+tests/1/NewsystKD/0.1/speed3/8000_fission
+tests/1/NewsystKD/0.1/speed3/8000_fission_N
+tests/1/NewsystKD/0.1/speed3/8000_fission_time
+tests/1/NewsystKD/0.1/speed3/9000_fission
+tests/1/NewsystKD/0.1/speed3/9000_fission_N
+tests/1/NewsystKD/0.1/speed3/9000_fission_time
+tests/1/NewsystKD/0.1/speed3/10000_fission
+tests/1/NewsystKD/0.1/speed3/10000_fission_N
+tests/1/NewsystKD/0.1/speed3/10000_fission_time
+tests/1/stratKD/0.1/speed1/1000
+tests/1/stratKD/0.1/speed1/1000_N
+tests/1/stratKD/0.1/speed1/1000_time
+tests/1/stratKD/0.1/speed1/2000
+tests/1/stratKD/0.1/speed1/2000_N
+tests/1/stratKD/0.1/speed1/2000_time
+tests/1/stratKD/0.1/speed1/3000
+tests/1/stratKD/0.1/speed1/3000_N
+tests/1/stratKD/0.1/speed1/3000_time
+tests/1/stratKD/0.1/speed1/4000
+tests/1/stratKD/0.1/speed1/4000_N
+tests/1/stratKD/0.1/speed1/4000_time
+tests/1/stratKD/0.1/speed1/5000
+tests/1/stratKD/0.1/speed1/5000_fission
+tests/1/stratKD/0.1/speed1/5000_fission_N
+tests/1/stratKD/0.1/speed1/5000_fission_time
+tests/1/stratKD/0.1/speed1/5000_N
+tests/1/stratKD/0.1/speed1/5000_time
+tests/1/stratKD/0.1/speed1/6000
+tests/1/stratKD/0.1/speed1/6000_fission
+tests/1/stratKD/0.1/speed1/6000_fission_N
+tests/1/stratKD/0.1/speed1/6000_fission_time
+tests/1/stratKD/0.1/speed1/6000_N
+tests/1/stratKD/0.1/speed1/6000_time
+tests/1/stratKD/0.1/speed1/7000
+tests/1/stratKD/0.1/speed1/7000_fission
+tests/1/stratKD/0.1/speed1/7000_fission_N
+tests/1/stratKD/0.1/speed1/7000_fission_time
+tests/1/stratKD/0.1/speed1/7000_N
+tests/1/stratKD/0.1/speed1/7000_time
+tests/1/stratKD/0.1/speed1/8000
+tests/1/stratKD/0.1/speed1/8000_fission
+tests/1/stratKD/0.1/speed1/8000_fission_N
+tests/1/stratKD/0.1/speed1/8000_fission_time
+tests/1/stratKD/0.1/speed1/8000_N
+tests/1/stratKD/0.1/speed1/8000_time
+tests/1/stratKD/0.1/speed1/9000
+tests/1/stratKD/0.1/speed1/9000_fission
+tests/1/stratKD/0.1/speed1/9000_fission_N
+tests/1/stratKD/0.1/speed1/9000_fission_time
+tests/1/stratKD/0.1/speed1/9000_N
+tests/1/stratKD/0.1/speed1/9000_time
+tests/1/stratKD/0.1/speed1/10000
+tests/1/stratKD/0.1/speed1/10000_fission
+tests/1/stratKD/0.1/speed1/10000_fission_N
+tests/1/stratKD/0.1/speed1/10000_fission_time
+tests/1/stratKD/0.1/speed1/10000_N
+tests/1/stratKD/0.1/speed1/10000_time
+tests/1/stratKD/0.1/speed1/11000
+tests/1/stratKD/0.1/speed1/11000_N
+tests/1/stratKD/0.1/speed1/11000_time
+tests/1/stratKD/0.1/speed1/12000
+tests/1/stratKD/0.1/speed1/12000_N
+tests/1/stratKD/0.1/speed1/12000_time
+tests/1/stratKD/0.1/speed1/13000
+tests/1/stratKD/0.1/speed1/13000_N
+tests/1/stratKD/0.1/speed1/13000_time
+tests/1/stratKD/0.1/speed1/14000
+tests/1/stratKD/0.1/speed1/14000_N
+tests/1/stratKD/0.1/speed1/14000_time
+tests/1/stratKD/0.1/speed1/15000
+tests/1/stratKD/0.1/speed1/15000_N
+tests/1/stratKD/0.1/speed1/15000_time
+tests/1/stratKD/0.1/speed2/1000
+tests/1/stratKD/0.1/speed2/1000_N
+tests/1/stratKD/0.1/speed2/1000_time
+tests/1/stratKD/0.1/speed2/2000
+tests/1/stratKD/0.1/speed2/2000_N
+tests/1/stratKD/0.1/speed2/2000_time
+tests/1/stratKD/0.1/speed2/3000
+tests/1/stratKD/0.1/speed2/3000_N
+tests/1/stratKD/0.1/speed2/3000_time
+tests/1/stratKD/0.1/speed2/4000
+tests/1/stratKD/0.1/speed2/4000_N
+tests/1/stratKD/0.1/speed2/4000_time
+tests/1/stratKD/0.1/speed2/5000
+tests/1/stratKD/0.1/speed2/5000_fission
+tests/1/stratKD/0.1/speed2/5000_fission_N
+tests/1/stratKD/0.1/speed2/5000_fission_time
+tests/1/stratKD/0.1/speed2/5000_N
+tests/1/stratKD/0.1/speed2/5000_time
+tests/1/stratKD/0.1/speed2/6000
+tests/1/stratKD/0.1/speed2/6000_fission
+tests/1/stratKD/0.1/speed2/6000_fission_N
+tests/1/stratKD/0.1/speed2/6000_fission_time
+tests/1/stratKD/0.1/speed2/6000_N
+tests/1/stratKD/0.1/speed2/6000_time
+tests/1/stratKD/0.1/speed2/7000
+tests/1/stratKD/0.1/speed2/7000_fission
+tests/1/stratKD/0.1/speed2/7000_fission_N
+tests/1/stratKD/0.1/speed2/7000_fission_time
+tests/1/stratKD/0.1/speed2/7000_N
+tests/1/stratKD/0.1/speed2/7000_time
+tests/1/stratKD/0.1/speed2/8000
+tests/1/stratKD/0.1/speed2/8000_fission
+tests/1/stratKD/0.1/speed2/8000_fission_N
+tests/1/stratKD/0.1/speed2/8000_fission_time
+tests/1/stratKD/0.1/speed2/8000_N
+tests/1/stratKD/0.1/speed2/8000_time
+tests/1/stratKD/0.1/speed2/9000
+tests/1/stratKD/0.1/speed2/9000_fission
+tests/1/stratKD/0.1/speed2/9000_fission_N
+tests/1/stratKD/0.1/speed2/9000_fission_time
+tests/1/stratKD/0.1/speed2/9000_N
+tests/1/stratKD/0.1/speed2/9000_time
+tests/1/stratKD/0.1/speed2/10000
+tests/1/stratKD/0.1/speed2/10000_fission
+tests/1/stratKD/0.1/speed2/10000_fission_N
+tests/1/stratKD/0.1/speed2/10000_fission_time
+tests/1/stratKD/0.1/speed2/10000_N
+tests/1/stratKD/0.1/speed2/10000_time
+tests/1/stratKD/0.1/speed2/11000
+tests/1/stratKD/0.1/speed2/11000_N
+tests/1/stratKD/0.1/speed2/11000_time
+tests/1/stratKD/0.1/speed2/12000
+tests/1/stratKD/0.1/speed2/12000_N
+tests/1/stratKD/0.1/speed2/12000_time
+tests/1/stratKD/0.1/speed2/13000
+tests/1/stratKD/0.1/speed2/13000_N
+tests/1/stratKD/0.1/speed2/13000_time
+tests/1/stratKD/0.1/speed2/14000
+tests/1/stratKD/0.1/speed2/14000_N
+tests/1/stratKD/0.1/speed2/14000_time
+tests/1/stratKD/0.1/speed2/15000
+tests/1/stratKD/0.1/speed2/15000_N
+tests/1/stratKD/0.1/speed2/15000_time
+tests/1/stratKD/0.2/speed1/1000
+tests/1/stratKD/0.2/speed1/1000_N
+tests/1/stratKD/0.2/speed1/1000_time
+tests/1/stratKD/0.2/speed1/2000
+tests/1/stratKD/0.2/speed1/2000_N
+tests/1/stratKD/0.2/speed1/2000_time
+tests/1/stratKD/0.2/speed1/3000
+tests/1/stratKD/0.2/speed1/3000_N
+tests/1/stratKD/0.2/speed1/3000_time
+tests/1/stratKD/0.2/speed1/4000
+tests/1/stratKD/0.2/speed1/4000_N
+tests/1/stratKD/0.2/speed1/4000_time
+tests/1/stratKD/0.2/speed1/5000
+tests/1/stratKD/0.2/speed1/5000_N
+tests/1/stratKD/0.2/speed1/5000_time
+tests/1/stratKD/0.2/speed1/6000
+tests/1/stratKD/0.2/speed1/6000_N
+tests/1/stratKD/0.2/speed1/6000_time
+tests/1/stratKD/0.2/speed1/7000
+tests/1/stratKD/0.2/speed1/7000_N
+tests/1/stratKD/0.2/speed1/7000_time
+tests/1/stratKD/0.2/speed1/8000
+tests/1/stratKD/0.2/speed1/8000_N
+tests/1/stratKD/0.2/speed1/8000_time
+tests/1/stratKD/0.2/speed1/9000
+tests/1/stratKD/0.2/speed1/9000_N
+tests/1/stratKD/0.2/speed1/9000_time
+tests/1/stratKD/0.2/speed1/10000
+tests/1/stratKD/0.2/speed1/10000_N
+tests/1/stratKD/0.2/speed1/10000_time
+tests/1/stratKD/0.2/speed1/11000
+tests/1/stratKD/0.2/speed1/11000_N
+tests/1/stratKD/0.2/speed1/11000_time
+tests/1/stratKD/0.2/speed1/12000
+tests/1/stratKD/0.2/speed1/12000_N
+tests/1/stratKD/0.2/speed1/12000_time
+tests/1/stratKD/0.2/speed1/13000
+tests/1/stratKD/0.2/speed1/13000_N
+tests/1/stratKD/0.2/speed1/13000_time
+tests/1/stratKD/0.2/speed1/14000
+tests/1/stratKD/0.2/speed1/14000_N
+tests/1/stratKD/0.2/speed1/14000_time
+tests/1/stratKD/0.2/speed1/15000
+tests/1/stratKD/0.2/speed1/15000_N
+tests/1/stratKD/0.2/speed1/15000_time
+tests/1/stratKD/0.2/speed2/1000
+tests/1/stratKD/0.2/speed2/1000_N
+tests/1/stratKD/0.2/speed2/1000_time
+tests/1/stratKD_2/0.1/speed1/1000
+tests/1/stratKD_2/0.1/speed1/1000_N
+tests/1/stratKD_2/0.1/speed1/1000_time
+tests/1/stratKD_2/0.1/speed1/2000
+tests/1/stratKD_2/0.1/speed1/2000_N
+tests/1/stratKD_2/0.1/speed1/2000_time
+tests/1/stratKD_2/0.1/speed1/3000
+tests/1/stratKD_2/0.1/speed1/3000_N
+tests/1/stratKD_2/0.1/speed1/3000_time
+tests/1/stratKD_2/0.1/speed1/4000
+tests/1/stratKD_2/0.1/speed1/4000_N
+tests/1/stratKD_2/0.1/speed1/4000_time
+tests/1/stratKD_2/0.1/speed1/5000
+tests/1/stratKD_2/0.1/speed1/5000_N
+tests/1/stratKD_2/0.1/speed1/5000_time
+tests/1/stratKD_2/0.1/speed1/6000
+tests/1/stratKD_2/0.1/speed1/6000_N
+tests/1/stratKD_2/0.1/speed1/6000_time
+tests/1/stratKD_2/0.1/speed1/7000
+tests/1/stratKD_2/0.1/speed1/7000_N
+tests/1/stratKD_2/0.1/speed1/7000_time
+tests/1/stratKD_2/0.1/speed1/8000
+tests/1/stratKD_2/0.1/speed1/8000_N
+tests/1/stratKD_2/0.1/speed1/8000_time
+tests/1/stratKD_2/0.1/speed1/9000
+tests/1/stratKD_2/0.1/speed1/9000_N
+tests/1/stratKD_2/0.1/speed1/9000_time
+tests/1/stratKD_2/0.1/speed1/10000
+tests/1/stratKD_2/0.1/speed1/10000_N
+tests/1/stratKD_2/0.1/speed1/10000_time
+tests/1/stratKD_2/0.1/speed1/11000
+tests/1/stratKD_2/0.1/speed1/11000_N
+tests/1/stratKD_2/0.1/speed1/11000_time
+tests/1/stratKD_2/0.1/speed1/12000
+tests/1/stratKD_2/0.1/speed1/12000_N
+tests/1/stratKD_2/0.1/speed1/12000_time
+tests/1/stratKD_2/0.1/speed1/13000
+tests/1/stratKD_2/0.1/speed1/13000_N
+tests/1/stratKD_2/0.1/speed1/13000_time
+tests/1/stratKD_2/0.1/speed1/14000
+tests/1/stratKD_2/0.1/speed1/14000_N
+tests/1/stratKD_2/0.1/speed1/14000_time
+tests/1/stratKD_2/0.1/speed1/15000
+tests/1/stratKD_2/0.1/speed1/15000_N
+tests/1/stratKD_2/0.1/speed1/15000_time
+tests/1/stratKD_2/0.1/speed2/1000
+tests/1/stratKD_2/0.1/speed2/1000_N
+tests/1/stratKD_2/0.1/speed2/1000_time
+tests/1/stratKD_2/0.1/speed2/2000
+tests/1/stratKD_2/0.1/speed2/2000_N
+tests/1/stratKD_2/0.1/speed2/2000_time
+tests/1/stratKD_2/0.1/speed2/3000
+tests/1/stratKD_2/0.1/speed2/3000_N
+tests/1/stratKD_2/0.1/speed2/3000_time
+tests/1/stratKD_2/0.1/speed2/4000
+tests/1/stratKD_2/0.1/speed2/4000_N
+tests/1/stratKD_2/0.1/speed2/4000_time
+tests/1/stratKD_2/0.1/speed2/5000
+tests/1/stratKD_2/0.1/speed2/5000_N
+tests/1/stratKD_2/0.1/speed2/5000_time
+tests/1/stratKD_2/0.1/speed2/6000
+tests/1/stratKD_2/0.1/speed2/6000_N
+tests/1/stratKD_2/0.1/speed2/6000_time
+tests/1/stratKD_2/0.1/speed2/7000
+tests/1/stratKD_2/0.1/speed2/7000_N
+tests/1/stratKD_2/0.1/speed2/7000_time
+tests/1/stratKD_2/0.1/speed2/8000
+tests/1/stratKD_2/0.1/speed2/8000_N
+tests/1/stratKD_2/0.1/speed2/8000_time
+tests/1/stratKD_2/0.1/speed2/9000
+tests/1/stratKD_2/0.1/speed2/9000_N
+tests/1/stratKD_2/0.1/speed2/9000_time
+tests/1/stratKD_2/0.1/speed2/10000
+tests/1/stratKD_2/0.1/speed2/10000_N
+tests/1/stratKD_2/0.1/speed2/10000_time
+tests/1/stratKD_2/0.1/speed2/11000
+tests/1/stratKD_2/0.1/speed2/11000_N
+tests/1/stratKD_2/0.1/speed2/11000_time
+tests/1/stratKD_2/0.1/speed2/12000
+tests/1/stratKD_2/0.1/speed2/12000_N
+tests/1/stratKD_2/0.1/speed2/12000_time
+tests/1/stratKD_2/0.1/speed2/13000
+tests/1/stratKD_2/0.1/speed2/13000_N
+tests/1/stratKD_2/0.1/speed2/13000_time
+tests/1/stratKD_2/0.1/speed2/14000
+tests/1/stratKD_2/0.1/speed2/14000_N
+tests/1/stratKD_2/0.1/speed2/14000_time
+tests/1/stratKD_2/0.1/speed2/15000
+tests/1/stratKD_2/0.1/speed2/15000_N
+tests/1/stratKD_2/0.1/speed2/15000_time
+tests/1/stratKD_2/0.2/speed1/1000
+tests/1/stratKD_2/0.2/speed1/1000_N
+tests/1/stratKD_2/0.2/speed1/1000_time
+tests/1/stratKD_2/0.2/speed1/2000
+tests/1/stratKD_2/0.2/speed1/2000_N
+tests/1/stratKD_2/0.2/speed1/2000_time
+tests/1/stratKD_2/0.2/speed1/3000
+tests/1/stratKD_2/0.2/speed1/3000_N
+tests/1/stratKD_2/0.2/speed1/3000_time
+tests/1/stratKD_2/0.2/speed1/4000
+tests/1/stratKD_2/0.2/speed1/4000_N
+tests/1/stratKD_2/0.2/speed1/4000_time
+tests/1/stratKD_2/0.2/speed1/5000
+tests/1/stratKD_2/0.2/speed1/5000_N
+tests/1/stratKD_2/0.2/speed1/5000_time
+tests/1/stratKD_2/0.2/speed1/6000
+tests/1/stratKD_2/0.2/speed1/6000_N
+tests/1/stratKD_2/0.2/speed1/6000_time
+tests/1/stratKD_2/0.2/speed1/7000
+tests/1/stratKD_2/0.2/speed1/7000_N
+tests/1/stratKD_2/0.2/speed1/7000_time
+tests/1/stratKD_2/0.2/speed1/8000
+tests/1/stratKD_2/0.2/speed1/8000_N
+tests/1/stratKD_2/0.2/speed1/8000_time
+tests/1/stratKD_2/0.2/speed1/9000
+tests/1/stratKD_2/0.2/speed1/9000_N
+tests/1/stratKD_2/0.2/speed1/9000_time
+tests/1/stratKD_2/0.2/speed1/10000
+tests/1/stratKD_2/0.2/speed1/10000_N
+tests/1/stratKD_2/0.2/speed1/10000_time
+tests/1/stratKD_2/0.2/speed1/11000
+tests/1/stratKD_2/0.2/speed1/11000_N
+tests/1/stratKD_2/0.2/speed1/11000_time
+tests/1/stratKD_2/0.2/speed1/12000
+tests/1/stratKD_2/0.2/speed1/12000_N
+tests/1/stratKD_2/0.2/speed1/12000_time
+tests/1/stratKD_2/0.2/speed1/13000
+tests/1/stratKD_2/0.2/speed1/13000_N
+tests/1/stratKD_2/0.2/speed1/13000_time
+tests/1/stratKD_2/0.2/speed1/14000
+tests/1/stratKD_2/0.2/speed1/14000_N
+tests/1/stratKD_2/0.2/speed1/14000_time
+tests/1/stratKD_2/0.2/speed1/15000
+tests/1/stratKD_2/0.2/speed1/15000_N
+tests/1/stratKD_2/0.2/speed1/15000_time
+tests/1/stratKD_2/0.2/speed2/1000
+tests/1/stratKD_2/0.2/speed2/1000_N
+tests/1/stratKD_2/0.2/speed2/1000_time
+tests/1/stratPna/0.1/speed1/1000
+tests/1/stratPna/0.1/speed1/1000_N
+tests/1/stratPna/0.1/speed1/1000_time
+tests/1/stratPna/0.1/speed1/2000
+tests/1/stratPna/0.1/speed1/2000_N
+tests/1/stratPna/0.1/speed1/2000_time
+tests/1/stratPna/0.1/speed1/3000
+tests/1/stratPna/0.1/speed1/3000_N
+tests/1/stratPna/0.1/speed1/3000_time
+tests/1/stratPna/0.1/speed1/4000
+tests/1/stratPna/0.1/speed1/4000_N
+tests/1/stratPna/0.1/speed1/4000_time
+tests/1/stratPna/0.1/speed1/5000
+tests/1/stratPna/0.1/speed1/5000_N
+tests/1/stratPna/0.1/speed1/5000_time
+tests/1/stratPna/0.1/speed1/6000
+tests/1/stratPna/0.1/speed1/6000_N
+tests/1/stratPna/0.1/speed1/6000_time
+tests/1/stratPna/0.1/speed1/7000
+tests/1/stratPna/0.1/speed1/7000_N
+tests/1/stratPna/0.1/speed1/7000_time
+tests/1/stratPna/0.1/speed1/8000
+tests/1/stratPna/0.1/speed1/8000_N
+tests/1/stratPna/0.1/speed1/8000_time
+tests/1/stratPna/0.1/speed1/9000
+tests/1/stratPna/0.1/speed1/9000_N
+tests/1/stratPna/0.1/speed1/9000_time
+tests/1/stratPna/0.1/speed1/10000
+tests/1/stratPna/0.1/speed1/10000_N
+tests/1/stratPna/0.1/speed1/10000_time
+tests/1/stratPna/0.1/speed1/11000
+tests/1/stratPna/0.1/speed1/11000_N
+tests/1/stratPna/0.1/speed1/11000_time
+tests/1/stratPna/0.1/speed1/12000
+tests/1/stratPna/0.1/speed1/12000_N
+tests/1/stratPna/0.1/speed1/12000_time
+tests/1/stratPna/0.1/speed1/13000
+tests/1/stratPna/0.1/speed1/13000_N
+tests/1/stratPna/0.1/speed1/13000_time
+tests/1/stratPna/0.1/speed1/14000
+tests/1/stratPna/0.1/speed1/14000_N
+tests/1/stratPna/0.1/speed1/14000_time
+tests/1/stratPna/0.1/speed1/15000
+tests/1/stratPna/0.1/speed1/15000_N
+tests/1/stratPna/0.1/speed1/15000_time
+tests/1/stratPna/0.1/speed2/1000
+tests/1/stratPna/0.1/speed2/1000_N
+tests/1/stratPna/0.1/speed2/1000_time
+tests/1/stratPna/0.1/speed2/2000
+tests/1/stratPna/0.1/speed2/2000_N
+tests/1/stratPna/0.1/speed2/2000_time
+tests/1/stratPna/0.1/speed2/3000
+tests/1/stratPna/0.1/speed2/3000_N
+tests/1/stratPna/0.1/speed2/3000_time
+tests/1/stratPna/0.1/speed2/4000
+tests/1/stratPna/0.1/speed2/4000_N
+tests/1/stratPna/0.1/speed2/4000_time
+tests/1/stratPna/0.1/speed2/5000
+tests/1/stratPna/0.1/speed2/5000_N
+tests/1/stratPna/0.1/speed2/5000_time
+tests/1/stratPna/0.1/speed2/6000
+tests/1/stratPna/0.1/speed2/6000_N
+tests/1/stratPna/0.1/speed2/6000_time
+tests/1/stratPna/0.1/speed2/7000
+tests/1/stratPna/0.1/speed2/7000_N
+tests/1/stratPna/0.1/speed2/7000_time
+tests/1/stratPna/0.1/speed2/8000
+tests/1/stratPna/0.1/speed2/8000_N
+tests/1/stratPna/0.1/speed2/8000_time
+tests/1/stratPna/0.1/speed2/9000
+tests/1/stratPna/0.1/speed2/9000_N
+tests/1/stratPna/0.1/speed2/9000_time
+tests/1/stratPna/0.1/speed2/10000
+tests/1/stratPna/0.1/speed2/10000_N
+tests/1/stratPna/0.1/speed2/10000_time
+tests/1/stratPna/0.1/speed2/11000
+tests/1/stratPna/0.1/speed2/11000_N
+tests/1/stratPna/0.1/speed2/11000_time
+tests/1/stratPna/0.1/speed2/12000
+tests/1/stratPna/0.1/speed2/12000_N
+tests/1/stratPna/0.1/speed2/12000_time
+tests/1/stratPna/0.1/speed2/13000
+tests/1/stratPna/0.1/speed2/13000_N
+tests/1/stratPna/0.1/speed2/13000_time
+tests/1/stratPna/0.1/speed2/14000
+tests/1/stratPna/0.1/speed2/14000_N
+tests/1/stratPna/0.1/speed2/14000_time
+tests/1/stratPna/0.1/speed2/15000
+tests/1/stratPna/0.1/speed2/15000_N
+tests/1/stratPna/0.1/speed2/15000_time
+tests/1/stratPna/0.2/speed1/1000
+tests/1/stratPna/0.2/speed1/1000_N
+tests/1/stratPna/0.2/speed1/1000_time
+tests/1/stratPna/0.2/speed1/2000
+tests/1/stratPna/0.2/speed1/2000_N
+tests/1/stratPna/0.2/speed1/2000_time
+tests/1/stratPna/0.2/speed1/3000
+tests/1/stratPna/0.2/speed1/3000_N
+tests/1/stratPna/0.2/speed1/3000_time
+tests/1/stratPna/0.2/speed1/4000
+tests/1/stratPna/0.2/speed1/4000_N
+tests/1/stratPna/0.2/speed1/4000_time
+tests/1/stratPna/0.2/speed1/5000
+tests/1/stratPna/0.2/speed1/5000_N
+tests/1/stratPna/0.2/speed1/5000_time
+tests/1/stratPna/0.2/speed1/6000
+tests/1/stratPna/0.2/speed1/6000_N
+tests/1/stratPna/0.2/speed1/6000_time
+tests/1/stratPna/0.2/speed1/7000
+tests/1/stratPna/0.2/speed1/7000_N
+tests/1/stratPna/0.2/speed1/7000_time
+tests/1/stratPna/0.2/speed1/8000
+tests/1/stratPna/0.2/speed1/8000_N
+tests/1/stratPna/0.2/speed1/8000_time
+tests/1/stratPna/0.2/speed1/9000
+tests/1/stratPna/0.2/speed1/9000_N
+tests/1/stratPna/0.2/speed1/9000_time
+tests/1/stratPna/0.2/speed1/10000
+tests/1/stratPna/0.2/speed1/10000_N
+tests/1/stratPna/0.2/speed1/10000_time
+tests/1/stratPna/0.2/speed1/11000
+tests/1/stratPna/0.2/speed1/11000_N
+tests/1/stratPna/0.2/speed1/11000_time
+tests/1/stratPna/0.2/speed1/12000
+tests/1/stratPna/0.2/speed1/12000_N
+tests/1/stratPna/0.2/speed1/12000_time
+tests/1/stratPna/0.2/speed1/13000
+tests/1/stratPna/0.2/speed1/13000_N
+tests/1/stratPna/0.2/speed1/13000_time
+tests/1/stratPna/0.2/speed1/14000
+tests/1/stratPna/0.2/speed1/14000_N
+tests/1/stratPna/0.2/speed1/14000_time
+tests/1/stratPna/0.2/speed1/15000
+tests/1/stratPna/0.2/speed1/15000_N
+tests/1/stratPna/0.2/speed1/15000_time
+tests/1/stratPna/0.2/speed2/1000
+tests/1/stratPna/0.2/speed2/1000_N
+tests/1/stratPna/0.2/speed2/1000_time
+tests/1/systKD/0.1/speed1/1000
+tests/1/systKD/0.1/speed1/1000_N
+tests/1/systKD/0.1/speed1/1000_time
+tests/1/systKD/0.1/speed1/2000
+tests/1/systKD/0.1/speed1/2000_N
+tests/1/systKD/0.1/speed1/2000_time
+tests/1/systKD/0.1/speed1/3000
+tests/1/systKD/0.1/speed1/3000_N
+tests/1/systKD/0.1/speed1/3000_time
+tests/1/systKD/0.1/speed1/4000
+tests/1/systKD/0.1/speed1/4000_N
+tests/1/systKD/0.1/speed1/4000_time
+tests/1/systKD/0.1/speed1/5000
+tests/1/systKD/0.1/speed1/5000_fission
+tests/1/systKD/0.1/speed1/5000_fission_N
+tests/1/systKD/0.1/speed1/5000_fission_time
+tests/1/systKD/0.1/speed1/5000_N
+tests/1/systKD/0.1/speed1/5000_time
+tests/1/systKD/0.1/speed1/6000
+tests/1/systKD/0.1/speed1/6000_fission
+tests/1/systKD/0.1/speed1/6000_fission_N
+tests/1/systKD/0.1/speed1/6000_fission_time
+tests/1/systKD/0.1/speed1/6000_N
+tests/1/systKD/0.1/speed1/6000_time
+tests/1/systKD/0.1/speed1/7000
+tests/1/systKD/0.1/speed1/7000_fission
+tests/1/systKD/0.1/speed1/7000_fission_N
+tests/1/systKD/0.1/speed1/7000_fission_time
+tests/1/systKD/0.1/speed1/7000_N
+tests/1/systKD/0.1/speed1/7000_time
+tests/1/systKD/0.1/speed1/8000
+tests/1/systKD/0.1/speed1/8000_fission
+tests/1/systKD/0.1/speed1/8000_fission_N
+tests/1/systKD/0.1/speed1/8000_fission_time
+tests/1/systKD/0.1/speed1/8000_N
+tests/1/systKD/0.1/speed1/8000_time
+tests/1/systKD/0.1/speed1/9000
+tests/1/systKD/0.1/speed1/9000_fission
+tests/1/systKD/0.1/speed1/9000_fission_N
+tests/1/systKD/0.1/speed1/9000_fission_time
+tests/1/systKD/0.1/speed1/9000_N
+tests/1/systKD/0.1/speed1/9000_time
+tests/1/systKD/0.1/speed1/10000
+tests/1/systKD/0.1/speed1/10000_fission
+tests/1/systKD/0.1/speed1/10000_fission_N
+tests/1/systKD/0.1/speed1/10000_fission_time
+tests/1/systKD/0.1/speed1/10000_N
+tests/1/systKD/0.1/speed1/10000_time
+tests/1/systKD/0.1/speed1/11000
+tests/1/systKD/0.1/speed1/11000_N
+tests/1/systKD/0.1/speed1/11000_time
+tests/1/systKD/0.1/speed1/12000
+tests/1/systKD/0.1/speed1/12000_N
+tests/1/systKD/0.1/speed1/12000_time
+tests/1/systKD/0.1/speed1/13000
+tests/1/systKD/0.1/speed1/13000_N
+tests/1/systKD/0.1/speed1/13000_time
+tests/1/systKD/0.1/speed1/14000
+tests/1/systKD/0.1/speed1/14000_N
+tests/1/systKD/0.1/speed1/14000_time
+tests/1/systKD/0.1/speed1/15000
+tests/1/systKD/0.1/speed1/15000_N
+tests/1/systKD/0.1/speed1/15000_time
+tests/1/systKD/0.1/speed2/1000
+tests/1/systKD/0.1/speed2/1000_N
+tests/1/systKD/0.1/speed2/1000_time
+tests/1/systKD/0.1/speed2/2000
+tests/1/systKD/0.1/speed2/2000_N
+tests/1/systKD/0.1/speed2/2000_time
+tests/1/systKD/0.1/speed2/3000
+tests/1/systKD/0.1/speed2/3000_N
+tests/1/systKD/0.1/speed2/3000_time
+tests/1/systKD/0.1/speed2/4000
+tests/1/systKD/0.1/speed2/4000_N
+tests/1/systKD/0.1/speed2/4000_time
+tests/1/systKD/0.1/speed2/5000
+tests/1/systKD/0.1/speed2/5000_fission
+tests/1/systKD/0.1/speed2/5000_fission_N
+tests/1/systKD/0.1/speed2/5000_fission_time
+tests/1/systKD/0.1/speed2/5000_N
+tests/1/systKD/0.1/speed2/5000_time
+tests/1/systKD/0.1/speed2/6000
+tests/1/systKD/0.1/speed2/6000_fission
+tests/1/systKD/0.1/speed2/6000_fission_N
+tests/1/systKD/0.1/speed2/6000_fission_time
+tests/1/systKD/0.1/speed2/6000_N
+tests/1/systKD/0.1/speed2/6000_time
+tests/1/systKD/0.1/speed2/7000
+tests/1/systKD/0.1/speed2/7000_fission
+tests/1/systKD/0.1/speed2/7000_fission_N
+tests/1/systKD/0.1/speed2/7000_fission_time
+tests/1/systKD/0.1/speed2/7000_N
+tests/1/systKD/0.1/speed2/7000_time
+tests/1/systKD/0.1/speed2/8000
+tests/1/systKD/0.1/speed2/8000_fission
+tests/1/systKD/0.1/speed2/8000_fission_N
+tests/1/systKD/0.1/speed2/8000_fission_time
+tests/1/systKD/0.1/speed2/8000_N
+tests/1/systKD/0.1/speed2/8000_time
+tests/1/systKD/0.1/speed2/9000
+tests/1/systKD/0.1/speed2/9000_fission
+tests/1/systKD/0.1/speed2/9000_fission_N
+tests/1/systKD/0.1/speed2/9000_fission_time
+tests/1/systKD/0.1/speed2/9000_N
+tests/1/systKD/0.1/speed2/9000_time
+tests/1/systKD/0.1/speed2/10000
+tests/1/systKD/0.1/speed2/10000_fission
+tests/1/systKD/0.1/speed2/10000_fission_N
+tests/1/systKD/0.1/speed2/10000_fission_time
+tests/1/systKD/0.1/speed2/10000_N
+tests/1/systKD/0.1/speed2/10000_time
+tests/1/systKD/0.1/speed2/11000
+tests/1/systKD/0.1/speed2/11000_N
+tests/1/systKD/0.1/speed2/11000_time
+tests/1/systKD/0.1/speed2/12000
+tests/1/systKD/0.1/speed2/12000_N
+tests/1/systKD/0.1/speed2/12000_time
+tests/1/systKD/0.1/speed2/13000
+tests/1/systKD/0.1/speed2/13000_N
+tests/1/systKD/0.1/speed2/13000_time
+tests/1/systKD/0.1/speed2/14000
+tests/1/systKD/0.1/speed2/14000_N
+tests/1/systKD/0.1/speed2/14000_time
+tests/1/systKD/0.1/speed2/15000
+tests/1/systKD/0.1/speed2/15000_N
+tests/1/systKD/0.1/speed2/15000_time
+tests/1/systKD/0.2/speed1/1000
+tests/1/systKD/0.2/speed1/1000_N
+tests/1/systKD/0.2/speed1/1000_time
+tests/1/systKD/0.2/speed1/2000
+tests/1/systKD/0.2/speed1/2000_N
+tests/1/systKD/0.2/speed1/2000_time
+tests/1/systKD/0.2/speed1/3000
+tests/1/systKD/0.2/speed1/3000_N
+tests/1/systKD/0.2/speed1/3000_time
+tests/1/systKD/0.2/speed1/4000
+tests/1/systKD/0.2/speed1/4000_N
+tests/1/systKD/0.2/speed1/4000_time
+tests/1/systKD/0.2/speed1/5000
+tests/1/systKD/0.2/speed1/5000_N
+tests/1/systKD/0.2/speed1/5000_time
+tests/1/systKD/0.2/speed1/6000
+tests/1/systKD/0.2/speed1/6000_N
+tests/1/systKD/0.2/speed1/6000_time
+tests/1/systKD/0.2/speed1/7000
+tests/1/systKD/0.2/speed1/7000_N
+tests/1/systKD/0.2/speed1/7000_time
+tests/1/systKD/0.2/speed1/8000
+tests/1/systKD/0.2/speed1/8000_N
+tests/1/systKD/0.2/speed1/8000_time
+tests/1/systKD/0.2/speed1/9000
+tests/1/systKD/0.2/speed1/9000_N
+tests/1/systKD/0.2/speed1/9000_time
+tests/1/systKD/0.2/speed1/10000
+tests/1/systKD/0.2/speed1/10000_N
+tests/1/systKD/0.2/speed1/10000_time
+tests/1/systKD/0.2/speed1/11000
+tests/1/systKD/0.2/speed1/11000_N
+tests/1/systKD/0.2/speed1/11000_time
+tests/1/systKD/0.2/speed1/12000
+tests/1/systKD/0.2/speed1/12000_N
+tests/1/systKD/0.2/speed1/12000_time
+tests/1/systKD/0.2/speed1/13000
+tests/1/systKD/0.2/speed1/13000_N
+tests/1/systKD/0.2/speed1/13000_time
+tests/1/systKD/0.2/speed1/14000
+tests/1/systKD/0.2/speed1/14000_N
+tests/1/systKD/0.2/speed1/14000_time
+tests/1/systKD/0.2/speed1/15000
+tests/1/systKD/0.2/speed1/15000_N
+tests/1/systKD/0.2/speed1/15000_time
+tests/1/systKD/0.2/speed2/1000
+tests/1/systKD/0.2/speed2/1000_N
+tests/1/systKD/0.2/speed2/1000_time
+tests/1/systKD_2/0.1/speed1/1000
+tests/1/systKD_2/0.1/speed1/1000_N
+tests/1/systKD_2/0.1/speed1/1000_time
+tests/1/systKD_2/0.1/speed1/2000
+tests/1/systKD_2/0.1/speed1/2000_N
+tests/1/systKD_2/0.1/speed1/2000_time
+tests/1/systKD_2/0.1/speed1/3000
+tests/1/systKD_2/0.1/speed1/3000_N
+tests/1/systKD_2/0.1/speed1/3000_time
+tests/1/systKD_2/0.1/speed1/4000
+tests/1/systKD_2/0.1/speed1/4000_N
+tests/1/systKD_2/0.1/speed1/4000_time
+tests/1/systKD_2/0.1/speed1/5000
+tests/1/systKD_2/0.1/speed1/5000_N
+tests/1/systKD_2/0.1/speed1/5000_time
+tests/1/systKD_2/0.1/speed1/6000
+tests/1/systKD_2/0.1/speed1/6000_N
+tests/1/systKD_2/0.1/speed1/6000_time
+tests/1/systKD_2/0.1/speed1/7000
+tests/1/systKD_2/0.1/speed1/7000_N
+tests/1/systKD_2/0.1/speed1/7000_time
+tests/1/systKD_2/0.1/speed1/8000
+tests/1/systKD_2/0.1/speed1/8000_N
+tests/1/systKD_2/0.1/speed1/8000_time
+tests/1/systKD_2/0.1/speed1/9000
+tests/1/systKD_2/0.1/speed1/9000_N
+tests/1/systKD_2/0.1/speed1/9000_time
+tests/1/systKD_2/0.1/speed1/10000
+tests/1/systKD_2/0.1/speed1/10000_N
+tests/1/systKD_2/0.1/speed1/10000_time
+tests/1/systKD_2/0.1/speed1/11000
+tests/1/systKD_2/0.1/speed1/11000_N
+tests/1/systKD_2/0.1/speed1/11000_time
+tests/1/systKD_2/0.1/speed1/12000
+tests/1/systKD_2/0.1/speed1/12000_N
+tests/1/systKD_2/0.1/speed1/12000_time
+tests/1/systKD_2/0.1/speed1/13000
+tests/1/systKD_2/0.1/speed1/13000_N
+tests/1/systKD_2/0.1/speed1/13000_time
+tests/1/systKD_2/0.1/speed1/14000
+tests/1/systKD_2/0.1/speed1/14000_N
+tests/1/systKD_2/0.1/speed1/14000_time
+tests/1/systKD_2/0.1/speed1/15000
+tests/1/systKD_2/0.1/speed1/15000_N
+tests/1/systKD_2/0.1/speed1/15000_time
+tests/1/systKD_2/0.1/speed2/1000
+tests/1/systKD_2/0.1/speed2/1000_N
+tests/1/systKD_2/0.1/speed2/1000_time
+tests/1/systKD_2/0.1/speed2/2000
+tests/1/systKD_2/0.1/speed2/2000_N
+tests/1/systKD_2/0.1/speed2/2000_time
+tests/1/systKD_2/0.1/speed2/3000
+tests/1/systKD_2/0.1/speed2/3000_N
+tests/1/systKD_2/0.1/speed2/3000_time
+tests/1/systKD_2/0.1/speed2/4000
+tests/1/systKD_2/0.1/speed2/4000_N
+tests/1/systKD_2/0.1/speed2/4000_time
+tests/1/systKD_2/0.1/speed2/5000
+tests/1/systKD_2/0.1/speed2/5000_N
+tests/1/systKD_2/0.1/speed2/5000_time
+tests/1/systKD_2/0.1/speed2/6000
+tests/1/systKD_2/0.1/speed2/6000_N
+tests/1/systKD_2/0.1/speed2/6000_time
+tests/1/systKD_2/0.1/speed2/7000
+tests/1/systKD_2/0.1/speed2/7000_N
+tests/1/systKD_2/0.1/speed2/7000_time
+tests/1/systKD_2/0.1/speed2/8000
+tests/1/systKD_2/0.1/speed2/8000_N
+tests/1/systKD_2/0.1/speed2/8000_time
+tests/1/systKD_2/0.1/speed2/9000
+tests/1/systKD_2/0.1/speed2/9000_N
+tests/1/systKD_2/0.1/speed2/9000_time
+tests/1/systKD_2/0.1/speed2/10000
+tests/1/systKD_2/0.1/speed2/10000_N
+tests/1/systKD_2/0.1/speed2/10000_time
+tests/1/systKD_2/0.1/speed2/11000
+tests/1/systKD_2/0.1/speed2/11000_N
+tests/1/systKD_2/0.1/speed2/11000_time
+tests/1/systKD_2/0.1/speed2/12000
+tests/1/systKD_2/0.1/speed2/12000_N
+tests/1/systKD_2/0.1/speed2/12000_time
+tests/1/systKD_2/0.1/speed2/13000
+tests/1/systKD_2/0.1/speed2/13000_N
+tests/1/systKD_2/0.1/speed2/13000_time
+tests/1/systKD_2/0.1/speed2/14000
+tests/1/systKD_2/0.1/speed2/14000_N
+tests/1/systKD_2/0.1/speed2/14000_time
+tests/1/systKD_2/0.1/speed2/15000
+tests/1/systKD_2/0.1/speed2/15000_N
+tests/1/systKD_2/0.1/speed2/15000_time
+tests/1/systKD_2/0.2/speed1/1000
+tests/1/systKD_2/0.2/speed1/1000_N
+tests/1/systKD_2/0.2/speed1/1000_time
+tests/1/systKD_2/0.2/speed1/2000
+tests/1/systKD_2/0.2/speed1/2000_N
+tests/1/systKD_2/0.2/speed1/2000_time
+tests/1/systKD_2/0.2/speed1/3000
+tests/1/systKD_2/0.2/speed1/3000_N
+tests/1/systKD_2/0.2/speed1/3000_time
+tests/1/systKD_2/0.2/speed1/4000
+tests/1/systKD_2/0.2/speed1/4000_N
+tests/1/systKD_2/0.2/speed1/4000_time
+tests/1/systKD_2/0.2/speed1/5000
+tests/1/systKD_2/0.2/speed1/5000_N
+tests/1/systKD_2/0.2/speed1/5000_time
+tests/1/systKD_2/0.2/speed1/6000
+tests/1/systKD_2/0.2/speed1/6000_N
+tests/1/systKD_2/0.2/speed1/6000_time
+tests/1/systKD_2/0.2/speed1/7000
+tests/1/systKD_2/0.2/speed1/7000_N
+tests/1/systKD_2/0.2/speed1/7000_time
+tests/1/systKD_2/0.2/speed1/8000
+tests/1/systKD_2/0.2/speed1/8000_N
+tests/1/systKD_2/0.2/speed1/8000_time
+tests/1/systKD_2/0.2/speed1/9000
+tests/1/systKD_2/0.2/speed1/9000_N
+tests/1/systKD_2/0.2/speed1/9000_time
+tests/1/systKD_2/0.2/speed1/10000
+tests/1/systKD_2/0.2/speed1/10000_N
+tests/1/systKD_2/0.2/speed1/10000_time
+tests/1/systKD_2/0.2/speed1/11000
+tests/1/systKD_2/0.2/speed1/11000_N
+tests/1/systKD_2/0.2/speed1/11000_time
+tests/1/systKD_2/0.2/speed1/12000
+tests/1/systKD_2/0.2/speed1/12000_N
+tests/1/systKD_2/0.2/speed1/12000_time
+tests/1/systKD_2/0.2/speed1/13000
+tests/1/systKD_2/0.2/speed1/13000_N
+tests/1/systKD_2/0.2/speed1/13000_time
+tests/1/systKD_2/0.2/speed1/14000
+tests/1/systKD_2/0.2/speed1/14000_N
+tests/1/systKD_2/0.2/speed1/14000_time
+tests/1/systKD_2/0.2/speed1/15000
+tests/1/systKD_2/0.2/speed1/15000_N
+tests/1/systKD_2/0.2/speed1/15000_time
+tests/1/systKD_2/0.2/speed2/1000
+tests/1/systKD_2/0.2/speed2/1000_N
+tests/1/systKD_2/0.2/speed2/1000_time
+tests/1/systPna/0.1/speed1/1000
+tests/1/systPna/0.1/speed1/1000_N
+tests/1/systPna/0.1/speed1/1000_time
+tests/1/systPna/0.1/speed1/2000
+tests/1/systPna/0.1/speed1/2000_N
+tests/1/systPna/0.1/speed1/2000_time
+tests/1/systPna/0.1/speed1/3000
+tests/1/systPna/0.1/speed1/3000_N
+tests/1/systPna/0.1/speed1/3000_time
+tests/1/systPna/0.1/speed1/4000
+tests/1/systPna/0.1/speed1/4000_N
+tests/1/systPna/0.1/speed1/4000_time
+tests/1/systPna/0.1/speed1/5000
+tests/1/systPna/0.1/speed1/5000_N
+tests/1/systPna/0.1/speed1/5000_time
+tests/1/systPna/0.1/speed1/6000
+tests/1/systPna/0.1/speed1/6000_N
+tests/1/systPna/0.1/speed1/6000_time
+tests/1/systPna/0.1/speed1/7000
+tests/1/systPna/0.1/speed1/7000_N
+tests/1/systPna/0.1/speed1/7000_time
+tests/1/systPna/0.1/speed1/8000
+tests/1/systPna/0.1/speed1/8000_N
+tests/1/systPna/0.1/speed1/8000_time
+tests/1/systPna/0.1/speed1/9000
+tests/1/systPna/0.1/speed1/9000_N
+tests/1/systPna/0.1/speed1/9000_time
+tests/1/systPna/0.1/speed1/10000
+tests/1/systPna/0.1/speed1/10000_N
+tests/1/systPna/0.1/speed1/10000_time
+tests/1/systPna/0.1/speed2/1000
+tests/1/systPna/0.1/speed2/1000_N
+tests/1/systPna/0.1/speed2/1000_time
+tests/1/systPna/0.1/speed2/2000
+tests/1/systPna/0.1/speed2/2000_N
+tests/1/systPna/0.1/speed2/2000_time
+tests/1/systPna/0.1/speed2/3000
+tests/1/systPna/0.1/speed2/3000_N
+tests/1/systPna/0.1/speed2/3000_time
+tests/1/systPna/0.1/speed2/4000
+tests/1/systPna/0.1/speed2/4000_N
+tests/1/systPna/0.1/speed2/4000_time
+tests/1/systPna/0.1/speed2/5000
+tests/1/systPna/0.1/speed2/5000_N
+tests/1/systPna/0.1/speed2/5000_time
+tests/1/systPna/0.1/speed2/6000
+tests/1/systPna/0.1/speed2/6000_N
+tests/1/systPna/0.1/speed2/6000_time
+tests/1/systPna/0.1/speed2/7000
+tests/1/systPna/0.1/speed2/7000_N
+tests/1/systPna/0.1/speed2/7000_time
+tests/1/systPna/0.1/speed2/8000
+tests/1/systPna/0.1/speed2/8000_N
+tests/1/systPna/0.1/speed2/8000_time
+tests/1/systPna/0.1/speed2/9000
+tests/1/systPna/0.1/speed2/9000_N
+tests/1/systPna/0.1/speed2/9000_time
+tests/1/systPna/0.1/speed2/10000
+tests/1/systPna/0.1/speed2/10000_N
+tests/1/systPna/0.1/speed2/10000_time
+tests/1/systPna/0.1/speed3/1000
+tests/1/systPna/0.1/speed3/1000_N
+tests/1/systPna/0.1/speed3/1000_time
+tests/1/systPna/0.1/speed3/2000
+tests/1/systPna/0.1/speed3/2000_N
+tests/1/systPna/0.1/speed3/2000_time
+tests/1/systPna/0.1/speed3/3000
+tests/1/systPna/0.1/speed3/3000_N
+tests/1/systPna/0.1/speed3/3000_time
+tests/1/systPna/0.1/speed3/4000
+tests/1/systPna/0.1/speed3/4000_N
+tests/1/systPna/0.1/speed3/4000_time
+tests/1/systPna/0.1/speed3/5000
+tests/1/systPna/0.1/speed3/5000_N
+tests/1/systPna/0.1/speed3/5000_time
+tests/1/systPna/0.1/speed3/6000
+tests/1/systPna/0.1/speed3/6000_N
+tests/1/systPna/0.1/speed3/6000_time
+tests/1/systPna/0.1/speed3/7000
+tests/1/systPna/0.1/speed3/7000_N
+tests/1/systPna/0.1/speed3/7000_time
+tests/1/systPna/0.1/speed3/8000
+tests/1/systPna/0.1/speed3/8000_N
+tests/1/systPna/0.1/speed3/8000_time
+tests/1/systPna/0.1/speed3/9000
+tests/1/systPna/0.1/speed3/9000_N
+tests/1/systPna/0.1/speed3/9000_time
+tests/1/systPna/0.1/speed3/10000
+tests/1/systPna/0.1/speed3/10000_N
+tests/1/systPna/0.1/speed3/10000_time
+tests/100/multKD/0.1/speed1/1000
+tests/100/multKD/0.1/speed1/1000_N
+tests/100/multKD/0.1/speed1/1000_time
+tests/100/multKD/0.1/speed1/2000
+tests/100/multKD/0.1/speed1/2000_N
+tests/100/multKD/0.1/speed1/2000_time
+tests/100/multKD/0.1/speed1/3000
+tests/100/multKD/0.1/speed1/3000_N
+tests/100/multKD/0.1/speed1/3000_time
+tests/100/multKD/0.1/speed1/4000
+tests/100/multKD/0.1/speed1/4000_N
+tests/100/multKD/0.1/speed1/4000_time
+tests/100/multKD/0.1/speed1/5000
+tests/100/multKD/0.1/speed1/5000_N
+tests/100/multKD/0.1/speed1/5000_time
+tests/100/multKD/0.1/speed1/6000
+tests/100/multKD/0.1/speed1/6000_N
+tests/100/multKD/0.1/speed1/6000_time
+tests/100/multKD/0.1/speed1/7000
+tests/100/multKD/0.1/speed1/7000_N
+tests/100/multKD/0.1/speed1/7000_time
+tests/100/multKD/0.1/speed1/8000
+tests/100/multKD/0.1/speed1/8000_N
+tests/100/multKD/0.1/speed1/8000_time
+tests/100/multKD/0.1/speed1/9000
+tests/100/multKD/0.1/speed1/9000_N
+tests/100/multKD/0.1/speed1/9000_time
+tests/100/multKD/0.1/speed1/10000
+tests/100/multKD/0.1/speed1/10000_N
+tests/100/multKD/0.1/speed1/10000_time
+tests/100/multKD/0.1/speed2/1000
+tests/100/multKD/0.1/speed2/1000_N
+tests/100/multKD/0.1/speed2/1000_time
+tests/100/multKD/0.1/speed2/2000
+tests/100/multKD/0.1/speed2/2000_N
+tests/100/multKD/0.1/speed2/2000_time
+tests/100/multKD/0.1/speed2/3000
+tests/100/multKD/0.1/speed2/3000_N
+tests/100/multKD/0.1/speed2/3000_time
+tests/100/multKD/0.1/speed2/4000
+tests/100/multKD/0.1/speed2/4000_N
+tests/100/multKD/0.1/speed2/4000_time
+tests/100/multKD/0.1/speed2/5000
+tests/100/multKD/0.1/speed2/5000_N
+tests/100/multKD/0.1/speed2/5000_time
+tests/100/multKD/0.1/speed2/6000
+tests/100/multKD/0.1/speed2/6000_N
+tests/100/multKD/0.1/speed2/6000_time
+tests/100/multKD/0.1/speed2/7000
+tests/100/multKD/0.1/speed2/7000_N
+tests/100/multKD/0.1/speed2/7000_time
+tests/100/multKD/0.1/speed2/8000
+tests/100/multKD/0.1/speed2/8000_N
+tests/100/multKD/0.1/speed2/8000_time
+tests/100/multKD/0.1/speed2/9000
+tests/100/multKD/0.1/speed2/9000_N
+tests/100/multKD/0.1/speed2/9000_time
+tests/100/multKD/0.1/speed2/10000
+tests/100/multKD/0.1/speed2/10000_N
+tests/100/multKD/0.1/speed2/10000_time
+tests/100/multKD/0.1/speed3/1000
+tests/100/multKD/0.1/speed3/1000_N
+tests/100/multKD/0.1/speed3/1000_time
+tests/100/multKD/0.1/speed3/2000
+tests/100/multKD/0.1/speed3/2000_N
+tests/100/multKD/0.1/speed3/2000_time
+tests/100/multKD/0.1/speed3/3000
+tests/100/multKD/0.1/speed3/3000_N
+tests/100/multKD/0.1/speed3/3000_time
+tests/100/multKD/0.1/speed3/4000
+tests/100/multKD/0.1/speed3/4000_N
+tests/100/multKD/0.1/speed3/4000_time
+tests/100/multKD/0.1/speed3/5000
+tests/100/multKD/0.1/speed3/5000_N
+tests/100/multKD/0.1/speed3/5000_time
+tests/100/multKD/0.1/speed3/6000
+tests/100/multKD/0.1/speed3/6000_N
+tests/100/multKD/0.1/speed3/6000_time
+tests/100/multKD/0.1/speed3/7000
+tests/100/multKD/0.1/speed3/7000_N
+tests/100/multKD/0.1/speed3/7000_time
+tests/100/multKD/0.1/speed3/8000
+tests/100/multKD/0.1/speed3/8000_N
+tests/100/multKD/0.1/speed3/8000_time
+tests/100/multKD/0.1/speed3/9000
+tests/100/multKD/0.1/speed3/9000_N
+tests/100/multKD/0.1/speed3/9000_time
+tests/100/multKD/0.1/speed3/10000
+tests/100/multKD/0.1/speed3/10000_N
+tests/100/multKD/0.1/speed3/10000_time
+tests/100/NewmultKD/0.1/speed1/5000
+tests/100/NewmultKD/0.1/speed1/5000_N
+tests/100/NewmultKD/0.1/speed1/5000_time
+tests/100/Newstrat/0.1/speed1/6000
+tests/100/Newstrat/0.1/speed1/6000_N
+tests/100/Newstrat/0.1/speed1/6000_time
+tests/100/Newstrat/0.1/speed2/6000
+tests/100/Newstrat/0.1/speed2/6000_N
+tests/100/Newstrat/0.1/speed2/6000_time
+tests/100/NewstratPna/0.1/speed2/6000
+tests/100/NewstratPna/0.1/speed2/6000_N
+tests/100/NewstratPna/0.1/speed2/6000_time
+tests/100/stratKD/0.1/speed1/1000
+tests/100/stratKD/0.1/speed1/1000_N
+tests/100/stratKD/0.1/speed1/1000_time
+tests/100/stratKD/0.1/speed1/2000
+tests/100/stratKD/0.1/speed1/2000_N
+tests/100/stratKD/0.1/speed1/2000_time
+tests/100/stratKD/0.1/speed1/3000
+tests/100/stratKD/0.1/speed1/3000_N
+tests/100/stratKD/0.1/speed1/3000_time
+tests/100/stratKD/0.1/speed1/4000
+tests/100/stratKD/0.1/speed1/4000_N
+tests/100/stratKD/0.1/speed1/4000_time
+tests/100/stratKD/0.1/speed1/5000
+tests/100/stratKD/0.1/speed1/5000_N
+tests/100/stratKD/0.1/speed1/5000_time
+tests/100/stratKD/0.1/speed1/6000
+tests/100/stratKD/0.1/speed1/6000_N
+tests/100/stratKD/0.1/speed1/6000_time
+tests/100/stratKD/0.1/speed1/7000
+tests/100/stratKD/0.1/speed1/7000_N
+tests/100/stratKD/0.1/speed1/7000_time
+tests/100/stratKD/0.1/speed1/8000
+tests/100/stratKD/0.1/speed1/8000_N
+tests/100/stratKD/0.1/speed1/8000_time
+tests/100/stratKD/0.1/speed1/9000
+tests/100/stratKD/0.1/speed1/9000_N
+tests/100/stratKD/0.1/speed1/9000_time
+tests/100/stratKD/0.1/speed1/10000
+tests/100/stratKD/0.1/speed1/10000_N
+tests/100/stratKD/0.1/speed1/10000_time
+tests/100/stratKD/0.1/speed2/1000
+tests/100/stratKD/0.1/speed2/1000_N
+tests/100/stratKD/0.1/speed2/1000_time
+tests/100/stratKD/0.1/speed2/2000
+tests/100/stratKD/0.1/speed2/2000_N
+tests/100/stratKD/0.1/speed2/2000_time
+tests/100/stratKD/0.1/speed2/3000
+tests/100/stratKD/0.1/speed2/3000_N
+tests/100/stratKD/0.1/speed2/3000_time
+tests/100/stratKD/0.1/speed2/4000
+tests/100/stratKD/0.1/speed2/4000_N
+tests/100/stratKD/0.1/speed2/4000_time
+tests/100/stratKD/0.1/speed2/5000
+tests/100/stratKD/0.1/speed2/5000_N
+tests/100/stratKD/0.1/speed2/5000_time
+tests/100/stratKD/0.1/speed2/6000
+tests/100/stratKD/0.1/speed2/6000_N
+tests/100/stratKD/0.1/speed2/6000_time
+tests/100/stratKD/0.1/speed2/7000
+tests/100/stratKD/0.1/speed2/7000_N
+tests/100/stratKD/0.1/speed2/7000_time
+tests/100/stratKD/0.1/speed2/8000
+tests/100/stratKD/0.1/speed2/8000_N
+tests/100/stratKD/0.1/speed2/8000_time
+tests/100/stratKD/0.1/speed2/9000
+tests/100/stratKD/0.1/speed2/9000_N
+tests/100/stratKD/0.1/speed2/9000_time
+tests/100/stratKD/0.1/speed2/10000
+tests/100/stratKD/0.1/speed2/10000_N
+tests/100/stratKD/0.1/speed2/10000_time
+tests/100/stratKD/0.1/speed3/1000
+tests/100/stratKD/0.1/speed3/1000_N
+tests/100/stratKD/0.1/speed3/1000_time
+tests/100/stratKD/0.1/speed3/2000
+tests/100/stratKD/0.1/speed3/2000_N
+tests/100/stratKD/0.1/speed3/2000_time
+tests/100/stratKD/0.1/speed3/3000
+tests/100/stratKD/0.1/speed3/3000_N
+tests/100/stratKD/0.1/speed3/3000_time
+tests/100/stratKD/0.1/speed3/4000
+tests/100/stratKD/0.1/speed3/4000_N
+tests/100/stratKD/0.1/speed3/4000_time
+tests/100/stratKD/0.1/speed3/5000
+tests/100/stratKD/0.1/speed3/5000_N
+tests/100/stratKD/0.1/speed3/5000_time
+tests/100/stratKD/0.1/speed3/6000
+tests/100/stratKD/0.1/speed3/6000_N
+tests/100/stratKD/0.1/speed3/6000_time
+tests/100/stratKD/0.1/speed3/7000
+tests/100/stratKD/0.1/speed3/7000_N
+tests/100/stratKD/0.1/speed3/7000_time
+tests/100/stratKD/0.1/speed3/8000
+tests/100/stratKD/0.1/speed3/8000_N
+tests/100/stratKD/0.1/speed3/8000_time
+tests/100/stratKD/0.1/speed3/9000
+tests/100/stratKD/0.1/speed3/9000_N
+tests/100/stratKD/0.1/speed3/9000_time
+tests/100/stratKD/0.1/speed3/10000
+tests/100/stratKD/0.1/speed3/10000_N
+tests/100/stratKD/0.1/speed3/10000_time
+tests/100/systKD/0.1/speed1/1000
+tests/100/systKD/0.1/speed1/1000_N
+tests/100/systKD/0.1/speed1/1000_time
+tests/100/systKD/0.1/speed1/2000
+tests/100/systKD/0.1/speed1/2000_N
+tests/100/systKD/0.1/speed1/2000_time
+tests/100/systKD/0.1/speed1/3000
+tests/100/systKD/0.1/speed1/3000_N
+tests/100/systKD/0.1/speed1/3000_time
+tests/100/systKD/0.1/speed1/4000
+tests/100/systKD/0.1/speed1/4000_N
+tests/100/systKD/0.1/speed1/4000_time
+tests/100/systKD/0.1/speed1/5000
+tests/100/systKD/0.1/speed1/5000_N
+tests/100/systKD/0.1/speed1/5000_time
+tests/100/systKD/0.1/speed1/6000
+tests/100/systKD/0.1/speed1/6000_N
+tests/100/systKD/0.1/speed1/6000_time
+tests/100/systKD/0.1/speed1/7000
+tests/100/systKD/0.1/speed1/7000_N
+tests/100/systKD/0.1/speed1/7000_time
+tests/100/systKD/0.1/speed1/8000
+tests/100/systKD/0.1/speed1/8000_N
+tests/100/systKD/0.1/speed1/8000_time
+tests/100/systKD/0.1/speed1/9000
+tests/100/systKD/0.1/speed1/9000_N
+tests/100/systKD/0.1/speed1/9000_time
+tests/100/systKD/0.1/speed1/10000
+tests/100/systKD/0.1/speed1/10000_N
+tests/100/systKD/0.1/speed1/10000_time
+tests/100/systKD/0.1/speed2/1000
+tests/100/systKD/0.1/speed2/1000_N
+tests/100/systKD/0.1/speed2/1000_time
+tests/100/systKD/0.1/speed2/2000
+tests/100/systKD/0.1/speed2/2000_N
+tests/100/systKD/0.1/speed2/2000_time
+tests/100/systKD/0.1/speed2/3000
+tests/100/systKD/0.1/speed2/3000_N
+tests/100/systKD/0.1/speed2/3000_time
+tests/100/systKD/0.1/speed2/4000
+tests/100/systKD/0.1/speed2/4000_N
+tests/100/systKD/0.1/speed2/4000_time
+tests/100/systKD/0.1/speed2/5000
+tests/100/systKD/0.1/speed2/5000_N
+tests/100/systKD/0.1/speed2/5000_time
+tests/100/systKD/0.1/speed2/6000
+tests/100/systKD/0.1/speed2/6000_N
+tests/100/systKD/0.1/speed2/6000_time
+tests/100/systKD/0.1/speed2/7000
+tests/100/systKD/0.1/speed2/7000_N
+tests/100/systKD/0.1/speed2/7000_time
+tests/100/systKD/0.1/speed2/8000
+tests/100/systKD/0.1/speed2/8000_N
+tests/100/systKD/0.1/speed2/8000_time
+tests/100/systKD/0.1/speed2/9000
+tests/100/systKD/0.1/speed2/9000_N
+tests/100/systKD/0.1/speed2/9000_time
+tests/100/systKD/0.1/speed2/10000
+tests/100/systKD/0.1/speed2/10000_N
+tests/100/systKD/0.1/speed2/10000_time
+tests/100/systKD/0.1/speed3/1000
+tests/100/systKD/0.1/speed3/1000_N
+tests/100/systKD/0.1/speed3/1000_time
+tests/100/systKD/0.1/speed3/2000
+tests/100/systKD/0.1/speed3/2000_N
+tests/100/systKD/0.1/speed3/2000_time
+tests/100/systKD/0.1/speed3/3000
+tests/100/systKD/0.1/speed3/3000_N
+tests/100/systKD/0.1/speed3/3000_time
+tests/100/systKD/0.1/speed3/4000
+tests/100/systKD/0.1/speed3/4000_N
+tests/100/systKD/0.1/speed3/4000_time
+tests/100/systKD/0.1/speed3/5000
+tests/100/systKD/0.1/speed3/5000_N
+tests/100/systKD/0.1/speed3/5000_time
+tests/100/systKD/0.1/speed3/6000
+tests/100/systKD/0.1/speed3/6000_N
+tests/100/systKD/0.1/speed3/6000_time
+tests/100/systKD/0.1/speed3/7000
+tests/100/systKD/0.1/speed3/7000_N
+tests/100/systKD/0.1/speed3/7000_time
+tests/100/systKD/0.1/speed3/8000
+tests/100/systKD/0.1/speed3/8000_N
+tests/100/systKD/0.1/speed3/8000_time
+tests/100/systKD/0.1/speed3/9000
+tests/100/systKD/0.1/speed3/9000_N
+tests/100/systKD/0.1/speed3/9000_time
+tests/100/systKD/0.1/speed3/10000
+tests/100/systKD/0.1/speed3/10000_N
+tests/100/systKD/0.1/speed3/10000_time
+tests/100/пол./0.1/curve/1000
+tests/100/пол./0.1/curve/1000_time
+tests/100/пол./0.1/curve/2000
+tests/100/пол./0.1/curve/2000_time
+tests/100/пол./0.1/curve/3000
+tests/100/пол./0.1/curve/3000_time
+tests/100/пол./0.1/curve/4000
+tests/100/пол./0.1/curve/4000_time
+tests/100/пол./0.1/curve/5000
+tests/100/пол./0.1/curve/5000_time
+tests/100/пол./0.1/curve/6000
+tests/100/пол./0.1/curve/6000_time
+tests/100/пол./0.1/curve/7000
+tests/100/пол./0.1/curve/7000_time
+tests/100/пол./0.1/curve/8000
+tests/100/пол./0.1/curve/8000_time
+tests/100/пол./0.1/curve/9000
+tests/100/пол./0.1/curve/9000_time
+tests/100/пол./0.1/curve/10000
+tests/100/пол./0.1/curve/10000_time
+tests/100/пол./0.1/curve/11000
+tests/100/пол./0.1/curve/11000_time
+tests/100/пол./0.1/curve/12000
+tests/100/пол./0.1/curve/12000_time
+tests/100/пол./0.1/curve/13000
+tests/100/пол./0.1/curve/13000_time
+tests/100/пол./0.1/curve/14000
+tests/100/пол./0.1/curve/14000_time
+tests/100/пол./0.1/curve/15000
+tests/100/пол./0.1/curve/15000_time
+tests/100/пол./0.1/eight/1000
+tests/100/пол./0.1/eight/1000_time
+tests/100/пол./0.1/eight/2000
+tests/100/пол./0.1/eight/2000_time
+tests/100/пол./0.1/eight/3000
+tests/100/пол./0.1/eight/3000_time
+tests/100/пол./0.1/eight/4000
+tests/100/пол./0.1/eight/4000_time
+tests/100/пол./0.1/eight/5000
+tests/100/пол./0.1/eight/5000_time
+tests/100/пол./0.1/eight/6000
+tests/100/пол./0.1/eight/6000_time
+tests/100/пол./0.1/eight/7000
+tests/100/пол./0.1/eight/7000_time
+tests/100/пол./0.1/eight/8000
+tests/100/пол./0.1/eight/8000_time
+tests/100/пол./0.1/eight/9000
+tests/100/пол./0.1/eight/9000_time
+tests/100/пол./0.1/eight/10000
+tests/100/пол./0.1/eight/10000_time
+tests/100/пол./0.1/eight/11000
+tests/100/пол./0.1/eight/11000_time
+tests/100/пол./0.1/eight/12000
+tests/100/пол./0.1/eight/12000_time
+tests/100/пол./0.1/eight/13000
+tests/100/пол./0.1/eight/13000_time
+tests/100/пол./0.1/eight/14000
+tests/100/пол./0.1/eight/14000_time
+tests/100/пол./0.1/eight/15000
+tests/100/пол./0.1/eight/15000_time
+tests/100/пол./0.2/curve/1000
+tests/100/пол./0.2/curve/1000_time
+tests/100/пол./0.2/curve/2000
+tests/100/пол./0.2/curve/2000_time
+tests/100/пол./0.2/curve/3000
+tests/100/пол./0.2/curve/3000_time
+tests/100/пол./0.2/curve/4000
+tests/100/пол./0.2/curve/4000_time
+tests/100/пол./0.2/curve/5000
+tests/100/пол./0.2/curve/5000_time
+tests/100/пол./0.2/curve/6000
+tests/100/пол./0.2/curve/6000_time
+tests/100/пол./0.2/curve/7000
+tests/100/пол./0.2/curve/7000_time
+tests/100/пол./0.2/curve/8000
+tests/100/пол./0.2/curve/8000_time
+tests/100/пол./0.2/curve/9000
+tests/100/пол./0.2/curve/9000_time
+tests/100/пол./0.2/curve/10000
+tests/100/пол./0.2/curve/10000_time
+tests/100/пол./0.2/curve/11000
+tests/100/пол./0.2/curve/11000_time
+tests/100/пол./0.2/curve/12000
+tests/100/пол./0.2/curve/12000_time
+tests/100/пол./0.2/curve/13000
+tests/100/пол./0.2/curve/13000_time
+tests/100/пол./0.2/curve/14000
+tests/100/пол./0.2/curve/14000_time
+tests/100/пол./0.2/curve/15000
+tests/100/пол./0.2/curve/15000_time
+tests/100/пол./0.2/eight/1000
+tests/100/пол./0.2/eight/1000_time
+tests/100/пол./0.2/eight/2000
+tests/100/пол./0.2/eight/2000_time
+tests/100/пол./0.2/eight/3000
+tests/100/пол./0.2/eight/3000_time
+tests/100/пол./0.2/eight/4000
+tests/100/пол./0.2/eight/4000_time
+tests/100/пол./0.2/eight/5000
+tests/100/пол./0.2/eight/5000_time
+tests/100/пол./0.2/eight/6000
+tests/100/пол./0.2/eight/6000_time
+tests/100/пол./0.2/eight/7000
+tests/100/пол./0.2/eight/7000_time
+tests/100/пол./0.2/eight/8000
+tests/100/пол./0.2/eight/8000_time
+tests/100/пол./0.2/eight/9000
+tests/100/пол./0.2/eight/9000_time
+tests/100/пол./0.2/eight/10000
+tests/100/пол./0.2/eight/10000_time
+tests/100/пол./0.2/eight/11000
+tests/100/пол./0.2/eight/11000_time
+tests/100/пол./0.2/eight/12000
+tests/100/пол./0.2/eight/12000_time
+tests/100/пол./0.2/eight/13000
+tests/100/пол./0.2/eight/13000_time
+tests/100/пол./0.2/eight/14000
+tests/100/пол./0.2/eight/14000_time
+tests/100/пол./0.2/eight/15000
+tests/100/пол./0.2/eight/15000_time
+tests/100/пол. c/0.1/speed1/5000
+tests/100/пол. c/0.1/speed1/5000_N
+tests/100/пол. c/0.1/speed1/5000_time
+tests/100/пол. c/0.1/speed1/6000
+tests/100/пол. c/0.1/speed1/6000_N
+tests/100/пол. c/0.1/speed1/6000_time
+tests/100/пол. c/0.1/speed1/10000
+tests/100/пол. c/0.1/speed1/10000_N
+tests/100/пол. c/0.1/speed1/10000_time
+tests/100/пол. апост./0.1/speed1/1000
+tests/100/пол. апост./0.1/speed1/1000_N
+tests/100/пол. апост./0.1/speed1/1000_time
+tests/100/пол. апост./0.1/speed1/2000
+tests/100/пол. апост./0.1/speed1/2000_N
+tests/100/пол. апост./0.1/speed1/2000_time
+tests/100/пол. апост./0.1/speed1/3000
+tests/100/пол. апост./0.1/speed1/3000_N
+tests/100/пол. апост./0.1/speed1/3000_time
+tests/100/пол. апост./0.1/speed1/4000
+tests/100/пол. апост./0.1/speed1/4000_N
+tests/100/пол. апост./0.1/speed1/4000_time
+tests/100/пол. апост./0.1/speed1/5000
+tests/100/пол. апост./0.1/speed1/5000_fission
+tests/100/пол. апост./0.1/speed1/5000_fission_N
+tests/100/пол. апост./0.1/speed1/5000_fission_time
+tests/100/пол. апост./0.1/speed1/5000_N
+tests/100/пол. апост./0.1/speed1/5000_time
+tests/100/пол. апост./0.1/speed1/6000
+tests/100/пол. апост./0.1/speed1/6000_fission
+tests/100/пол. апост./0.1/speed1/6000_fission_N
+tests/100/пол. апост./0.1/speed1/6000_fission_time
+tests/100/пол. апост./0.1/speed1/6000_N
+tests/100/пол. апост./0.1/speed1/6000_time
+tests/100/пол. апост./0.1/speed1/7000
+tests/100/пол. апост./0.1/speed1/7000_fission
+tests/100/пол. апост./0.1/speed1/7000_fission_N
+tests/100/пол. апост./0.1/speed1/7000_fission_time
+tests/100/пол. апост./0.1/speed1/7000_N
+tests/100/пол. апост./0.1/speed1/7000_time
+tests/100/пол. апост./0.1/speed1/8000
+tests/100/пол. апост./0.1/speed1/8000_fission
+tests/100/пол. апост./0.1/speed1/8000_fission_N
+tests/100/пол. апост./0.1/speed1/8000_fission_time
+tests/100/пол. апост./0.1/speed1/8000_N
+tests/100/пол. апост./0.1/speed1/8000_time
+tests/100/пол. апост./0.1/speed1/9000
+tests/100/пол. апост./0.1/speed1/9000_fission
+tests/100/пол. апост./0.1/speed1/9000_fission_N
+tests/100/пол. апост./0.1/speed1/9000_fission_time
+tests/100/пол. апост./0.1/speed1/9000_N
+tests/100/пол. апост./0.1/speed1/9000_time
+tests/100/пол. апост./0.1/speed1/10000
+tests/100/пол. апост./0.1/speed1/10000_fission
+tests/100/пол. апост./0.1/speed1/10000_fission_N
+tests/100/пол. апост./0.1/speed1/10000_fission_time
+tests/100/пол. апост./0.1/speed1/10000_N
+tests/100/пол. апост./0.1/speed1/10000_time
+tests/100/пол. апост./0.1/speed2/1000
+tests/100/пол. апост./0.1/speed2/1000_N
+tests/100/пол. апост./0.1/speed2/1000_time
+tests/100/пол. апост./0.1/speed2/2000
+tests/100/пол. апост./0.1/speed2/2000_N
+tests/100/пол. апост./0.1/speed2/2000_time
+tests/100/пол. апост./0.1/speed2/3000
+tests/100/пол. апост./0.1/speed2/3000_N
+tests/100/пол. апост./0.1/speed2/3000_time
+tests/100/пол. апост./0.1/speed2/4000
+tests/100/пол. апост./0.1/speed2/4000_N
+tests/100/пол. апост./0.1/speed2/4000_time
+tests/100/пол. апост./0.1/speed2/5000
+tests/100/пол. апост./0.1/speed2/5000_N
+tests/100/пол. апост./0.1/speed2/5000_time
+tests/100/пол. апост./0.1/speed2/6000
+tests/100/пол. апост./0.1/speed2/6000_N
+tests/100/пол. апост./0.1/speed2/6000_time
+tests/100/пол. апост./0.1/speed2/7000
+tests/100/пол. апост./0.1/speed2/7000_fission
+tests/100/пол. апост./0.1/speed2/7000_fission_N
+tests/100/пол. апост./0.1/speed2/7000_fission_time
+tests/100/пол. апост./0.1/speed2/7000_N
+tests/100/пол. апост./0.1/speed2/7000_time
+tests/100/пол. апост./0.1/speed2/8000
+tests/100/пол. апост./0.1/speed2/8000_fission
+tests/100/пол. апост./0.1/speed2/8000_fission_N
+tests/100/пол. апост./0.1/speed2/8000_fission_time
+tests/100/пол. апост./0.1/speed2/8000_N
+tests/100/пол. апост./0.1/speed2/8000_time
+tests/100/пол. апост./0.1/speed2/9000
+tests/100/пол. апост./0.1/speed2/9000_fission
+tests/100/пол. апост./0.1/speed2/9000_fission_N
+tests/100/пол. апост./0.1/speed2/9000_fission_time
+tests/100/пол. апост./0.1/speed2/9000_N
+tests/100/пол. апост./0.1/speed2/9000_time
+tests/100/пол. апост./0.1/speed2/10000
+tests/100/пол. апост./0.1/speed2/10000_fission
+tests/100/пол. апост./0.1/speed2/10000_fission_N
+tests/100/пол. апост./0.1/speed2/10000_fission_time
+tests/100/пол. апост./0.1/speed2/10000_N
+tests/100/пол. апост./0.1/speed2/10000_time
+tests/100/пол. апост./0.1/speed3/1000
+tests/100/пол. апост./0.1/speed3/1000_N
+tests/100/пол. апост./0.1/speed3/1000_time
+tests/100/пол. апост./0.1/speed3/2000
+tests/100/пол. апост./0.1/speed3/2000_N
+tests/100/пол. апост./0.1/speed3/2000_time
+tests/100/пол. апост./0.1/speed3/3000
+tests/100/пол. апост./0.1/speed3/3000_N
+tests/100/пол. апост./0.1/speed3/3000_time
+tests/100/пол. апост./0.1/speed3/4000
+tests/100/пол. апост./0.1/speed3/4000_N
+tests/100/пол. апост./0.1/speed3/4000_time
+tests/100/пол. апост./0.1/speed3/5000
+tests/100/пол. апост./0.1/speed3/5000_N
+tests/100/пол. апост./0.1/speed3/5000_time
+tests/100/пол. апост./0.1/speed3/6000
+tests/100/пол. апост./0.1/speed3/6000_N
+tests/100/пол. апост./0.1/speed3/6000_time
+tests/100/пол. апост./0.1/speed3/7000
+tests/100/пол. апост./0.1/speed3/7000_fission
+tests/100/пол. апост./0.1/speed3/7000_fission_N
+tests/100/пол. апост./0.1/speed3/7000_fission_time
+tests/100/пол. апост./0.1/speed3/7000_N
+tests/100/пол. апост./0.1/speed3/7000_time
+tests/100/пол. апост./0.1/speed3/8000
+tests/100/пол. апост./0.1/speed3/8000_fission
+tests/100/пол. апост./0.1/speed3/8000_fission_N
+tests/100/пол. апост./0.1/speed3/8000_fission_time
+tests/100/пол. апост./0.1/speed3/8000_N
+tests/100/пол. апост./0.1/speed3/8000_time
+tests/100/пол. апост./0.1/speed3/9000
+tests/100/пол. апост./0.1/speed3/9000_fission
+tests/100/пол. апост./0.1/speed3/9000_fission_N
+tests/100/пол. апост./0.1/speed3/9000_fission_time
+tests/100/пол. апост./0.1/speed3/9000_N
+tests/100/пол. апост./0.1/speed3/9000_time
+tests/100/пол. апост./0.1/speed3/10000
+tests/100/пол. апост./0.1/speed3/10000_fission
+tests/100/пол. апост./0.1/speed3/10000_fission_N
+tests/100/пол. апост./0.1/speed3/10000_fission_time
+tests/100/пол. апост./0.1/speed3/10000_N
+tests/100/пол. апост./0.1/speed3/10000_time
+tests/100/пол. РК1/0.1/speed1/1000
+tests/100/пол. РК1/0.1/speed1/1000_N
+tests/100/пол. РК1/0.1/speed1/1000_time
+tests/100/пол. РК1/0.1/speed1/2000
+tests/100/пол. РК1/0.1/speed1/2000_N
+tests/100/пол. РК1/0.1/speed1/2000_time
+tests/100/пол. РК1/0.1/speed1/3000
+tests/100/пол. РК1/0.1/speed1/3000_N
+tests/100/пол. РК1/0.1/speed1/3000_time
+tests/100/пол. РК1/0.1/speed1/4000
+tests/100/пол. РК1/0.1/speed1/4000_N
+tests/100/пол. РК1/0.1/speed1/4000_time
+tests/100/пол. РК1/0.1/speed1/5000
+tests/100/пол. РК1/0.1/speed1/5000_fission
+tests/100/пол. РК1/0.1/speed1/5000_fission_N
+tests/100/пол. РК1/0.1/speed1/5000_fission_time
+tests/100/пол. РК1/0.1/speed1/5000_N
+tests/100/пол. РК1/0.1/speed1/5000_time
+tests/100/пол. РК1/0.1/speed1/6000
+tests/100/пол. РК1/0.1/speed1/6000_fission
+tests/100/пол. РК1/0.1/speed1/6000_fission_N
+tests/100/пол. РК1/0.1/speed1/6000_fission_time
+tests/100/пол. РК1/0.1/speed1/6000_N
+tests/100/пол. РК1/0.1/speed1/6000_time
+tests/100/пол. РК1/0.1/speed1/7000
+tests/100/пол. РК1/0.1/speed1/7000_fission
+tests/100/пол. РК1/0.1/speed1/7000_fission_N
+tests/100/пол. РК1/0.1/speed1/7000_fission_time
+tests/100/пол. РК1/0.1/speed1/7000_N
+tests/100/пол. РК1/0.1/speed1/7000_time
+tests/100/пол. РК1/0.1/speed1/8000
+tests/100/пол. РК1/0.1/speed1/8000_fission
+tests/100/пол. РК1/0.1/speed1/8000_fission_N
+tests/100/пол. РК1/0.1/speed1/8000_fission_time
+tests/100/пол. РК1/0.1/speed1/8000_N
+tests/100/пол. РК1/0.1/speed1/8000_time
+tests/100/пол. РК1/0.1/speed1/9000
+tests/100/пол. РК1/0.1/speed1/9000_fission
+tests/100/пол. РК1/0.1/speed1/9000_fission_N
+tests/100/пол. РК1/0.1/speed1/9000_fission_time
+tests/100/пол. РК1/0.1/speed1/9000_N
+tests/100/пол. РК1/0.1/speed1/9000_time
+tests/100/пол. РК1/0.1/speed1/10000
+tests/100/пол. РК1/0.1/speed1/10000_fission
+tests/100/пол. РК1/0.1/speed1/10000_fission_N
+tests/100/пол. РК1/0.1/speed1/10000_fission_time
+tests/100/пол. РК1/0.1/speed1/10000_N
+tests/100/пол. РК1/0.1/speed1/10000_time
+tests/100/пол. РК1/0.1/speed2/1000
+tests/100/пол. РК1/0.1/speed2/1000_N
+tests/100/пол. РК1/0.1/speed2/1000_time
+tests/100/пол. РК1/0.1/speed2/2000
+tests/100/пол. РК1/0.1/speed2/2000_N
+tests/100/пол. РК1/0.1/speed2/2000_time
+tests/100/пол. РК1/0.1/speed2/3000
+tests/100/пол. РК1/0.1/speed2/3000_N
+tests/100/пол. РК1/0.1/speed2/3000_time
+tests/100/пол. РК1/0.1/speed2/4000
+tests/100/пол. РК1/0.1/speed2/4000_N
+tests/100/пол. РК1/0.1/speed2/4000_time
+tests/100/пол. РК1/0.1/speed2/5000
+tests/100/пол. РК1/0.1/speed2/5000_fission
+tests/100/пол. РК1/0.1/speed2/5000_fission_N
+tests/100/пол. РК1/0.1/speed2/5000_fission_time
+tests/100/пол. РК1/0.1/speed2/5000_N
+tests/100/пол. РК1/0.1/speed2/5000_time
+tests/100/пол. РК1/0.1/speed2/6000
+tests/100/пол. РК1/0.1/speed2/6000_fission
+tests/100/пол. РК1/0.1/speed2/6000_fission_N
+tests/100/пол. РК1/0.1/speed2/6000_fission_time
+tests/100/пол. РК1/0.1/speed2/6000_N
+tests/100/пол. РК1/0.1/speed2/6000_time
+tests/100/пол. РК1/0.1/speed2/7000
+tests/100/пол. РК1/0.1/speed2/7000_fission
+tests/100/пол. РК1/0.1/speed2/7000_fission_N
+tests/100/пол. РК1/0.1/speed2/7000_fission_time
+tests/100/пол. РК1/0.1/speed2/7000_N
+tests/100/пол. РК1/0.1/speed2/7000_time
+tests/100/пол. РК1/0.1/speed2/8000
+tests/100/пол. РК1/0.1/speed2/8000_fission
+tests/100/пол. РК1/0.1/speed2/8000_fission_N
+tests/100/пол. РК1/0.1/speed2/8000_fission_time
+tests/100/пол. РК1/0.1/speed2/8000_N
+tests/100/пол. РК1/0.1/speed2/8000_time
+tests/100/пол. РК1/0.1/speed2/9000
+tests/100/пол. РК1/0.1/speed2/9000_fission
+tests/100/пол. РК1/0.1/speed2/9000_fission_N
+tests/100/пол. РК1/0.1/speed2/9000_fission_time
+tests/100/пол. РК1/0.1/speed2/9000_N
+tests/100/пол. РК1/0.1/speed2/9000_time
+tests/100/пол. РК1/0.1/speed2/10000
+tests/100/пол. РК1/0.1/speed2/10000_fission
+tests/100/пол. РК1/0.1/speed2/10000_fission_N
+tests/100/пол. РК1/0.1/speed2/10000_fission_time
+tests/100/пол. РК1/0.1/speed2/10000_N
+tests/100/пол. РК1/0.1/speed2/10000_time
+tests/100/пол. РК1/0.1/speed3/1000
+tests/100/пол. РК1/0.1/speed3/1000_N
+tests/100/пол. РК1/0.1/speed3/1000_time
+tests/100/пол. РК1/0.1/speed3/2000
+tests/100/пол. РК1/0.1/speed3/2000_N
+tests/100/пол. РК1/0.1/speed3/2000_time
+tests/100/пол. РК1/0.1/speed3/3000
+tests/100/пол. РК1/0.1/speed3/3000_N
+tests/100/пол. РК1/0.1/speed3/3000_time
+tests/100/пол. РК1/0.1/speed3/4000
+tests/100/пол. РК1/0.1/speed3/4000_N
+tests/100/пол. РК1/0.1/speed3/4000_time
+tests/100/пол. РК1/0.1/speed3/5000
+tests/100/пол. РК1/0.1/speed3/5000_fission
+tests/100/пол. РК1/0.1/speed3/5000_fission_N
+tests/100/пол. РК1/0.1/speed3/5000_fission_time
+tests/100/пол. РК1/0.1/speed3/5000_N
+tests/100/пол. РК1/0.1/speed3/5000_time
+tests/100/пол. РК1/0.1/speed3/6000
+tests/100/пол. РК1/0.1/speed3/6000_fission
+tests/100/пол. РК1/0.1/speed3/6000_fission_N
+tests/100/пол. РК1/0.1/speed3/6000_fission_time
+tests/100/пол. РК1/0.1/speed3/6000_N
+tests/100/пол. РК1/0.1/speed3/6000_time
+tests/100/пол. РК1/0.1/speed3/7000
+tests/100/пол. РК1/0.1/speed3/7000_fission
+tests/100/пол. РК1/0.1/speed3/7000_fission_N
+tests/100/пол. РК1/0.1/speed3/7000_fission_time
+tests/100/пол. РК1/0.1/speed3/7000_N
+tests/100/пол. РК1/0.1/speed3/7000_time
+tests/100/пол. РК1/0.1/speed3/8000
+tests/100/пол. РК1/0.1/speed3/8000_fission
+tests/100/пол. РК1/0.1/speed3/8000_fission_N
+tests/100/пол. РК1/0.1/speed3/8000_fission_time
+tests/100/пол. РК1/0.1/speed3/8000_N
+tests/100/пол. РК1/0.1/speed3/8000_time
+tests/100/пол. РК1/0.1/speed3/9000
+tests/100/пол. РК1/0.1/speed3/9000_fission
+tests/100/пол. РК1/0.1/speed3/9000_fission_N
+tests/100/пол. РК1/0.1/speed3/9000_fission_time
+tests/100/пол. РК1/0.1/speed3/9000_N
+tests/100/пол. РК1/0.1/speed3/9000_time
+tests/100/пол. РК1/0.1/speed3/10000
+tests/100/пол. РК1/0.1/speed3/10000_fission
+tests/100/пол. РК1/0.1/speed3/10000_fission_N
+tests/100/пол. РК1/0.1/speed3/10000_fission_time
+tests/100/пол. РК1/0.1/speed3/10000_N
+tests/100/пол. РК1/0.1/speed3/10000_time
+tests/100/пол. РКЛ/0.1/speed1/5000
+tests/100/пол. РКЛ/0.1/speed1/5000_fission
+tests/100/пол. РКЛ/0.1/speed1/5000_fission_N
+tests/100/пол. РКЛ/0.1/speed1/5000_fission_time
+tests/100/пол. РКЛ/0.1/speed1/5000_N
+tests/100/пол. РКЛ/0.1/speed1/5000_time
+tests/100/пол. РКЛ/0.1/speed1/6000
+tests/100/пол. РКЛ/0.1/speed1/6000_fission
+tests/100/пол. РКЛ/0.1/speed1/6000_fission_N
+tests/100/пол. РКЛ/0.1/speed1/6000_fission_time
+tests/100/пол. РКЛ/0.1/speed1/6000_N
+tests/100/пол. РКЛ/0.1/speed1/6000_time
+tests/100/пол. РКЛ/0.1/speed1/7000
+tests/100/пол. РКЛ/0.1/speed1/7000_fission
+tests/100/пол. РКЛ/0.1/speed1/7000_fission_N
+tests/100/пол. РКЛ/0.1/speed1/7000_fission_time
+tests/100/пол. РКЛ/0.1/speed1/7000_N
+tests/100/пол. РКЛ/0.1/speed1/7000_time
+tests/100/пол. РКЛ/0.1/speed1/8000
+tests/100/пол. РКЛ/0.1/speed1/8000_fission
+tests/100/пол. РКЛ/0.1/speed1/8000_fission_N
+tests/100/пол. РКЛ/0.1/speed1/8000_fission_time
+tests/100/пол. РКЛ/0.1/speed1/8000_N
+tests/100/пол. РКЛ/0.1/speed1/8000_time
+tests/100/пол. РКЛ/0.1/speed1/9000
+tests/100/пол. РКЛ/0.1/speed1/9000_fission
+tests/100/пол. РКЛ/0.1/speed1/9000_fission_N
+tests/100/пол. РКЛ/0.1/speed1/9000_fission_time
+tests/100/пол. РКЛ/0.1/speed1/9000_N
+tests/100/пол. РКЛ/0.1/speed1/9000_time
+tests/100/пол. РКЛ/0.1/speed1/10000
+tests/100/пол. РКЛ/0.1/speed1/10000_fission
+tests/100/пол. РКЛ/0.1/speed1/10000_fission_N
+tests/100/пол. РКЛ/0.1/speed1/10000_fission_time
+tests/100/пол. РКЛ/0.1/speed1/10000_N
+tests/100/пол. РКЛ/0.1/speed1/10000_time
+tests/100/пол. РКЛ/0.1/speed2/5000
+tests/100/пол. РКЛ/0.1/speed2/5000_N
+tests/100/пол. РКЛ/0.1/speed2/5000_time
+tests/100/пол. РКЛ/0.1/speed2/6000
+tests/100/пол. РКЛ/0.1/speed2/6000_N
+tests/100/пол. РКЛ/0.1/speed2/6000_time
+tests/100/пол. РКЛ/0.1/speed2/7000
+tests/100/пол. РКЛ/0.1/speed2/7000_N
+tests/100/пол. РКЛ/0.1/speed2/7000_time
+tests/100/пол. РКЛ/0.1/speed2/8000
+tests/100/пол. РКЛ/0.1/speed2/8000_N
+tests/100/пол. РКЛ/0.1/speed2/8000_time
+tests/100/пол. РКЛ/0.1/speed2/9000
+tests/100/пол. РКЛ/0.1/speed2/9000_N
+tests/100/пол. РКЛ/0.1/speed2/9000_time
+tests/100/пол. РКЛ/0.1/speed2/10000
+tests/100/пол. РКЛ/0.1/speed2/10000_N
+tests/100/пол. РКЛ/0.1/speed2/10000_time
+tests/100/пол. РКЛ/0.1/speed3/5000
+tests/100/пол. РКЛ/0.1/speed3/6000
+tests/100/пол. РКЛ/0.1/speed3/7000
+tests/100/пол. РКЛ/0.1/speed3/8000
+tests/100/пол. РКЛ/0.1/speed3/9000
+tests/100/пол. РКЛ/0.1/speed3/10000
+tests/100/пол. РКЛ 2/0.1/speed1/5000
+tests/100/пол. РКЛ 2/0.1/speed1/5000_N
+tests/100/пол. РКЛ 2/0.1/speed1/5000_time
+tests/100/пол. РКЛ 2/0.1/speed1/6000
+tests/100/пол. РКЛ 2/0.1/speed1/6000_N
+tests/100/пол. РКЛ 2/0.1/speed1/6000_time
+tests/100/пол. РКЛ 2/0.1/speed1/7000
+tests/100/пол. РКЛ 2/0.1/speed1/7000_N
+tests/100/пол. РКЛ 2/0.1/speed1/7000_time
+tests/100/пол. РКЛ 2/0.1/speed1/8000
+tests/100/пол. РКЛ 2/0.1/speed1/8000_N
+tests/100/пол. РКЛ 2/0.1/speed1/8000_time
+tests/100/пол. РКЛ 2/0.1/speed1/9000
+tests/100/пол. РКЛ 2/0.1/speed1/9000_N
+tests/100/пол. РКЛ 2/0.1/speed1/9000_time
+tests/100/пол. РКЛ 2/0.1/speed1/10000
+tests/100/пол. РКЛ 2/0.1/speed1/10000_N
+tests/100/пол. РКЛ 2/0.1/speed1/10000_time
+tests/100/РКЛ нов. пол./0.1/speed1/5000
+tests/100/РКЛ нов. пол./0.1/speed1/5000_N
+tests/100/РКЛ нов. пол./0.1/speed1/5000_time
+tests/100/РКЛ нов. пол./0.1/speed1/10000
+tests/100/РКЛ нов. пол./0.1/speed1/10000_N
+tests/100/РКЛ нов. пол./0.1/speed1/10000_time
+tests/100/РКЛ нов. сист./0.1/speed1/5000
+tests/100/РКЛ нов. сист./0.1/speed1/5000_N
+tests/100/РКЛ нов. сист./0.1/speed1/5000_time
+tests/100/РКЛ нов. страт./0.1/speed1/5000
+tests/100/РКЛ нов. страт./0.1/speed1/5000_N
+tests/100/РКЛ нов. страт./0.1/speed1/5000_time
+tests/100/РКЛ стар. пол./0.1/speed1/5000
+tests/100/РКЛ стар. пол./0.1/speed1/5000_N
+tests/100/РКЛ стар. пол./0.1/speed1/5000_time
+tests/100/РКЛ стар. пол./0.1/speed1/10000
+tests/100/РКЛ стар. пол./0.1/speed1/10000_N
+tests/100/РКЛ стар. пол./0.1/speed1/10000_time
+tests/100/РКЛ стар. сист./0.1/speed1/5000
+tests/100/РКЛ стар. сист./0.1/speed1/5000_N
+tests/100/РКЛ стар. сист./0.1/speed1/5000_time
+tests/100/РКЛ стар. страт./0.1/speed1/5000
+tests/100/РКЛ стар. страт./0.1/speed1/5000_N
+tests/100/РКЛ стар. страт./0.1/speed1/5000_time
+tests/100/сист./0.1/curve/1000
+tests/100/сист./0.1/curve/1000_time
+tests/100/сист./0.1/curve/2000
+tests/100/сист./0.1/curve/2000_time
+tests/100/сист./0.1/curve/3000
+tests/100/сист./0.1/curve/3000_time
+tests/100/сист./0.1/curve/4000
+tests/100/сист./0.1/curve/4000_time
+tests/100/сист./0.1/curve/5000
+tests/100/сист./0.1/curve/5000_time
+tests/100/сист./0.1/curve/6000
+tests/100/сист./0.1/curve/6000_time
+tests/100/сист./0.1/curve/7000
+tests/100/сист./0.1/curve/7000_time
+tests/100/сист./0.1/curve/8000
+tests/100/сист./0.1/curve/8000_time
+tests/100/сист./0.1/curve/9000
+tests/100/сист./0.1/curve/9000_time
+tests/100/сист./0.1/curve/10000
+tests/100/сист./0.1/curve/10000_time
+tests/100/сист./0.1/curve/11000
+tests/100/сист./0.1/curve/11000_time
+tests/100/сист./0.1/curve/12000
+tests/100/сист./0.1/curve/12000_time
+tests/100/сист./0.1/curve/13000
+tests/100/сист./0.1/curve/13000_time
+tests/100/сист./0.1/curve/14000
+tests/100/сист./0.1/curve/14000_time
+tests/100/сист./0.1/curve/15000
+tests/100/сист./0.1/curve/15000_time
+tests/100/сист./0.1/eight/1000
+tests/100/сист./0.1/eight/1000_time
+tests/100/сист./0.1/eight/2000
+tests/100/сист./0.1/eight/2000_time
+tests/100/сист./0.1/eight/3000
+tests/100/сист./0.1/eight/3000_time
+tests/100/сист./0.1/eight/4000
+tests/100/сист./0.1/eight/4000_time
+tests/100/сист./0.1/eight/5000
+tests/100/сист./0.1/eight/5000_time
+tests/100/сист./0.1/eight/6000
+tests/100/сист./0.1/eight/6000_time
+tests/100/сист./0.1/eight/7000
+tests/100/сист./0.1/eight/7000_time
+tests/100/сист./0.1/eight/8000
+tests/100/сист./0.1/eight/8000_time
+tests/100/сист./0.1/eight/9000
+tests/100/сист./0.1/eight/9000_time
+tests/100/сист./0.1/eight/10000
+tests/100/сист./0.1/eight/10000_time
+tests/100/сист./0.1/eight/11000
+tests/100/сист./0.1/eight/11000_time
+tests/100/сист./0.1/eight/12000
+tests/100/сист./0.1/eight/12000_time
+tests/100/сист./0.1/eight/13000
+tests/100/сист./0.1/eight/13000_time
+tests/100/сист./0.1/eight/14000
+tests/100/сист./0.1/eight/14000_time
+tests/100/сист./0.1/eight/15000
+tests/100/сист./0.1/eight/15000_time
+tests/100/сист./0.2/curve/1000
+tests/100/сист./0.2/curve/1000_time
+tests/100/сист./0.2/curve/2000
+tests/100/сист./0.2/curve/2000_time
+tests/100/сист./0.2/curve/3000
+tests/100/сист./0.2/curve/3000_time
+tests/100/сист./0.2/curve/4000
+tests/100/сист./0.2/curve/4000_time
+tests/100/сист./0.2/curve/5000
+tests/100/сист./0.2/curve/5000_time
+tests/100/сист./0.2/curve/6000
+tests/100/сист./0.2/curve/6000_time
+tests/100/сист./0.2/curve/7000
+tests/100/сист./0.2/curve/7000_time
+tests/100/сист./0.2/curve/8000
+tests/100/сист./0.2/curve/8000_time
+tests/100/сист./0.2/curve/9000
+tests/100/сист./0.2/curve/9000_time
+tests/100/сист./0.2/curve/10000
+tests/100/сист./0.2/curve/10000_time
+tests/100/сист./0.2/curve/11000
+tests/100/сист./0.2/curve/11000_time
+tests/100/сист./0.2/curve/12000
+tests/100/сист./0.2/curve/12000_time
+tests/100/сист./0.2/curve/13000
+tests/100/сист./0.2/curve/13000_time
+tests/100/сист./0.2/curve/14000
+tests/100/сист./0.2/curve/14000_time
+tests/100/сист./0.2/curve/15000
+tests/100/сист./0.2/curve/15000_time
+tests/100/сист./0.2/eight/1000
+tests/100/сист./0.2/eight/1000_time
+tests/100/сист./0.2/eight/2000
+tests/100/сист./0.2/eight/2000_time
+tests/100/сист./0.2/eight/3000
+tests/100/сист./0.2/eight/3000_time
+tests/100/сист./0.2/eight/4000
+tests/100/сист./0.2/eight/4000_time
+tests/100/сист./0.2/eight/5000
+tests/100/сист./0.2/eight/5000_time
+tests/100/сист./0.2/eight/6000
+tests/100/сист./0.2/eight/6000_time
+tests/100/сист./0.2/eight/7000
+tests/100/сист./0.2/eight/7000_time
+tests/100/сист./0.2/eight/8000
+tests/100/сист./0.2/eight/8000_time
+tests/100/сист./0.2/eight/9000
+tests/100/сист./0.2/eight/9000_time
+tests/100/сист./0.2/eight/10000
+tests/100/сист./0.2/eight/10000_time
+tests/100/сист./0.2/eight/11000
+tests/100/сист./0.2/eight/11000_time
+tests/100/сист./0.2/eight/12000
+tests/100/сист./0.2/eight/12000_time
+tests/100/сист./0.2/eight/13000
+tests/100/сист./0.2/eight/13000_time
+tests/100/сист./0.2/eight/14000
+tests/100/сист./0.2/eight/14000_time
+tests/100/сист./0.2/eight/15000
+tests/100/сист./0.2/eight/15000_time
+tests/100/сист. апост./0.1/speed1/1000
+tests/100/сист. апост./0.1/speed1/1000_N
+tests/100/сист. апост./0.1/speed1/1000_time
+tests/100/сист. апост./0.1/speed1/2000
+tests/100/сист. апост./0.1/speed1/2000_N
+tests/100/сист. апост./0.1/speed1/2000_time
+tests/100/сист. апост./0.1/speed1/3000
+tests/100/сист. апост./0.1/speed1/3000_N
+tests/100/сист. апост./0.1/speed1/3000_time
+tests/100/сист. апост./0.1/speed1/4000
+tests/100/сист. апост./0.1/speed1/4000_N
+tests/100/сист. апост./0.1/speed1/4000_time
+tests/100/сист. апост./0.1/speed1/5000
+tests/100/сист. апост./0.1/speed1/5000_fission
+tests/100/сист. апост./0.1/speed1/5000_fission_N
+tests/100/сист. апост./0.1/speed1/5000_fission_time
+tests/100/сист. апост./0.1/speed1/5000_N
+tests/100/сист. апост./0.1/speed1/5000_time
+tests/100/сист. апост./0.1/speed1/6000
+tests/100/сист. апост./0.1/speed1/6000_fission
+tests/100/сист. апост./0.1/speed1/6000_fission_N
+tests/100/сист. апост./0.1/speed1/6000_fission_time
+tests/100/сист. апост./0.1/speed1/6000_N
+tests/100/сист. апост./0.1/speed1/6000_time
+tests/100/сист. апост./0.1/speed1/7000
+tests/100/сист. апост./0.1/speed1/7000_fission
+tests/100/сист. апост./0.1/speed1/7000_fission_N
+tests/100/сист. апост./0.1/speed1/7000_fission_time
+tests/100/сист. апост./0.1/speed1/7000_N
+tests/100/сист. апост./0.1/speed1/7000_time
+tests/100/сист. апост./0.1/speed1/8000
+tests/100/сист. апост./0.1/speed1/8000_fission
+tests/100/сист. апост./0.1/speed1/8000_fission_N
+tests/100/сист. апост./0.1/speed1/8000_fission_time
+tests/100/сист. апост./0.1/speed1/8000_N
+tests/100/сист. апост./0.1/speed1/8000_time
+tests/100/сист. апост./0.1/speed1/9000
+tests/100/сист. апост./0.1/speed1/9000_fission
+tests/100/сист. апост./0.1/speed1/9000_fission_N
+tests/100/сист. апост./0.1/speed1/9000_fission_time
+tests/100/сист. апост./0.1/speed1/9000_N
+tests/100/сист. апост./0.1/speed1/9000_time
+tests/100/сист. апост./0.1/speed1/10000
+tests/100/сист. апост./0.1/speed1/10000_fission
+tests/100/сист. апост./0.1/speed1/10000_fission_N
+tests/100/сист. апост./0.1/speed1/10000_fission_time
+tests/100/сист. апост./0.1/speed1/10000_N
+tests/100/сист. апост./0.1/speed1/10000_time
+tests/100/сист. апост./0.1/speed2/1000
+tests/100/сист. апост./0.1/speed2/1000_N
+tests/100/сист. апост./0.1/speed2/1000_time
+tests/100/сист. апост./0.1/speed2/2000
+tests/100/сист. апост./0.1/speed2/2000_N
+tests/100/сист. апост./0.1/speed2/2000_time
+tests/100/сист. апост./0.1/speed2/3000
+tests/100/сист. апост./0.1/speed2/3000_N
+tests/100/сист. апост./0.1/speed2/3000_time
+tests/100/сист. апост./0.1/speed2/4000
+tests/100/сист. апост./0.1/speed2/4000_N
+tests/100/сист. апост./0.1/speed2/4000_time
+tests/100/сист. апост./0.1/speed2/5000
+tests/100/сист. апост./0.1/speed2/5000_N
+tests/100/сист. апост./0.1/speed2/5000_time
+tests/100/сист. апост./0.1/speed2/6000
+tests/100/сист. апост./0.1/speed2/6000_N
+tests/100/сист. апост./0.1/speed2/6000_time
+tests/100/сист. апост./0.1/speed2/7000
+tests/100/сист. апост./0.1/speed2/7000_fission
+tests/100/сист. апост./0.1/speed2/7000_fission_N
+tests/100/сист. апост./0.1/speed2/7000_fission_time
+tests/100/сист. апост./0.1/speed2/7000_N
+tests/100/сист. апост./0.1/speed2/7000_time
+tests/100/сист. апост./0.1/speed2/8000
+tests/100/сист. апост./0.1/speed2/8000_fission
+tests/100/сист. апост./0.1/speed2/8000_fission_N
+tests/100/сист. апост./0.1/speed2/8000_fission_time
+tests/100/сист. апост./0.1/speed2/8000_N
+tests/100/сист. апост./0.1/speed2/8000_time
+tests/100/сист. апост./0.1/speed2/9000
+tests/100/сист. апост./0.1/speed2/9000_fission
+tests/100/сист. апост./0.1/speed2/9000_fission_N
+tests/100/сист. апост./0.1/speed2/9000_fission_time
+tests/100/сист. апост./0.1/speed2/9000_N
+tests/100/сист. апост./0.1/speed2/9000_time
+tests/100/сист. апост./0.1/speed2/10000
+tests/100/сист. апост./0.1/speed2/10000_fission
+tests/100/сист. апост./0.1/speed2/10000_fission_N
+tests/100/сист. апост./0.1/speed2/10000_fission_time
+tests/100/сист. апост./0.1/speed2/10000_N
+tests/100/сист. апост./0.1/speed2/10000_time
+tests/100/сист. апост./0.1/speed3/1000
+tests/100/сист. апост./0.1/speed3/1000_N
+tests/100/сист. апост./0.1/speed3/1000_time
+tests/100/сист. апост./0.1/speed3/2000
+tests/100/сист. апост./0.1/speed3/2000_N
+tests/100/сист. апост./0.1/speed3/2000_time
+tests/100/сист. апост./0.1/speed3/3000
+tests/100/сист. апост./0.1/speed3/3000_N
+tests/100/сист. апост./0.1/speed3/3000_time
+tests/100/сист. апост./0.1/speed3/4000
+tests/100/сист. апост./0.1/speed3/4000_N
+tests/100/сист. апост./0.1/speed3/4000_time
+tests/100/сист. апост./0.1/speed3/5000
+tests/100/сист. апост./0.1/speed3/5000_N
+tests/100/сист. апост./0.1/speed3/5000_time
+tests/100/сист. апост./0.1/speed3/6000
+tests/100/сист. апост./0.1/speed3/6000_N
+tests/100/сист. апост./0.1/speed3/6000_time
+tests/100/сист. апост./0.1/speed3/7000
+tests/100/сист. апост./0.1/speed3/7000_fission
+tests/100/сист. апост./0.1/speed3/7000_fission_N
+tests/100/сист. апост./0.1/speed3/7000_fission_time
+tests/100/сист. апост./0.1/speed3/7000_N
+tests/100/сист. апост./0.1/speed3/7000_time
+tests/100/сист. апост./0.1/speed3/8000
+tests/100/сист. апост./0.1/speed3/8000_fission
+tests/100/сист. апост./0.1/speed3/8000_fission_N
+tests/100/сист. апост./0.1/speed3/8000_fission_time
+tests/100/сист. апост./0.1/speed3/8000_N
+tests/100/сист. апост./0.1/speed3/8000_time
+tests/100/сист. апост./0.1/speed3/9000
+tests/100/сист. апост./0.1/speed3/9000_fission
+tests/100/сист. апост./0.1/speed3/9000_fission_N
+tests/100/сист. апост./0.1/speed3/9000_fission_time
+tests/100/сист. апост./0.1/speed3/9000_N
+tests/100/сист. апост./0.1/speed3/9000_time
+tests/100/сист. апост./0.1/speed3/10000
+tests/100/сист. апост./0.1/speed3/10000_fission
+tests/100/сист. апост./0.1/speed3/10000_fission_N
+tests/100/сист. апост./0.1/speed3/10000_fission_time
+tests/100/сист. апост./0.1/speed3/10000_N
+tests/100/сист. апост./0.1/speed3/10000_time
+tests/100/сист. РК1/0.1/speed1/1000
+tests/100/сист. РК1/0.1/speed1/1000_N
+tests/100/сист. РК1/0.1/speed1/1000_time
+tests/100/сист. РК1/0.1/speed1/2000
+tests/100/сист. РК1/0.1/speed1/2000_N
+tests/100/сист. РК1/0.1/speed1/2000_time
+tests/100/сист. РК1/0.1/speed1/3000
+tests/100/сист. РК1/0.1/speed1/3000_N
+tests/100/сист. РК1/0.1/speed1/3000_time
+tests/100/сист. РК1/0.1/speed1/4000
+tests/100/сист. РК1/0.1/speed1/4000_N
+tests/100/сист. РК1/0.1/speed1/4000_time
+tests/100/сист. РК1/0.1/speed1/5000
+tests/100/сист. РК1/0.1/speed1/5000_fission
+tests/100/сист. РК1/0.1/speed1/5000_fission_N
+tests/100/сист. РК1/0.1/speed1/5000_fission_time
+tests/100/сист. РК1/0.1/speed1/5000_N
+tests/100/сист. РК1/0.1/speed1/5000_time
+tests/100/сист. РК1/0.1/speed1/6000
+tests/100/сист. РК1/0.1/speed1/6000_fission
+tests/100/сист. РК1/0.1/speed1/6000_fission_N
+tests/100/сист. РК1/0.1/speed1/6000_fission_time
+tests/100/сист. РК1/0.1/speed1/6000_N
+tests/100/сист. РК1/0.1/speed1/6000_time
+tests/100/сист. РК1/0.1/speed1/7000
+tests/100/сист. РК1/0.1/speed1/7000_fission
+tests/100/сист. РК1/0.1/speed1/7000_fission_N
+tests/100/сист. РК1/0.1/speed1/7000_fission_time
+tests/100/сист. РК1/0.1/speed1/7000_N
+tests/100/сист. РК1/0.1/speed1/7000_time
+tests/100/сист. РК1/0.1/speed1/8000
+tests/100/сист. РК1/0.1/speed1/8000_fission
+tests/100/сист. РК1/0.1/speed1/8000_fission_N
+tests/100/сист. РК1/0.1/speed1/8000_fission_time
+tests/100/сист. РК1/0.1/speed1/8000_N
+tests/100/сист. РК1/0.1/speed1/8000_time
+tests/100/сист. РК1/0.1/speed1/9000
+tests/100/сист. РК1/0.1/speed1/9000_fission
+tests/100/сист. РК1/0.1/speed1/9000_fission_N
+tests/100/сист. РК1/0.1/speed1/9000_fission_time
+tests/100/сист. РК1/0.1/speed1/9000_N
+tests/100/сист. РК1/0.1/speed1/9000_time
+tests/100/сист. РК1/0.1/speed1/10000
+tests/100/сист. РК1/0.1/speed1/10000_fission
+tests/100/сист. РК1/0.1/speed1/10000_fission_N
+tests/100/сист. РК1/0.1/speed1/10000_fission_time
+tests/100/сист. РК1/0.1/speed1/10000_N
+tests/100/сист. РК1/0.1/speed1/10000_time
+tests/100/сист. РК1/0.1/speed2/1000
+tests/100/сист. РК1/0.1/speed2/1000_N
+tests/100/сист. РК1/0.1/speed2/1000_time
+tests/100/сист. РК1/0.1/speed2/2000
+tests/100/сист. РК1/0.1/speed2/2000_N
+tests/100/сист. РК1/0.1/speed2/2000_time
+tests/100/сист. РК1/0.1/speed2/3000
+tests/100/сист. РК1/0.1/speed2/3000_N
+tests/100/сист. РК1/0.1/speed2/3000_time
+tests/100/сист. РК1/0.1/speed2/4000
+tests/100/сист. РК1/0.1/speed2/4000_N
+tests/100/сист. РК1/0.1/speed2/4000_time
+tests/100/сист. РК1/0.1/speed2/5000
+tests/100/сист. РК1/0.1/speed2/5000_fission
+tests/100/сист. РК1/0.1/speed2/5000_fission_N
+tests/100/сист. РК1/0.1/speed2/5000_fission_time
+tests/100/сист. РК1/0.1/speed2/5000_N
+tests/100/сист. РК1/0.1/speed2/5000_time
+tests/100/сист. РК1/0.1/speed2/6000
+tests/100/сист. РК1/0.1/speed2/6000_fission
+tests/100/сист. РК1/0.1/speed2/6000_fission_N
+tests/100/сист. РК1/0.1/speed2/6000_fission_time
+tests/100/сист. РК1/0.1/speed2/6000_N
+tests/100/сист. РК1/0.1/speed2/6000_time
+tests/100/сист. РК1/0.1/speed2/7000
+tests/100/сист. РК1/0.1/speed2/7000_fission
+tests/100/сист. РК1/0.1/speed2/7000_fission_N
+tests/100/сист. РК1/0.1/speed2/7000_fission_time
+tests/100/сист. РК1/0.1/speed2/7000_N
+tests/100/сист. РК1/0.1/speed2/7000_time
+tests/100/сист. РК1/0.1/speed2/8000
+tests/100/сист. РК1/0.1/speed2/8000_fission
+tests/100/сист. РК1/0.1/speed2/8000_fission_N
+tests/100/сист. РК1/0.1/speed2/8000_fission_time
+tests/100/сист. РК1/0.1/speed2/8000_N
+tests/100/сист. РК1/0.1/speed2/8000_time
+tests/100/сист. РК1/0.1/speed2/9000
+tests/100/сист. РК1/0.1/speed2/9000_fission
+tests/100/сист. РК1/0.1/speed2/9000_fission_N
+tests/100/сист. РК1/0.1/speed2/9000_fission_time
+tests/100/сист. РК1/0.1/speed2/9000_N
+tests/100/сист. РК1/0.1/speed2/9000_time
+tests/100/сист. РК1/0.1/speed2/10000
+tests/100/сист. РК1/0.1/speed2/10000_fission
+tests/100/сист. РК1/0.1/speed2/10000_fission_N
+tests/100/сист. РК1/0.1/speed2/10000_fission_time
+tests/100/сист. РК1/0.1/speed2/10000_N
+tests/100/сист. РК1/0.1/speed2/10000_time
+tests/100/сист. РК1/0.1/speed3/1000
+tests/100/сист. РК1/0.1/speed3/1000_N
+tests/100/сист. РК1/0.1/speed3/1000_time
+tests/100/сист. РК1/0.1/speed3/2000
+tests/100/сист. РК1/0.1/speed3/2000_N
+tests/100/сист. РК1/0.1/speed3/2000_time
+tests/100/сист. РК1/0.1/speed3/3000
+tests/100/сист. РК1/0.1/speed3/3000_N
+tests/100/сист. РК1/0.1/speed3/3000_time
+tests/100/сист. РК1/0.1/speed3/4000
+tests/100/сист. РК1/0.1/speed3/4000_N
+tests/100/сист. РК1/0.1/speed3/4000_time
+tests/100/сист. РК1/0.1/speed3/5000
+tests/100/сист. РК1/0.1/speed3/5000_fission
+tests/100/сист. РК1/0.1/speed3/5000_fission_N
+tests/100/сист. РК1/0.1/speed3/5000_fission_time
+tests/100/сист. РК1/0.1/speed3/5000_N
+tests/100/сист. РК1/0.1/speed3/5000_time
+tests/100/сист. РК1/0.1/speed3/6000
+tests/100/сист. РК1/0.1/speed3/6000_fission
+tests/100/сист. РК1/0.1/speed3/6000_fission_N
+tests/100/сист. РК1/0.1/speed3/6000_fission_time
+tests/100/сист. РК1/0.1/speed3/6000_N
+tests/100/сист. РК1/0.1/speed3/6000_time
+tests/100/сист. РК1/0.1/speed3/7000
+tests/100/сист. РК1/0.1/speed3/7000_fission
+tests/100/сист. РК1/0.1/speed3/7000_fission_N
+tests/100/сист. РК1/0.1/speed3/7000_fission_time
+tests/100/сист. РК1/0.1/speed3/7000_N
+tests/100/сист. РК1/0.1/speed3/7000_time
+tests/100/сист. РК1/0.1/speed3/8000
+tests/100/сист. РК1/0.1/speed3/8000_fission
+tests/100/сист. РК1/0.1/speed3/8000_fission_N
+tests/100/сист. РК1/0.1/speed3/8000_fission_time
+tests/100/сист. РК1/0.1/speed3/8000_N
+tests/100/сист. РК1/0.1/speed3/8000_time
+tests/100/сист. РК1/0.1/speed3/9000
+tests/100/сист. РК1/0.1/speed3/9000_fission
+tests/100/сист. РК1/0.1/speed3/9000_fission_N
+tests/100/сист. РК1/0.1/speed3/9000_fission_time
+tests/100/сист. РК1/0.1/speed3/9000_N
+tests/100/сист. РК1/0.1/speed3/9000_time
+tests/100/сист. РК1/0.1/speed3/10000
+tests/100/сист. РК1/0.1/speed3/10000_fission
+tests/100/сист. РК1/0.1/speed3/10000_fission_N
+tests/100/сист. РК1/0.1/speed3/10000_fission_time
+tests/100/сист. РК1/0.1/speed3/10000_N
+tests/100/сист. РК1/0.1/speed3/10000_time
+tests/100/сист. РКЛ/0.1/speed1/5000
+tests/100/сист. РКЛ/0.1/speed1/5000_fission
+tests/100/сист. РКЛ/0.1/speed1/5000_fission_N
+tests/100/сист. РКЛ/0.1/speed1/5000_fission_time
+tests/100/сист. РКЛ/0.1/speed1/5000_N
+tests/100/сист. РКЛ/0.1/speed1/5000_time
+tests/100/сист. РКЛ/0.1/speed1/6000
+tests/100/сист. РКЛ/0.1/speed1/6000_fission
+tests/100/сист. РКЛ/0.1/speed1/6000_fission_N
+tests/100/сист. РКЛ/0.1/speed1/6000_fission_time
+tests/100/сист. РКЛ/0.1/speed1/6000_N
+tests/100/сист. РКЛ/0.1/speed1/6000_time
+tests/100/сист. РКЛ/0.1/speed1/7000
+tests/100/сист. РКЛ/0.1/speed1/7000_fission
+tests/100/сист. РКЛ/0.1/speed1/7000_fission_N
+tests/100/сист. РКЛ/0.1/speed1/7000_fission_time
+tests/100/сист. РКЛ/0.1/speed1/7000_N
+tests/100/сист. РКЛ/0.1/speed1/7000_time
+tests/100/сист. РКЛ/0.1/speed1/8000
+tests/100/сист. РКЛ/0.1/speed1/8000_fission
+tests/100/сист. РКЛ/0.1/speed1/8000_fission_N
+tests/100/сист. РКЛ/0.1/speed1/8000_fission_time
+tests/100/сист. РКЛ/0.1/speed1/8000_N
+tests/100/сист. РКЛ/0.1/speed1/8000_time
+tests/100/сист. РКЛ/0.1/speed1/9000
+tests/100/сист. РКЛ/0.1/speed1/9000_fission
+tests/100/сист. РКЛ/0.1/speed1/9000_fission_N
+tests/100/сист. РКЛ/0.1/speed1/9000_fission_time
+tests/100/сист. РКЛ/0.1/speed1/9000_N
+tests/100/сист. РКЛ/0.1/speed1/9000_time
+tests/100/сист. РКЛ/0.1/speed1/10000
+tests/100/сист. РКЛ/0.1/speed1/10000_fission
+tests/100/сист. РКЛ/0.1/speed1/10000_fission_N
+tests/100/сист. РКЛ/0.1/speed1/10000_fission_time
+tests/100/сист. РКЛ/0.1/speed1/10000_N
+tests/100/сист. РКЛ/0.1/speed1/10000_time
+tests/100/сист. РКЛ/0.1/speed2/5000
+tests/100/сист. РКЛ/0.1/speed2/5000_N
+tests/100/сист. РКЛ/0.1/speed2/5000_time
+tests/100/сист. РКЛ/0.1/speed2/6000
+tests/100/сист. РКЛ/0.1/speed2/6000_N
+tests/100/сист. РКЛ/0.1/speed2/6000_time
+tests/100/сист. РКЛ/0.1/speed2/7000
+tests/100/сист. РКЛ/0.1/speed2/7000_N
+tests/100/сист. РКЛ/0.1/speed2/7000_time
+tests/100/сист. РКЛ/0.1/speed2/8000
+tests/100/сист. РКЛ/0.1/speed2/8000_N
+tests/100/сист. РКЛ/0.1/speed2/8000_time
+tests/100/сист. РКЛ/0.1/speed2/9000
+tests/100/сист. РКЛ/0.1/speed2/9000_N
+tests/100/сист. РКЛ/0.1/speed2/9000_time
+tests/100/сист. РКЛ/0.1/speed2/10000
+tests/100/сист. РКЛ/0.1/speed2/10000_N
+tests/100/сист. РКЛ/0.1/speed2/10000_time
+tests/100/сист. РКЛ/0.1/speed3/5000
+tests/100/сист. РКЛ/0.1/speed3/6000
+tests/100/сист. РКЛ/0.1/speed3/7000
+tests/100/сист. РКЛ/0.1/speed3/8000
+tests/100/сист. РКЛ/0.1/speed3/9000
+tests/100/сист. РКЛ/0.1/speed3/10000
+tests/100/сист. РКЛ 2/0.1/speed1/1000
+tests/100/сист. РКЛ 2/0.1/speed1/1000_N
+tests/100/сист. РКЛ 2/0.1/speed1/1000_time
+tests/100/сист. РКЛ 2/0.1/speed1/2000
+tests/100/сист. РКЛ 2/0.1/speed1/2000_N
+tests/100/сист. РКЛ 2/0.1/speed1/2000_time
+tests/100/сист. РКЛ 2/0.1/speed1/3000
+tests/100/сист. РКЛ 2/0.1/speed1/3000_N
+tests/100/сист. РКЛ 2/0.1/speed1/3000_time
+tests/100/сист. РКЛ 2/0.1/speed1/4000
+tests/100/сист. РКЛ 2/0.1/speed1/4000_N
+tests/100/сист. РКЛ 2/0.1/speed1/4000_time
+tests/100/сист. РКЛ 2/0.1/speed1/5000
+tests/100/сист. РКЛ 2/0.1/speed1/5000_fission
+tests/100/сист. РКЛ 2/0.1/speed1/5000_fission_N
+tests/100/сист. РКЛ 2/0.1/speed1/5000_fission_time
+tests/100/сист. РКЛ 2/0.1/speed1/5000_N
+tests/100/сист. РКЛ 2/0.1/speed1/5000_time
+tests/100/сист. РКЛ 2/0.1/speed1/6000
+tests/100/сист. РКЛ 2/0.1/speed1/6000_fission
+tests/100/сист. РКЛ 2/0.1/speed1/6000_fission_N
+tests/100/сист. РКЛ 2/0.1/speed1/6000_fission_time
+tests/100/сист. РКЛ 2/0.1/speed1/6000_N
+tests/100/сист. РКЛ 2/0.1/speed1/6000_time
+tests/100/сист. РКЛ 2/0.1/speed1/7000
+tests/100/сист. РКЛ 2/0.1/speed1/7000_fission
+tests/100/сист. РКЛ 2/0.1/speed1/7000_fission_N
+tests/100/сист. РКЛ 2/0.1/speed1/7000_fission_time
+tests/100/сист. РКЛ 2/0.1/speed1/7000_N
+tests/100/сист. РКЛ 2/0.1/speed1/7000_time
+tests/100/сист. РКЛ 2/0.1/speed1/8000
+tests/100/сист. РКЛ 2/0.1/speed1/8000_fission
+tests/100/сист. РКЛ 2/0.1/speed1/8000_fission_N
+tests/100/сист. РКЛ 2/0.1/speed1/8000_fission_time
+tests/100/сист. РКЛ 2/0.1/speed1/8000_N
+tests/100/сист. РКЛ 2/0.1/speed1/8000_time
+tests/100/сист. РКЛ 2/0.1/speed1/9000
+tests/100/сист. РКЛ 2/0.1/speed1/9000_fission
+tests/100/сист. РКЛ 2/0.1/speed1/9000_fission_N
+tests/100/сист. РКЛ 2/0.1/speed1/9000_fission_time
+tests/100/сист. РКЛ 2/0.1/speed1/9000_N
+tests/100/сист. РКЛ 2/0.1/speed1/9000_time
+tests/100/сист. РКЛ 2/0.1/speed1/10000
+tests/100/сист. РКЛ 2/0.1/speed1/10000_fission
+tests/100/сист. РКЛ 2/0.1/speed1/10000_fission_N
+tests/100/сист. РКЛ 2/0.1/speed1/10000_fission_time
+tests/100/сист. РКЛ 2/0.1/speed1/10000_N
+tests/100/сист. РКЛ 2/0.1/speed1/10000_time
+tests/100/сист. РКЛ 2/0.1/speed2/1000
+tests/100/сист. РКЛ 2/0.1/speed2/1000_N
+tests/100/сист. РКЛ 2/0.1/speed2/1000_time
+tests/100/сист. РКЛ 2/0.1/speed2/2000
+tests/100/сист. РКЛ 2/0.1/speed2/2000_N
+tests/100/сист. РКЛ 2/0.1/speed2/2000_time
+tests/100/сист. РКЛ 2/0.1/speed2/3000
+tests/100/сист. РКЛ 2/0.1/speed2/3000_N
+tests/100/сист. РКЛ 2/0.1/speed2/3000_time
+tests/100/сист. РКЛ 2/0.1/speed2/4000
+tests/100/сист. РКЛ 2/0.1/speed2/4000_N
+tests/100/сист. РКЛ 2/0.1/speed2/4000_time
+tests/100/сист. РКЛ 2/0.1/speed2/5000
+tests/100/сист. РКЛ 2/0.1/speed2/5000_fission
+tests/100/сист. РКЛ 2/0.1/speed2/5000_fission_N
+tests/100/сист. РКЛ 2/0.1/speed2/5000_fission_time
+tests/100/сист. РКЛ 2/0.1/speed2/5000_N
+tests/100/сист. РКЛ 2/0.1/speed2/5000_time
+tests/100/сист. РКЛ 2/0.1/speed2/6000
+tests/100/сист. РКЛ 2/0.1/speed2/6000_fission
+tests/100/сист. РКЛ 2/0.1/speed2/6000_fission_N
+tests/100/сист. РКЛ 2/0.1/speed2/6000_fission_time
+tests/100/сист. РКЛ 2/0.1/speed2/6000_N
+tests/100/сист. РКЛ 2/0.1/speed2/6000_time
+tests/100/сист. РКЛ 2/0.1/speed2/7000
+tests/100/сист. РКЛ 2/0.1/speed2/7000_fission
+tests/100/сист. РКЛ 2/0.1/speed2/7000_fission_N
+tests/100/сист. РКЛ 2/0.1/speed2/7000_fission_time
+tests/100/сист. РКЛ 2/0.1/speed2/7000_N
+tests/100/сист. РКЛ 2/0.1/speed2/7000_time
+tests/100/сист. РКЛ 2/0.1/speed2/8000
+tests/100/сист. РКЛ 2/0.1/speed2/8000_fission
+tests/100/сист. РКЛ 2/0.1/speed2/8000_fission_N
+tests/100/сист. РКЛ 2/0.1/speed2/8000_fission_time
+tests/100/сист. РКЛ 2/0.1/speed2/8000_N
+tests/100/сист. РКЛ 2/0.1/speed2/8000_time
+tests/100/сист. РКЛ 2/0.1/speed2/9000
+tests/100/сист. РКЛ 2/0.1/speed2/9000_fission
+tests/100/сист. РКЛ 2/0.1/speed2/9000_fission_N
+tests/100/сист. РКЛ 2/0.1/speed2/9000_fission_time
+tests/100/сист. РКЛ 2/0.1/speed2/9000_N
+tests/100/сист. РКЛ 2/0.1/speed2/9000_time
+tests/100/сист. РКЛ 2/0.1/speed2/10000
+tests/100/сист. РКЛ 2/0.1/speed2/10000_fission
+tests/100/сист. РКЛ 2/0.1/speed2/10000_fission_N
+tests/100/сист. РКЛ 2/0.1/speed2/10000_fission_time
+tests/100/сист. РКЛ 2/0.1/speed2/10000_N
+tests/100/сист. РКЛ 2/0.1/speed2/10000_time
+tests/100/сист. РКЛ 2/0.1/speed3/1000
+tests/100/сист. РКЛ 2/0.1/speed3/1000_N
+tests/100/сист. РКЛ 2/0.1/speed3/1000_time
+tests/100/сист. РКЛ 2/0.1/speed3/2000
+tests/100/сист. РКЛ 2/0.1/speed3/2000_N
+tests/100/сист. РКЛ 2/0.1/speed3/2000_time
+tests/100/сист. РКЛ 2/0.1/speed3/3000
+tests/100/сист. РКЛ 2/0.1/speed3/3000_N
+tests/100/сист. РКЛ 2/0.1/speed3/3000_time
+tests/100/сист. РКЛ 2/0.1/speed3/4000
+tests/100/сист. РКЛ 2/0.1/speed3/4000_N
+tests/100/сист. РКЛ 2/0.1/speed3/4000_time
+tests/100/сист. РКЛ 2/0.1/speed3/5000
+tests/100/сист. РКЛ 2/0.1/speed3/5000_fission
+tests/100/сист. РКЛ 2/0.1/speed3/5000_fission_N
+tests/100/сист. РКЛ 2/0.1/speed3/5000_fission_time
+tests/100/сист. РКЛ 2/0.1/speed3/5000_N
+tests/100/сист. РКЛ 2/0.1/speed3/5000_time
+tests/100/сист. РКЛ 2/0.1/speed3/6000
+tests/100/сист. РКЛ 2/0.1/speed3/6000_fission
+tests/100/сист. РКЛ 2/0.1/speed3/6000_fission_N
+tests/100/сист. РКЛ 2/0.1/speed3/6000_fission_time
+tests/100/сист. РКЛ 2/0.1/speed3/6000_N
+tests/100/сист. РКЛ 2/0.1/speed3/6000_time
+tests/100/сист. РКЛ 2/0.1/speed3/7000
+tests/100/сист. РКЛ 2/0.1/speed3/7000_fission
+tests/100/сист. РКЛ 2/0.1/speed3/7000_fission_N
+tests/100/сист. РКЛ 2/0.1/speed3/7000_fission_time
+tests/100/сист. РКЛ 2/0.1/speed3/7000_N
+tests/100/сист. РКЛ 2/0.1/speed3/7000_time
+tests/100/сист. РКЛ 2/0.1/speed3/8000
+tests/100/сист. РКЛ 2/0.1/speed3/8000_fission
+tests/100/сист. РКЛ 2/0.1/speed3/8000_fission_N
+tests/100/сист. РКЛ 2/0.1/speed3/8000_fission_time
+tests/100/сист. РКЛ 2/0.1/speed3/8000_N
+tests/100/сист. РКЛ 2/0.1/speed3/8000_time
+tests/100/сист. РКЛ 2/0.1/speed3/9000
+tests/100/сист. РКЛ 2/0.1/speed3/9000_fission
+tests/100/сист. РКЛ 2/0.1/speed3/9000_fission_N
+tests/100/сист. РКЛ 2/0.1/speed3/9000_fission_time
+tests/100/сист. РКЛ 2/0.1/speed3/9000_N
+tests/100/сист. РКЛ 2/0.1/speed3/9000_time
+tests/100/сист. РКЛ 2/0.1/speed3/10000
+tests/100/сист. РКЛ 2/0.1/speed3/10000_fission
+tests/100/сист. РКЛ 2/0.1/speed3/10000_fission_N
+tests/100/сист. РКЛ 2/0.1/speed3/10000_fission_time
+tests/100/сист. РКЛ 2/0.1/speed3/10000_N
+tests/100/сист. РКЛ 2/0.1/speed3/10000_time
+tests/100/страт./0.1/curve/1000
+tests/100/страт./0.1/curve/1000_time
+tests/100/страт./0.1/curve/2000
+tests/100/страт./0.1/curve/2000_time
+tests/100/страт./0.1/curve/3000
+tests/100/страт./0.1/curve/3000_time
+tests/100/страт./0.1/curve/4000
+tests/100/страт./0.1/curve/4000_time
+tests/100/страт./0.1/curve/5000
+tests/100/страт./0.1/curve/5000_time
+tests/100/страт./0.1/curve/6000
+tests/100/страт./0.1/curve/6000_time
+tests/100/страт./0.1/curve/7000
+tests/100/страт./0.1/curve/7000_time
+tests/100/страт./0.1/curve/8000
+tests/100/страт./0.1/curve/8000_time
+tests/100/страт./0.1/curve/9000
+tests/100/страт./0.1/curve/9000_time
+tests/100/страт./0.1/curve/10000
+tests/100/страт./0.1/curve/10000_time
+tests/100/страт./0.1/curve/11000
+tests/100/страт./0.1/curve/11000_time
+tests/100/страт./0.1/curve/12000
+tests/100/страт./0.1/curve/12000_time
+tests/100/страт./0.1/curve/13000
+tests/100/страт./0.1/curve/13000_time
+tests/100/страт./0.1/curve/14000
+tests/100/страт./0.1/curve/14000_time
+tests/100/страт./0.1/curve/15000
+tests/100/страт./0.1/curve/15000_time
+tests/100/страт./0.1/eight/1000
+tests/100/страт./0.1/eight/1000_time
+tests/100/страт./0.1/eight/2000
+tests/100/страт./0.1/eight/2000_time
+tests/100/страт./0.1/eight/3000
+tests/100/страт./0.1/eight/3000_time
+tests/100/страт./0.1/eight/4000
+tests/100/страт./0.1/eight/4000_time
+tests/100/страт./0.1/eight/5000
+tests/100/страт./0.1/eight/5000_time
+tests/100/страт./0.1/eight/6000
+tests/100/страт./0.1/eight/6000_time
+tests/100/страт./0.1/eight/7000
+tests/100/страт./0.1/eight/7000_time
+tests/100/страт./0.1/eight/8000
+tests/100/страт./0.1/eight/8000_time
+tests/100/страт./0.1/eight/9000
+tests/100/страт./0.1/eight/9000_time
+tests/100/страт./0.1/eight/10000
+tests/100/страт./0.1/eight/10000_time
+tests/100/страт./0.1/eight/11000
+tests/100/страт./0.1/eight/11000_time
+tests/100/страт./0.1/eight/12000
+tests/100/страт./0.1/eight/12000_time
+tests/100/страт./0.1/eight/13000
+tests/100/страт./0.1/eight/13000_time
+tests/100/страт./0.1/eight/14000
+tests/100/страт./0.1/eight/14000_time
+tests/100/страт./0.1/eight/15000
+tests/100/страт./0.1/eight/15000_time
+tests/100/страт./0.2/curve/1000
+tests/100/страт./0.2/curve/1000_time
+tests/100/страт./0.2/curve/2000
+tests/100/страт./0.2/curve/2000_time
+tests/100/страт./0.2/curve/3000
+tests/100/страт./0.2/curve/3000_time
+tests/100/страт./0.2/curve/4000
+tests/100/страт./0.2/curve/4000_time
+tests/100/страт./0.2/curve/5000
+tests/100/страт./0.2/curve/5000_time
+tests/100/страт./0.2/curve/6000
+tests/100/страт./0.2/curve/6000_time
+tests/100/страт./0.2/curve/7000
+tests/100/страт./0.2/curve/7000_time
+tests/100/страт./0.2/curve/8000
+tests/100/страт./0.2/curve/8000_time
+tests/100/страт./0.2/curve/9000
+tests/100/страт./0.2/curve/9000_time
+tests/100/страт./0.2/curve/10000
+tests/100/страт./0.2/curve/10000_time
+tests/100/страт./0.2/curve/11000
+tests/100/страт./0.2/curve/11000_time
+tests/100/страт./0.2/curve/12000
+tests/100/страт./0.2/curve/12000_time
+tests/100/страт./0.2/curve/13000
+tests/100/страт./0.2/curve/13000_time
+tests/100/страт./0.2/curve/14000
+tests/100/страт./0.2/curve/14000_time
+tests/100/страт./0.2/curve/15000
+tests/100/страт./0.2/curve/15000_time
+tests/100/страт./0.2/eight/1000
+tests/100/страт./0.2/eight/1000_time
+tests/100/страт./0.2/eight/2000
+tests/100/страт./0.2/eight/2000_time
+tests/100/страт./0.2/eight/3000
+tests/100/страт./0.2/eight/3000_time
+tests/100/страт./0.2/eight/4000
+tests/100/страт./0.2/eight/4000_time
+tests/100/страт./0.2/eight/5000
+tests/100/страт./0.2/eight/5000_time
+tests/100/страт./0.2/eight/6000
+tests/100/страт./0.2/eight/6000_time
+tests/100/страт./0.2/eight/7000
+tests/100/страт./0.2/eight/7000_time
+tests/100/страт./0.2/eight/8000
+tests/100/страт./0.2/eight/8000_time
+tests/100/страт./0.2/eight/9000
+tests/100/страт./0.2/eight/9000_time
+tests/100/страт./0.2/eight/10000
+tests/100/страт./0.2/eight/10000_time
+tests/100/страт./0.2/eight/11000
+tests/100/страт./0.2/eight/11000_time
+tests/100/страт./0.2/eight/12000
+tests/100/страт./0.2/eight/12000_time
+tests/100/страт./0.2/eight/13000
+tests/100/страт./0.2/eight/13000_time
+tests/100/страт./0.2/eight/14000
+tests/100/страт./0.2/eight/14000_time
+tests/100/страт./0.2/eight/15000
+tests/100/страт./0.2/eight/15000_time
+tests/100/страт. апост./0.1/speed1/1000
+tests/100/страт. апост./0.1/speed1/1000_N
+tests/100/страт. апост./0.1/speed1/1000_time
+tests/100/страт. апост./0.1/speed1/2000
+tests/100/страт. апост./0.1/speed1/2000_N
+tests/100/страт. апост./0.1/speed1/2000_time
+tests/100/страт. апост./0.1/speed1/3000
+tests/100/страт. апост./0.1/speed1/3000_N
+tests/100/страт. апост./0.1/speed1/3000_time
+tests/100/страт. апост./0.1/speed1/4000
+tests/100/страт. апост./0.1/speed1/4000_N
+tests/100/страт. апост./0.1/speed1/4000_time
+tests/100/страт. апост./0.1/speed1/5000
+tests/100/страт. апост./0.1/speed1/5000_fission
+tests/100/страт. апост./0.1/speed1/5000_fission_N
+tests/100/страт. апост./0.1/speed1/5000_fission_time
+tests/100/страт. апост./0.1/speed1/5000_N
+tests/100/страт. апост./0.1/speed1/5000_time
+tests/100/страт. апост./0.1/speed1/6000
+tests/100/страт. апост./0.1/speed1/6000_fission
+tests/100/страт. апост./0.1/speed1/6000_fission_N
+tests/100/страт. апост./0.1/speed1/6000_fission_time
+tests/100/страт. апост./0.1/speed1/6000_N
+tests/100/страт. апост./0.1/speed1/6000_time
+tests/100/страт. апост./0.1/speed1/7000
+tests/100/страт. апост./0.1/speed1/7000_fission
+tests/100/страт. апост./0.1/speed1/7000_fission_N
+tests/100/страт. апост./0.1/speed1/7000_fission_time
+tests/100/страт. апост./0.1/speed1/7000_N
+tests/100/страт. апост./0.1/speed1/7000_time
+tests/100/страт. апост./0.1/speed1/8000
+tests/100/страт. апост./0.1/speed1/8000_fission
+tests/100/страт. апост./0.1/speed1/8000_fission_N
+tests/100/страт. апост./0.1/speed1/8000_fission_time
+tests/100/страт. апост./0.1/speed1/8000_N
+tests/100/страт. апост./0.1/speed1/8000_time
+tests/100/страт. апост./0.1/speed1/9000
+tests/100/страт. апост./0.1/speed1/9000_fission
+tests/100/страт. апост./0.1/speed1/9000_fission_N
+tests/100/страт. апост./0.1/speed1/9000_fission_time
+tests/100/страт. апост./0.1/speed1/9000_N
+tests/100/страт. апост./0.1/speed1/9000_time
+tests/100/страт. апост./0.1/speed1/10000
+tests/100/страт. апост./0.1/speed1/10000_fission
+tests/100/страт. апост./0.1/speed1/10000_fission_N
+tests/100/страт. апост./0.1/speed1/10000_fission_time
+tests/100/страт. апост./0.1/speed1/10000_N
+tests/100/страт. апост./0.1/speed1/10000_time
+tests/100/страт. апост./0.1/speed2/1000
+tests/100/страт. апост./0.1/speed2/1000_N
+tests/100/страт. апост./0.1/speed2/1000_time
+tests/100/страт. апост./0.1/speed2/2000
+tests/100/страт. апост./0.1/speed2/2000_N
+tests/100/страт. апост./0.1/speed2/2000_time
+tests/100/страт. апост./0.1/speed2/3000
+tests/100/страт. апост./0.1/speed2/3000_N
+tests/100/страт. апост./0.1/speed2/3000_time
+tests/100/страт. апост./0.1/speed2/4000
+tests/100/страт. апост./0.1/speed2/4000_N
+tests/100/страт. апост./0.1/speed2/4000_time
+tests/100/страт. апост./0.1/speed2/5000
+tests/100/страт. апост./0.1/speed2/5000_N
+tests/100/страт. апост./0.1/speed2/5000_time
+tests/100/страт. апост./0.1/speed2/6000
+tests/100/страт. апост./0.1/speed2/6000_N
+tests/100/страт. апост./0.1/speed2/6000_time
+tests/100/страт. апост./0.1/speed2/7000
+tests/100/страт. апост./0.1/speed2/7000_fission
+tests/100/страт. апост./0.1/speed2/7000_fission_N
+tests/100/страт. апост./0.1/speed2/7000_fission_time
+tests/100/страт. апост./0.1/speed2/7000_N
+tests/100/страт. апост./0.1/speed2/7000_time
+tests/100/страт. апост./0.1/speed2/8000
+tests/100/страт. апост./0.1/speed2/8000_fission
+tests/100/страт. апост./0.1/speed2/8000_fission_N
+tests/100/страт. апост./0.1/speed2/8000_fission_time
+tests/100/страт. апост./0.1/speed2/8000_N
+tests/100/страт. апост./0.1/speed2/8000_time
+tests/100/страт. апост./0.1/speed2/9000
+tests/100/страт. апост./0.1/speed2/9000_fission
+tests/100/страт. апост./0.1/speed2/9000_fission_N
+tests/100/страт. апост./0.1/speed2/9000_fission_time
+tests/100/страт. апост./0.1/speed2/9000_N
+tests/100/страт. апост./0.1/speed2/9000_time
+tests/100/страт. апост./0.1/speed2/10000
+tests/100/страт. апост./0.1/speed2/10000_fission
+tests/100/страт. апост./0.1/speed2/10000_fission_N
+tests/100/страт. апост./0.1/speed2/10000_fission_time
+tests/100/страт. апост./0.1/speed2/10000_N
+tests/100/страт. апост./0.1/speed2/10000_time
+tests/100/страт. апост./0.1/speed3/1000
+tests/100/страт. апост./0.1/speed3/1000_N
+tests/100/страт. апост./0.1/speed3/1000_time
+tests/100/страт. апост./0.1/speed3/2000
+tests/100/страт. апост./0.1/speed3/2000_N
+tests/100/страт. апост./0.1/speed3/2000_time
+tests/100/страт. апост./0.1/speed3/3000
+tests/100/страт. апост./0.1/speed3/3000_N
+tests/100/страт. апост./0.1/speed3/3000_time
+tests/100/страт. апост./0.1/speed3/4000
+tests/100/страт. апост./0.1/speed3/4000_N
+tests/100/страт. апост./0.1/speed3/4000_time
+tests/100/страт. апост./0.1/speed3/5000
+tests/100/страт. апост./0.1/speed3/5000_N
+tests/100/страт. апост./0.1/speed3/5000_time
+tests/100/страт. апост./0.1/speed3/6000
+tests/100/страт. апост./0.1/speed3/6000_N
+tests/100/страт. апост./0.1/speed3/6000_time
+tests/100/страт. апост./0.1/speed3/7000
+tests/100/страт. апост./0.1/speed3/7000_fission
+tests/100/страт. апост./0.1/speed3/7000_fission_N
+tests/100/страт. апост./0.1/speed3/7000_fission_time
+tests/100/страт. апост./0.1/speed3/7000_N
+tests/100/страт. апост./0.1/speed3/7000_time
+tests/100/страт. апост./0.1/speed3/8000
+tests/100/страт. апост./0.1/speed3/8000_fission
+tests/100/страт. апост./0.1/speed3/8000_fission_N
+tests/100/страт. апост./0.1/speed3/8000_fission_time
+tests/100/страт. апост./0.1/speed3/8000_N
+tests/100/страт. апост./0.1/speed3/8000_time
+tests/100/страт. апост./0.1/speed3/9000
+tests/100/страт. апост./0.1/speed3/9000_fission
+tests/100/страт. апост./0.1/speed3/9000_fission_N
+tests/100/страт. апост./0.1/speed3/9000_fission_time
+tests/100/страт. апост./0.1/speed3/9000_N
+tests/100/страт. апост./0.1/speed3/9000_time
+tests/100/страт. апост./0.1/speed3/10000
+tests/100/страт. апост./0.1/speed3/10000_fission
+tests/100/страт. апост./0.1/speed3/10000_fission_N
+tests/100/страт. апост./0.1/speed3/10000_fission_time
+tests/100/страт. апост./0.1/speed3/10000_N
+tests/100/страт. апост./0.1/speed3/10000_time
+tests/100/страт. РК1/0.1/speed1/1000
+tests/100/страт. РК1/0.1/speed1/1000_N
+tests/100/страт. РК1/0.1/speed1/1000_time
+tests/100/страт. РК1/0.1/speed1/2000
+tests/100/страт. РК1/0.1/speed1/2000_N
+tests/100/страт. РК1/0.1/speed1/2000_time
+tests/100/страт. РК1/0.1/speed1/3000
+tests/100/страт. РК1/0.1/speed1/3000_N
+tests/100/страт. РК1/0.1/speed1/3000_time
+tests/100/страт. РК1/0.1/speed1/4000
+tests/100/страт. РК1/0.1/speed1/4000_N
+tests/100/страт. РК1/0.1/speed1/4000_time
+tests/100/страт. РК1/0.1/speed1/5000
+tests/100/страт. РК1/0.1/speed1/5000_fission
+tests/100/страт. РК1/0.1/speed1/5000_fission_N
+tests/100/страт. РК1/0.1/speed1/5000_fission_time
+tests/100/страт. РК1/0.1/speed1/5000_N
+tests/100/страт. РК1/0.1/speed1/5000_time
+tests/100/страт. РК1/0.1/speed1/6000
+tests/100/страт. РК1/0.1/speed1/6000_fission
+tests/100/страт. РК1/0.1/speed1/6000_fission_N
+tests/100/страт. РК1/0.1/speed1/6000_fission_time
+tests/100/страт. РК1/0.1/speed1/6000_N
+tests/100/страт. РК1/0.1/speed1/6000_time
+tests/100/страт. РК1/0.1/speed1/7000
+tests/100/страт. РК1/0.1/speed1/7000_fission
+tests/100/страт. РК1/0.1/speed1/7000_fission_N
+tests/100/страт. РК1/0.1/speed1/7000_fission_time
+tests/100/страт. РК1/0.1/speed1/7000_N
+tests/100/страт. РК1/0.1/speed1/7000_time
+tests/100/страт. РК1/0.1/speed1/8000
+tests/100/страт. РК1/0.1/speed1/8000_fission
+tests/100/страт. РК1/0.1/speed1/8000_fission_N
+tests/100/страт. РК1/0.1/speed1/8000_fission_time
+tests/100/страт. РК1/0.1/speed1/8000_N
+tests/100/страт. РК1/0.1/speed1/8000_time
+tests/100/страт. РК1/0.1/speed1/9000
+tests/100/страт. РК1/0.1/speed1/9000_fission
+tests/100/страт. РК1/0.1/speed1/9000_fission_N
+tests/100/страт. РК1/0.1/speed1/9000_fission_time
+tests/100/страт. РК1/0.1/speed1/9000_N
+tests/100/страт. РК1/0.1/speed1/9000_time
+tests/100/страт. РК1/0.1/speed1/10000
+tests/100/страт. РК1/0.1/speed1/10000_fission
+tests/100/страт. РК1/0.1/speed1/10000_fission_N
+tests/100/страт. РК1/0.1/speed1/10000_fission_time
+tests/100/страт. РК1/0.1/speed1/10000_N
+tests/100/страт. РК1/0.1/speed1/10000_time
+tests/100/страт. РК1/0.1/speed2/1000
+tests/100/страт. РК1/0.1/speed2/1000_N
+tests/100/страт. РК1/0.1/speed2/1000_time
+tests/100/страт. РК1/0.1/speed2/2000
+tests/100/страт. РК1/0.1/speed2/2000_N
+tests/100/страт. РК1/0.1/speed2/2000_time
+tests/100/страт. РК1/0.1/speed2/3000
+tests/100/страт. РК1/0.1/speed2/3000_N
+tests/100/страт. РК1/0.1/speed2/3000_time
+tests/100/страт. РК1/0.1/speed2/4000
+tests/100/страт. РК1/0.1/speed2/4000_N
+tests/100/страт. РК1/0.1/speed2/4000_time
+tests/100/страт. РК1/0.1/speed2/5000
+tests/100/страт. РК1/0.1/speed2/5000_fission
+tests/100/страт. РК1/0.1/speed2/5000_fission_N
+tests/100/страт. РК1/0.1/speed2/5000_fission_time
+tests/100/страт. РК1/0.1/speed2/5000_N
+tests/100/страт. РК1/0.1/speed2/5000_time
+tests/100/страт. РК1/0.1/speed2/6000
+tests/100/страт. РК1/0.1/speed2/6000_fission
+tests/100/страт. РК1/0.1/speed2/6000_fission_N
+tests/100/страт. РК1/0.1/speed2/6000_fission_time
+tests/100/страт. РК1/0.1/speed2/6000_N
+tests/100/страт. РК1/0.1/speed2/6000_time
+tests/100/страт. РК1/0.1/speed2/7000
+tests/100/страт. РК1/0.1/speed2/7000_fission
+tests/100/страт. РК1/0.1/speed2/7000_fission_N
+tests/100/страт. РК1/0.1/speed2/7000_fission_time
+tests/100/страт. РК1/0.1/speed2/7000_N
+tests/100/страт. РК1/0.1/speed2/7000_time
+tests/100/страт. РК1/0.1/speed2/8000
+tests/100/страт. РК1/0.1/speed2/8000_fission
+tests/100/страт. РК1/0.1/speed2/8000_fission_N
+tests/100/страт. РК1/0.1/speed2/8000_fission_time
+tests/100/страт. РК1/0.1/speed2/8000_N
+tests/100/страт. РК1/0.1/speed2/8000_time
+tests/100/страт. РК1/0.1/speed2/9000
+tests/100/страт. РК1/0.1/speed2/9000_fission
+tests/100/страт. РК1/0.1/speed2/9000_fission_N
+tests/100/страт. РК1/0.1/speed2/9000_fission_time
+tests/100/страт. РК1/0.1/speed2/9000_N
+tests/100/страт. РК1/0.1/speed2/9000_time
+tests/100/страт. РК1/0.1/speed2/10000
+tests/100/страт. РК1/0.1/speed2/10000_fission
+tests/100/страт. РК1/0.1/speed2/10000_fission_N
+tests/100/страт. РК1/0.1/speed2/10000_fission_time
+tests/100/страт. РК1/0.1/speed2/10000_N
+tests/100/страт. РК1/0.1/speed2/10000_time
+tests/100/страт. РК1/0.1/speed3/1000
+tests/100/страт. РК1/0.1/speed3/1000_N
+tests/100/страт. РК1/0.1/speed3/1000_time
+tests/100/страт. РК1/0.1/speed3/2000
+tests/100/страт. РК1/0.1/speed3/2000_N
+tests/100/страт. РК1/0.1/speed3/2000_time
+tests/100/страт. РК1/0.1/speed3/3000
+tests/100/страт. РК1/0.1/speed3/3000_N
+tests/100/страт. РК1/0.1/speed3/3000_time
+tests/100/страт. РК1/0.1/speed3/4000
+tests/100/страт. РК1/0.1/speed3/4000_N
+tests/100/страт. РК1/0.1/speed3/4000_time
+tests/100/страт. РК1/0.1/speed3/5000
+tests/100/страт. РК1/0.1/speed3/5000_fission
+tests/100/страт. РК1/0.1/speed3/5000_fission_N
+tests/100/страт. РК1/0.1/speed3/5000_fission_time
+tests/100/страт. РК1/0.1/speed3/5000_N
+tests/100/страт. РК1/0.1/speed3/5000_time
+tests/100/страт. РК1/0.1/speed3/6000
+tests/100/страт. РК1/0.1/speed3/6000_fission
+tests/100/страт. РК1/0.1/speed3/6000_fission_N
+tests/100/страт. РК1/0.1/speed3/6000_fission_time
+tests/100/страт. РК1/0.1/speed3/6000_N
+tests/100/страт. РК1/0.1/speed3/6000_time
+tests/100/страт. РК1/0.1/speed3/7000
+tests/100/страт. РК1/0.1/speed3/7000_fission
+tests/100/страт. РК1/0.1/speed3/7000_fission_N
+tests/100/страт. РК1/0.1/speed3/7000_fission_time
+tests/100/страт. РК1/0.1/speed3/7000_N
+tests/100/страт. РК1/0.1/speed3/7000_time
+tests/100/страт. РК1/0.1/speed3/8000
+tests/100/страт. РК1/0.1/speed3/8000_fission
+tests/100/страт. РК1/0.1/speed3/8000_fission_N
+tests/100/страт. РК1/0.1/speed3/8000_fission_time
+tests/100/страт. РК1/0.1/speed3/8000_N
+tests/100/страт. РК1/0.1/speed3/8000_time
+tests/100/страт. РК1/0.1/speed3/9000
+tests/100/страт. РК1/0.1/speed3/9000_fission
+tests/100/страт. РК1/0.1/speed3/9000_fission_N
+tests/100/страт. РК1/0.1/speed3/9000_fission_time
+tests/100/страт. РК1/0.1/speed3/9000_N
+tests/100/страт. РК1/0.1/speed3/9000_time
+tests/100/страт. РК1/0.1/speed3/10000
+tests/100/страт. РК1/0.1/speed3/10000_fission
+tests/100/страт. РК1/0.1/speed3/10000_fission_N
+tests/100/страт. РК1/0.1/speed3/10000_fission_time
+tests/100/страт. РК1/0.1/speed3/10000_N
+tests/100/страт. РК1/0.1/speed3/10000_time
+tests/100/страт. РКЛ/0.1/speed1/5000
+tests/100/страт. РКЛ/0.1/speed1/5000_fission
+tests/100/страт. РКЛ/0.1/speed1/5000_fission_N
+tests/100/страт. РКЛ/0.1/speed1/5000_fission_time
+tests/100/страт. РКЛ/0.1/speed1/5000_N
+tests/100/страт. РКЛ/0.1/speed1/5000_time
+tests/100/страт. РКЛ/0.1/speed1/6000
+tests/100/страт. РКЛ/0.1/speed1/6000_fission
+tests/100/страт. РКЛ/0.1/speed1/6000_fission_N
+tests/100/страт. РКЛ/0.1/speed1/6000_fission_time
+tests/100/страт. РКЛ/0.1/speed1/6000_N
+tests/100/страт. РКЛ/0.1/speed1/6000_time
+tests/100/страт. РКЛ/0.1/speed1/7000
+tests/100/страт. РКЛ/0.1/speed1/7000_fission
+tests/100/страт. РКЛ/0.1/speed1/7000_fission_N
+tests/100/страт. РКЛ/0.1/speed1/7000_fission_time
+tests/100/страт. РКЛ/0.1/speed1/7000_N
+tests/100/страт. РКЛ/0.1/speed1/7000_time
+tests/100/страт. РКЛ/0.1/speed1/8000
+tests/100/страт. РКЛ/0.1/speed1/8000_fission
+tests/100/страт. РКЛ/0.1/speed1/8000_fission_N
+tests/100/страт. РКЛ/0.1/speed1/8000_fission_time
+tests/100/страт. РКЛ/0.1/speed1/8000_N
+tests/100/страт. РКЛ/0.1/speed1/8000_time
+tests/100/страт. РКЛ/0.1/speed1/9000
+tests/100/страт. РКЛ/0.1/speed1/9000_fission
+tests/100/страт. РКЛ/0.1/speed1/9000_fission_N
+tests/100/страт. РКЛ/0.1/speed1/9000_fission_time
+tests/100/страт. РКЛ/0.1/speed1/9000_N
+tests/100/страт. РКЛ/0.1/speed1/9000_time
+tests/100/страт. РКЛ/0.1/speed1/10000
+tests/100/страт. РКЛ/0.1/speed1/10000_fission
+tests/100/страт. РКЛ/0.1/speed1/10000_fission_N
+tests/100/страт. РКЛ/0.1/speed1/10000_fission_time
+tests/100/страт. РКЛ/0.1/speed1/10000_N
+tests/100/страт. РКЛ/0.1/speed1/10000_time
+tests/100/страт. РКЛ/0.1/speed2/5000
+tests/100/страт. РКЛ/0.1/speed2/5000_N
+tests/100/страт. РКЛ/0.1/speed2/5000_time
+tests/100/страт. РКЛ/0.1/speed2/6000
+tests/100/страт. РКЛ/0.1/speed2/6000_N
+tests/100/страт. РКЛ/0.1/speed2/6000_time
+tests/100/страт. РКЛ/0.1/speed2/7000
+tests/100/страт. РКЛ/0.1/speed2/7000_N
+tests/100/страт. РКЛ/0.1/speed2/7000_time
+tests/100/страт. РКЛ/0.1/speed2/8000
+tests/100/страт. РКЛ/0.1/speed2/8000_N
+tests/100/страт. РКЛ/0.1/speed2/8000_time
+tests/100/страт. РКЛ/0.1/speed2/9000
+tests/100/страт. РКЛ/0.1/speed2/9000_N
+tests/100/страт. РКЛ/0.1/speed2/9000_time
+tests/100/страт. РКЛ/0.1/speed2/10000
+tests/100/страт. РКЛ/0.1/speed2/10000_N
+tests/100/страт. РКЛ/0.1/speed2/10000_time
+tests/100/страт. РКЛ/0.1/speed3/5000
+tests/100/страт. РКЛ/0.1/speed3/6000
+tests/100/страт. РКЛ/0.1/speed3/7000
+tests/100/страт. РКЛ/0.1/speed3/8000
+tests/100/страт. РКЛ/0.1/speed3/9000
+tests/100/страт. РКЛ/0.1/speed3/10000
+tests/100/страт. РКЛ 2/0.1/speed1/1000
+tests/100/страт. РКЛ 2/0.1/speed1/1000_N
+tests/100/страт. РКЛ 2/0.1/speed1/1000_time
+tests/100/страт. РКЛ 2/0.1/speed1/2000
+tests/100/страт. РКЛ 2/0.1/speed1/2000_N
+tests/100/страт. РКЛ 2/0.1/speed1/2000_time
+tests/100/страт. РКЛ 2/0.1/speed1/3000
+tests/100/страт. РКЛ 2/0.1/speed1/3000_N
+tests/100/страт. РКЛ 2/0.1/speed1/3000_time
+tests/100/страт. РКЛ 2/0.1/speed1/4000
+tests/100/страт. РКЛ 2/0.1/speed1/4000_N
+tests/100/страт. РКЛ 2/0.1/speed1/4000_time
+tests/100/страт. РКЛ 2/0.1/speed1/5000
+tests/100/страт. РКЛ 2/0.1/speed1/5000_fission
+tests/100/страт. РКЛ 2/0.1/speed1/5000_fission_N
+tests/100/страт. РКЛ 2/0.1/speed1/5000_fission_time
+tests/100/страт. РКЛ 2/0.1/speed1/5000_N
+tests/100/страт. РКЛ 2/0.1/speed1/5000_time
+tests/100/страт. РКЛ 2/0.1/speed1/6000
+tests/100/страт. РКЛ 2/0.1/speed1/6000_fission
+tests/100/страт. РКЛ 2/0.1/speed1/6000_fission_N
+tests/100/страт. РКЛ 2/0.1/speed1/6000_fission_time
+tests/100/страт. РКЛ 2/0.1/speed1/6000_N
+tests/100/страт. РКЛ 2/0.1/speed1/6000_time
+tests/100/страт. РКЛ 2/0.1/speed1/7000
+tests/100/страт. РКЛ 2/0.1/speed1/7000_fission
+tests/100/страт. РКЛ 2/0.1/speed1/7000_fission_N
+tests/100/страт. РКЛ 2/0.1/speed1/7000_fission_time
+tests/100/страт. РКЛ 2/0.1/speed1/7000_N
+tests/100/страт. РКЛ 2/0.1/speed1/7000_time
+tests/100/страт. РКЛ 2/0.1/speed1/8000
+tests/100/страт. РКЛ 2/0.1/speed1/8000_fission
+tests/100/страт. РКЛ 2/0.1/speed1/8000_fission_N
+tests/100/страт. РКЛ 2/0.1/speed1/8000_fission_time
+tests/100/страт. РКЛ 2/0.1/speed1/8000_N
+tests/100/страт. РКЛ 2/0.1/speed1/8000_time
+tests/100/страт. РКЛ 2/0.1/speed1/9000
+tests/100/страт. РКЛ 2/0.1/speed1/9000_fission
+tests/100/страт. РКЛ 2/0.1/speed1/9000_fission_N
+tests/100/страт. РКЛ 2/0.1/speed1/9000_fission_time
+tests/100/страт. РКЛ 2/0.1/speed1/9000_N
+tests/100/страт. РКЛ 2/0.1/speed1/9000_time
+tests/100/страт. РКЛ 2/0.1/speed1/10000
+tests/100/страт. РКЛ 2/0.1/speed1/10000_fission
+tests/100/страт. РКЛ 2/0.1/speed1/10000_fission_N
+tests/100/страт. РКЛ 2/0.1/speed1/10000_fission_time
+tests/100/страт. РКЛ 2/0.1/speed1/10000_N
+tests/100/страт. РКЛ 2/0.1/speed1/10000_time
+tests/100/страт. РКЛ 2/0.1/speed2/1000
+tests/100/страт. РКЛ 2/0.1/speed2/1000_N
+tests/100/страт. РКЛ 2/0.1/speed2/1000_time
+tests/100/страт. РКЛ 2/0.1/speed2/2000
+tests/100/страт. РКЛ 2/0.1/speed2/2000_N
+tests/100/страт. РКЛ 2/0.1/speed2/2000_time
+tests/100/страт. РКЛ 2/0.1/speed2/3000
+tests/100/страт. РКЛ 2/0.1/speed2/3000_N
+tests/100/страт. РКЛ 2/0.1/speed2/3000_time
+tests/100/страт. РКЛ 2/0.1/speed2/4000
+tests/100/страт. РКЛ 2/0.1/speed2/4000_N
+tests/100/страт. РКЛ 2/0.1/speed2/4000_time
+tests/100/страт. РКЛ 2/0.1/speed2/5000
+tests/100/страт. РКЛ 2/0.1/speed2/5000_fission
+tests/100/страт. РКЛ 2/0.1/speed2/5000_fission_N
+tests/100/страт. РКЛ 2/0.1/speed2/5000_fission_time
+tests/100/страт. РКЛ 2/0.1/speed2/5000_N
+tests/100/страт. РКЛ 2/0.1/speed2/5000_time
+tests/100/страт. РКЛ 2/0.1/speed2/6000
+tests/100/страт. РКЛ 2/0.1/speed2/6000_fission
+tests/100/страт. РКЛ 2/0.1/speed2/6000_fission_N
+tests/100/страт. РКЛ 2/0.1/speed2/6000_fission_time
+tests/100/страт. РКЛ 2/0.1/speed2/6000_N
+tests/100/страт. РКЛ 2/0.1/speed2/6000_time
+tests/100/страт. РКЛ 2/0.1/speed2/7000
+tests/100/страт. РКЛ 2/0.1/speed2/7000_fission
+tests/100/страт. РКЛ 2/0.1/speed2/7000_fission_N
+tests/100/страт. РКЛ 2/0.1/speed2/7000_fission_time
+tests/100/страт. РКЛ 2/0.1/speed2/7000_N
+tests/100/страт. РКЛ 2/0.1/speed2/7000_time
+tests/100/страт. РКЛ 2/0.1/speed2/8000
+tests/100/страт. РКЛ 2/0.1/speed2/8000_fission
+tests/100/страт. РКЛ 2/0.1/speed2/8000_fission_N
+tests/100/страт. РКЛ 2/0.1/speed2/8000_fission_time
+tests/100/страт. РКЛ 2/0.1/speed2/8000_N
+tests/100/страт. РКЛ 2/0.1/speed2/8000_time
+tests/100/страт. РКЛ 2/0.1/speed2/9000
+tests/100/страт. РКЛ 2/0.1/speed2/9000_fission
+tests/100/страт. РКЛ 2/0.1/speed2/9000_fission_N
+tests/100/страт. РКЛ 2/0.1/speed2/9000_fission_time
+tests/100/страт. РКЛ 2/0.1/speed2/9000_N
+tests/100/страт. РКЛ 2/0.1/speed2/9000_time
+tests/100/страт. РКЛ 2/0.1/speed2/10000
+tests/100/страт. РКЛ 2/0.1/speed2/10000_fission
+tests/100/страт. РКЛ 2/0.1/speed2/10000_fission_N
+tests/100/страт. РКЛ 2/0.1/speed2/10000_fission_time
+tests/100/страт. РКЛ 2/0.1/speed2/10000_N
+tests/100/страт. РКЛ 2/0.1/speed2/10000_time
+tests/100/страт. РКЛ 2/0.1/speed3/1000
+tests/100/страт. РКЛ 2/0.1/speed3/1000_N
+tests/100/страт. РКЛ 2/0.1/speed3/1000_time
+tests/100/страт. РКЛ 2/0.1/speed3/2000
+tests/100/страт. РКЛ 2/0.1/speed3/2000_N
+tests/100/страт. РКЛ 2/0.1/speed3/2000_time
+tests/100/страт. РКЛ 2/0.1/speed3/3000
+tests/100/страт. РКЛ 2/0.1/speed3/3000_N
+tests/100/страт. РКЛ 2/0.1/speed3/3000_time
+tests/100/страт. РКЛ 2/0.1/speed3/4000
+tests/100/страт. РКЛ 2/0.1/speed3/4000_N
+tests/100/страт. РКЛ 2/0.1/speed3/4000_time
+tests/100/страт. РКЛ 2/0.1/speed3/5000
+tests/100/страт. РКЛ 2/0.1/speed3/5000_fission
+tests/100/страт. РКЛ 2/0.1/speed3/5000_fission_N
+tests/100/страт. РКЛ 2/0.1/speed3/5000_fission_time
+tests/100/страт. РКЛ 2/0.1/speed3/5000_N
+tests/100/страт. РКЛ 2/0.1/speed3/5000_time
+tests/100/страт. РКЛ 2/0.1/speed3/6000
+tests/100/страт. РКЛ 2/0.1/speed3/6000_fission
+tests/100/страт. РКЛ 2/0.1/speed3/6000_fission_N
+tests/100/страт. РКЛ 2/0.1/speed3/6000_fission_time
+tests/100/страт. РКЛ 2/0.1/speed3/6000_N
+tests/100/страт. РКЛ 2/0.1/speed3/6000_time
+tests/100/страт. РКЛ 2/0.1/speed3/7000
+tests/100/страт. РКЛ 2/0.1/speed3/7000_fission
+tests/100/страт. РКЛ 2/0.1/speed3/7000_fission_N
+tests/100/страт. РКЛ 2/0.1/speed3/7000_fission_time
+tests/100/страт. РКЛ 2/0.1/speed3/7000_N
+tests/100/страт. РКЛ 2/0.1/speed3/7000_time
+tests/100/страт. РКЛ 2/0.1/speed3/8000
+tests/100/страт. РКЛ 2/0.1/speed3/8000_fission
+tests/100/страт. РКЛ 2/0.1/speed3/8000_fission_N
+tests/100/страт. РКЛ 2/0.1/speed3/8000_fission_time
+tests/100/страт. РКЛ 2/0.1/speed3/8000_N
+tests/100/страт. РКЛ 2/0.1/speed3/8000_time
+tests/100/страт. РКЛ 2/0.1/speed3/9000
+tests/100/страт. РКЛ 2/0.1/speed3/9000_fission
+tests/100/страт. РКЛ 2/0.1/speed3/9000_fission_N
+tests/100/страт. РКЛ 2/0.1/speed3/9000_fission_time
+tests/100/страт. РКЛ 2/0.1/speed3/9000_N
+tests/100/страт. РКЛ 2/0.1/speed3/9000_time
+tests/100/страт. РКЛ 2/0.1/speed3/10000
+tests/100/страт. РКЛ 2/0.1/speed3/10000_fission
+tests/100/страт. РКЛ 2/0.1/speed3/10000_fission_N
+tests/100/страт. РКЛ 2/0.1/speed3/10000_fission_time
+tests/100/страт. РКЛ 2/0.1/speed3/10000_N
+tests/100/страт. РКЛ 2/0.1/speed3/10000_time
+tests/2/mult/0.1/curve/1000
+tests/2/mult/0.1/curve/1000_time
+tests/2/mult/0.1/curve/2000
+tests/2/mult/0.1/curve/2000_time
+tests/2/mult/0.1/curve/3000
+tests/2/mult/0.1/curve/3000_time
+tests/2/mult/0.1/curve/4000
+tests/2/mult/0.1/curve/4000_time
+tests/2/mult/0.1/curve/5000
+tests/2/mult/0.1/curve/5000_time
+tests/2/mult/0.1/curve/6000
+tests/2/mult/0.1/curve/6000_time
+tests/2/mult/0.1/curve/7000
+tests/2/mult/0.1/curve/7000_time
+tests/2/mult/0.1/curve/8000
+tests/2/mult/0.1/curve/8000_time
+tests/2/mult/0.1/curve/9000
+tests/2/mult/0.1/curve/9000_time
+tests/2/mult/0.1/curve/10000
+tests/2/mult/0.1/curve/10000_time
+tests/2/mult/0.1/curve/11000
+tests/2/mult/0.1/curve/11000_time
+tests/2/mult/0.1/curve/12000
+tests/2/mult/0.1/curve/12000_time
+tests/2/mult/0.1/curve/13000
+tests/2/mult/0.1/curve/13000_time
+tests/2/mult/0.1/curve/14000
+tests/2/mult/0.1/curve/14000_time
+tests/2/mult/0.1/curve/15000
+tests/2/mult/0.1/curve/15000_time
+tests/2/mult/0.1/eight/1000
+tests/2/mult/0.1/eight/1000_time
+tests/2/mult/0.1/eight/2000
+tests/2/mult/0.1/eight/2000_time
+tests/2/mult/0.1/eight/3000
+tests/2/mult/0.1/eight/3000_time
+tests/2/mult/0.1/eight/4000
+tests/2/mult/0.1/eight/4000_time
+tests/2/mult/0.1/eight/5000
+tests/2/mult/0.1/eight/5000_time
+tests/2/mult/0.1/eight/6000
+tests/2/mult/0.1/eight/6000_time
+tests/2/mult/0.1/eight/7000
+tests/2/mult/0.1/eight/7000_time
+tests/2/mult/0.1/eight/8000
+tests/2/mult/0.1/eight/8000_time
+tests/2/mult/0.1/eight/9000
+tests/2/mult/0.1/eight/9000_time
+tests/2/mult/0.1/eight/10000
+tests/2/mult/0.1/eight/10000_time
+tests/2/mult/0.1/eight/11000
+tests/2/mult/0.1/eight/11000_time
+tests/2/mult/0.1/eight/12000
+tests/2/mult/0.1/eight/12000_time
+tests/2/mult/0.1/eight/13000
+tests/2/mult/0.1/eight/13000_time
+tests/2/mult/0.1/eight/14000
+tests/2/mult/0.1/eight/14000_time
+tests/2/mult/0.1/eight/15000
+tests/2/mult/0.1/eight/15000_time
+tests/2/mult/0.2/curve/1000
+tests/2/mult/0.2/curve/1000_time
+tests/2/mult/0.2/curve/2000
+tests/2/mult/0.2/curve/2000_time
+tests/2/mult/0.2/curve/3000
+tests/2/mult/0.2/curve/3000_time
+tests/2/mult/0.2/curve/4000
+tests/2/mult/0.2/curve/4000_time
+tests/2/mult/0.2/curve/5000
+tests/2/mult/0.2/curve/5000_time
+tests/2/mult/0.2/curve/6000
+tests/2/mult/0.2/curve/6000_time
+tests/2/mult/0.2/curve/7000
+tests/2/mult/0.2/curve/7000_time
+tests/2/mult/0.2/curve/8000
+tests/2/mult/0.2/curve/8000_time
+tests/2/mult/0.2/curve/9000
+tests/2/mult/0.2/curve/9000_time
+tests/2/mult/0.2/curve/10000
+tests/2/mult/0.2/curve/10000_time
+tests/2/mult/0.2/curve/11000
+tests/2/mult/0.2/curve/11000_time
+tests/2/mult/0.2/curve/12000
+tests/2/mult/0.2/curve/12000_time
+tests/2/mult/0.2/curve/13000
+tests/2/mult/0.2/curve/13000_time
+tests/2/mult/0.2/curve/14000
+tests/2/mult/0.2/curve/14000_time
+tests/2/mult/0.2/curve/15000
+tests/2/mult/0.2/curve/15000_time
+tests/2/mult/0.2/eight/1000
+tests/2/mult/0.2/eight/1000_time
+tests/2/mult/0.2/eight/2000
+tests/2/mult/0.2/eight/2000_time
+tests/2/mult/0.2/eight/3000
+tests/2/mult/0.2/eight/3000_time
+tests/2/mult/0.2/eight/4000
+tests/2/mult/0.2/eight/4000_time
+tests/2/mult/0.2/eight/5000
+tests/2/mult/0.2/eight/5000_time
+tests/2/mult/0.2/eight/6000
+tests/2/mult/0.2/eight/6000_time
+tests/2/mult/0.2/eight/7000
+tests/2/mult/0.2/eight/7000_time
+tests/2/mult/0.2/eight/8000
+tests/2/mult/0.2/eight/8000_time
+tests/2/mult/0.2/eight/9000
+tests/2/mult/0.2/eight/9000_time
+tests/2/mult/0.2/eight/10000
+tests/2/mult/0.2/eight/10000_time
+tests/2/mult/0.2/eight/11000
+tests/2/mult/0.2/eight/11000_time
+tests/2/mult/0.2/eight/12000
+tests/2/mult/0.2/eight/12000_time
+tests/2/mult/0.2/eight/13000
+tests/2/mult/0.2/eight/13000_time
+tests/2/mult/0.2/eight/14000
+tests/2/mult/0.2/eight/14000_time
+tests/2/mult/0.2/eight/15000
+tests/2/mult/0.2/eight/15000_time
+tests/2/strat/0.1/curve/1000
+tests/2/strat/0.1/curve/1000_time
+tests/2/strat/0.1/curve/2000
+tests/2/strat/0.1/curve/2000_time
+tests/2/strat/0.1/curve/3000
+tests/2/strat/0.1/curve/3000_time
+tests/2/strat/0.1/curve/4000
+tests/2/strat/0.1/curve/4000_time
+tests/2/strat/0.1/curve/5000
+tests/2/strat/0.1/curve/5000_time
+tests/2/strat/0.1/curve/6000
+tests/2/strat/0.1/curve/6000_time
+tests/2/strat/0.1/curve/7000
+tests/2/strat/0.1/curve/7000_time
+tests/2/strat/0.1/curve/8000
+tests/2/strat/0.1/curve/8000_time
+tests/2/strat/0.1/curve/9000
+tests/2/strat/0.1/curve/9000_time
+tests/2/strat/0.1/curve/10000
+tests/2/strat/0.1/curve/10000_time
+tests/2/strat/0.1/curve/11000
+tests/2/strat/0.1/curve/11000_time
+tests/2/strat/0.1/curve/12000
+tests/2/strat/0.1/curve/12000_time
+tests/2/strat/0.1/curve/13000
+tests/2/strat/0.1/curve/13000_time
+tests/2/strat/0.1/curve/14000
+tests/2/strat/0.1/curve/14000_time
+tests/2/strat/0.1/curve/15000
+tests/2/strat/0.1/curve/15000_time
+tests/2/strat/0.1/eight/1000
+tests/2/strat/0.1/eight/1000_time
+tests/2/strat/0.1/eight/2000
+tests/2/strat/0.1/eight/2000_time
+tests/2/strat/0.1/eight/3000
+tests/2/strat/0.1/eight/3000_time
+tests/2/strat/0.1/eight/4000
+tests/2/strat/0.1/eight/4000_time
+tests/2/strat/0.1/eight/5000
+tests/2/strat/0.1/eight/5000_time
+tests/2/strat/0.1/eight/6000
+tests/2/strat/0.1/eight/6000_time
+tests/2/strat/0.1/eight/7000
+tests/2/strat/0.1/eight/7000_time
+tests/2/strat/0.1/eight/8000
+tests/2/strat/0.1/eight/8000_time
+tests/2/strat/0.1/eight/9000
+tests/2/strat/0.1/eight/9000_time
+tests/2/strat/0.1/eight/10000
+tests/2/strat/0.1/eight/10000_time
+tests/2/strat/0.1/eight/11000
+tests/2/strat/0.1/eight/11000_time
+tests/2/strat/0.1/eight/12000
+tests/2/strat/0.1/eight/12000_time
+tests/2/strat/0.1/eight/13000
+tests/2/strat/0.1/eight/13000_time
+tests/2/strat/0.1/eight/14000
+tests/2/strat/0.1/eight/14000_time
+tests/2/strat/0.1/eight/15000
+tests/2/strat/0.1/eight/15000_time
+tests/2/strat/0.2/curve/1000
+tests/2/strat/0.2/curve/1000_time
+tests/2/strat/0.2/curve/2000
+tests/2/strat/0.2/curve/2000_time
+tests/2/strat/0.2/curve/3000
+tests/2/strat/0.2/curve/3000_time
+tests/2/strat/0.2/curve/4000
+tests/2/strat/0.2/curve/4000_time
+tests/2/strat/0.2/curve/5000
+tests/2/strat/0.2/curve/5000_time
+tests/2/strat/0.2/curve/6000
+tests/2/strat/0.2/curve/6000_time
+tests/2/strat/0.2/curve/7000
+tests/2/strat/0.2/curve/7000_time
+tests/2/strat/0.2/curve/8000
+tests/2/strat/0.2/curve/8000_time
+tests/2/strat/0.2/curve/9000
+tests/2/strat/0.2/curve/9000_time
+tests/2/strat/0.2/curve/10000
+tests/2/strat/0.2/curve/10000_time
+tests/2/strat/0.2/curve/11000
+tests/2/strat/0.2/curve/11000_time
+tests/2/strat/0.2/curve/12000
+tests/2/strat/0.2/curve/12000_time
+tests/2/strat/0.2/curve/13000
+tests/2/strat/0.2/curve/13000_time
+tests/2/strat/0.2/curve/14000
+tests/2/strat/0.2/curve/14000_time
+tests/2/strat/0.2/curve/15000
+tests/2/strat/0.2/curve/15000_time
+tests/2/strat/0.2/eight/1000
+tests/2/strat/0.2/eight/1000_time
+tests/2/strat/0.2/eight/2000
+tests/2/strat/0.2/eight/2000_time
+tests/2/strat/0.2/eight/3000
+tests/2/strat/0.2/eight/3000_time
+tests/2/strat/0.2/eight/4000
+tests/2/strat/0.2/eight/4000_time
+tests/2/strat/0.2/eight/5000
+tests/2/strat/0.2/eight/5000_time
+tests/2/strat/0.2/eight/6000
+tests/2/strat/0.2/eight/6000_time
+tests/2/strat/0.2/eight/7000
+tests/2/strat/0.2/eight/7000_time
+tests/2/strat/0.2/eight/8000
+tests/2/strat/0.2/eight/8000_time
+tests/2/strat/0.2/eight/9000
+tests/2/strat/0.2/eight/9000_time
+tests/2/strat/0.2/eight/10000
+tests/2/strat/0.2/eight/10000_time
+tests/2/strat/0.2/eight/11000
+tests/2/strat/0.2/eight/11000_time
+tests/2/strat/0.2/eight/12000
+tests/2/strat/0.2/eight/12000_time
+tests/2/strat/0.2/eight/13000
+tests/2/strat/0.2/eight/13000_time
+tests/2/strat/0.2/eight/14000
+tests/2/strat/0.2/eight/14000_time
+tests/2/strat/0.2/eight/15000
+tests/2/strat/0.2/eight/15000_time
+tests/2/syst/0.1/curve/1000
+tests/2/syst/0.1/curve/1000_time
+tests/2/syst/0.1/curve/2000
+tests/2/syst/0.1/curve/2000_time
+tests/2/syst/0.1/curve/3000
+tests/2/syst/0.1/curve/3000_time
+tests/2/syst/0.1/curve/4000
+tests/2/syst/0.1/curve/4000_time
+tests/2/syst/0.1/curve/5000
+tests/2/syst/0.1/curve/5000_time
+tests/2/syst/0.1/curve/6000
+tests/2/syst/0.1/curve/6000_time
+tests/2/syst/0.1/curve/7000
+tests/2/syst/0.1/curve/7000_time
+tests/2/syst/0.1/curve/8000
+tests/2/syst/0.1/curve/8000_time
+tests/2/syst/0.1/curve/9000
+tests/2/syst/0.1/curve/9000_time
+tests/2/syst/0.1/curve/10000
+tests/2/syst/0.1/curve/10000_time
+tests/2/syst/0.1/curve/11000
+tests/2/syst/0.1/curve/11000_time
+tests/2/syst/0.1/curve/12000
+tests/2/syst/0.1/curve/12000_time
+tests/2/syst/0.1/curve/13000
+tests/2/syst/0.1/curve/13000_time
+tests/2/syst/0.1/curve/14000
+tests/2/syst/0.1/curve/14000_time
+tests/2/syst/0.1/curve/15000
+tests/2/syst/0.1/curve/15000_time
+tests/2/syst/0.1/eight/1000
+tests/2/syst/0.1/eight/1000_time
+tests/2/syst/0.1/eight/2000
+tests/2/syst/0.1/eight/2000_time
+tests/2/syst/0.1/eight/3000
+tests/2/syst/0.1/eight/3000_time
+tests/2/syst/0.1/eight/4000
+tests/2/syst/0.1/eight/4000_time
+tests/2/syst/0.1/eight/5000
+tests/2/syst/0.1/eight/5000_time
+tests/2/syst/0.1/eight/6000
+tests/2/syst/0.1/eight/6000_time
+tests/2/syst/0.1/eight/7000
+tests/2/syst/0.1/eight/7000_time
+tests/2/syst/0.1/eight/8000
+tests/2/syst/0.1/eight/8000_time
+tests/2/syst/0.1/eight/9000
+tests/2/syst/0.1/eight/9000_time
+tests/2/syst/0.1/eight/10000
+tests/2/syst/0.1/eight/10000_time
+tests/2/syst/0.1/eight/11000
+tests/2/syst/0.1/eight/11000_time
+tests/2/syst/0.1/eight/12000
+tests/2/syst/0.1/eight/12000_time
+tests/2/syst/0.1/eight/13000
+tests/2/syst/0.1/eight/13000_time
+tests/2/syst/0.1/eight/14000
+tests/2/syst/0.1/eight/14000_time
+tests/2/syst/0.1/eight/15000
+tests/2/syst/0.1/eight/15000_time
+tests/2/syst/0.2/curve/1000
+tests/2/syst/0.2/curve/1000_time
+tests/2/syst/0.2/curve/2000
+tests/2/syst/0.2/curve/2000_time
+tests/2/syst/0.2/curve/3000
+tests/2/syst/0.2/curve/3000_time
+tests/2/syst/0.2/curve/4000
+tests/2/syst/0.2/curve/4000_time
+tests/2/syst/0.2/curve/5000
+tests/2/syst/0.2/curve/5000_time
+tests/2/syst/0.2/curve/6000
+tests/2/syst/0.2/curve/6000_time
+tests/2/syst/0.2/curve/7000
+tests/2/syst/0.2/curve/7000_time
+tests/2/syst/0.2/curve/8000
+tests/2/syst/0.2/curve/8000_time
+tests/2/syst/0.2/curve/9000
+tests/2/syst/0.2/curve/9000_time
+tests/2/syst/0.2/curve/10000
+tests/2/syst/0.2/curve/10000_time
+tests/2/syst/0.2/curve/11000
+tests/2/syst/0.2/curve/11000_time
+tests/2/syst/0.2/curve/12000
+tests/2/syst/0.2/curve/12000_time
+tests/2/syst/0.2/curve/13000
+tests/2/syst/0.2/curve/13000_time
+tests/2/syst/0.2/curve/14000
+tests/2/syst/0.2/curve/14000_time
+tests/2/syst/0.2/curve/15000
+tests/2/syst/0.2/curve/15000_time
+tests/2/syst/0.2/eight/1000
+tests/2/syst/0.2/eight/1000_time
+tests/2/syst/0.2/eight/2000
+tests/2/syst/0.2/eight/2000_time
+tests/2/syst/0.2/eight/3000
+tests/2/syst/0.2/eight/3000_time
+tests/2/syst/0.2/eight/4000
+tests/2/syst/0.2/eight/4000_time
+tests/2/syst/0.2/eight/5000
+tests/2/syst/0.2/eight/5000_time
+tests/2/syst/0.2/eight/6000
+tests/2/syst/0.2/eight/6000_time
+tests/2/syst/0.2/eight/7000
+tests/2/syst/0.2/eight/7000_time
+tests/2/syst/0.2/eight/8000
+tests/2/syst/0.2/eight/8000_time
+tests/2/syst/0.2/eight/9000
+tests/2/syst/0.2/eight/9000_time
+tests/2/syst/0.2/eight/10000
+tests/2/syst/0.2/eight/10000_time
+tests/2/syst/0.2/eight/11000
+tests/2/syst/0.2/eight/11000_time
+tests/2/syst/0.2/eight/12000
+tests/2/syst/0.2/eight/12000_time
+tests/2/syst/0.2/eight/13000
+tests/2/syst/0.2/eight/13000_time
+tests/2/syst/0.2/eight/14000
+tests/2/syst/0.2/eight/14000_time
+tests/2/syst/0.2/eight/15000
+tests/2/syst/0.2/eight/15000_time
+tests/50/NewmultPna/0.1/speed2/6000
+tests/50/NewmultPna/0.1/speed2/6000_N
+tests/50/NewmultPna/0.1/speed2/6000_time
+tests/50/NewstratPna/0.1/speed2/6000
+tests/50/NewstratPna/0.1/speed2/6000_N
+tests/50/NewstratPna/0.1/speed2/6000_time
+tests/50/NewsystPna/0.1/speed2/6000
+tests/50/NewsystPna/0.1/speed2/6000_N
+tests/50/NewsystPna/0.1/speed2/6000_time
+tests/50/пол./0.1/speed1/6000
+tests/50/пол./0.1/speed1/6000_N
+tests/50/пол./0.1/speed1/6000_time
+tests/50/пол./0.1/speed2/6000
+tests/50/пол./0.1/speed2/6000_N
+tests/50/пол./0.1/speed2/6000_time
+tests/50/сист./0.1/speed1/6000
+tests/50/сист./0.1/speed1/6000_N
+tests/50/сист./0.1/speed1/6000_time
+tests/50/сист./0.1/speed2/6000
+tests/50/сист./0.1/speed2/6000_N
+tests/50/сист./0.1/speed2/6000_time
+tests/50/страт./0.1/speed1/6000
+tests/50/страт./0.1/speed1/6000_N
+tests/50/страт./0.1/speed1/6000_time
+tests/50/страт./0.1/speed2/6000
+tests/50/страт./0.1/speed2/6000_N
+tests/50/страт./0.1/speed2/6000_time
+tests/50 (copy)/NewmultPna/0.1/speed2/6000
+tests/50 (copy)/NewmultPna/0.1/speed2/6000_N
+tests/50 (copy)/NewmultPna/0.1/speed2/6000_time
+tests/50 (copy)/NewsystPna/0.1/speed2/6000
+tests/50 (copy)/NewsystPna/0.1/speed2/6000_N
+tests/50 (copy)/NewsystPna/0.1/speed2/6000_time
+tests/50 (copy)/пол./0.1/speed1/6000
+tests/50 (copy)/пол./0.1/speed1/6000_N
+tests/50 (copy)/пол./0.1/speed1/6000_time
+tests/50 (copy)/пол./0.1/speed2/6000
+tests/50 (copy)/пол./0.1/speed2/6000_N
+tests/50 (copy)/пол./0.1/speed2/6000_time
+tests/50 (copy)/сист./0.1/speed1/6000
+tests/50 (copy)/сист./0.1/speed1/6000_N
+tests/50 (copy)/сист./0.1/speed1/6000_time
+tests/50 (copy)/сист./0.1/speed2/6000
+tests/50 (copy)/сист./0.1/speed2/6000_N
+tests/50 (copy)/сист./0.1/speed2/6000_time
+tests/70/РКЛ стар. пол./0.1/speed1/5000
+tests/70/РКЛ стар. пол./0.1/speed1/5000_N
+tests/70/РКЛ стар. пол./0.1/speed1/5000_time
+tests/70/РКЛ стар. сист./0.1/speed1/5000
+tests/70/РКЛ стар. сист./0.1/speed1/5000_N
+tests/70/РКЛ стар. сист./0.1/speed1/5000_time
+tests/70/РКЛ стра. страт./0.1/speed1/5000
+tests/70/РКЛ стра. страт./0.1/speed1/5000_N
+tests/70/РКЛ стра. страт./0.1/speed1/5000_time
+tests/71/NewmultKD/0.1/speed1/10000
+tests/71/NewmultKD/0.1/speed1/10000_N
+tests/71/NewmultKD/0.1/speed1/10000_time
+tests/71/РКЛ нов. пол./0.1/speed1/5000
+tests/71/РКЛ нов. пол./0.1/speed1/5000_N
+tests/71/РКЛ нов. пол./0.1/speed1/5000_time
+tests/71/РКЛ нов. сист./0.1/speed1/5000
+tests/71/РКЛ нов. сист./0.1/speed1/5000_N
+tests/71/РКЛ нов. сист./0.1/speed1/5000_time
+tests/71/РКЛ нов. страт./0.1/speed1/5000
+tests/71/РКЛ нов. страт./0.1/speed1/5000_N
+tests/71/РКЛ нов. страт./0.1/speed1/5000_time
+tests/72/NewmultKD/0.1/speed1/10000
+tests/72/NewmultKD/0.1/speed1/10000_N
+tests/72/NewmultKD/0.1/speed1/10000_time
+tests/72/NewmultKD/0.1/speed1/15000
+tests/72/NewmultKD/0.1/speed1/15000_N
+tests/72/NewmultKD/0.1/speed1/15000_time
+tests_old_backup/100/пол./0.1/curve/1000
+tests_old_backup/100/пол./0.1/curve/1000_time
+tests_old_backup/100/пол./0.1/curve/2000
+tests_old_backup/100/пол./0.1/curve/2000_time
+tests_old_backup/100/пол./0.1/curve/3000
+tests_old_backup/100/пол./0.1/curve/3000_time
+tests_old_backup/100/пол./0.1/curve/4000
+tests_old_backup/100/пол./0.1/curve/4000_time
+tests_old_backup/100/пол./0.1/curve/5000
+tests_old_backup/100/пол./0.1/curve/5000_time
+tests_old_backup/100/пол./0.1/curve/6000
+tests_old_backup/100/пол./0.1/curve/6000_time
+tests_old_backup/100/пол./0.1/curve/7000
+tests_old_backup/100/пол./0.1/curve/7000_time
+tests_old_backup/100/пол./0.1/curve/8000
+tests_old_backup/100/пол./0.1/curve/8000_time
+tests_old_backup/100/пол./0.1/curve/9000
+tests_old_backup/100/пол./0.1/curve/9000_time
+tests_old_backup/100/пол./0.1/curve/10000
+tests_old_backup/100/пол./0.1/curve/10000_time
+tests_old_backup/100/пол./0.1/curve/11000
+tests_old_backup/100/пол./0.1/curve/11000_time
+tests_old_backup/100/пол./0.1/curve/12000
+tests_old_backup/100/пол./0.1/curve/12000_time
+tests_old_backup/100/пол./0.1/curve/13000
+tests_old_backup/100/пол./0.1/curve/13000_time
+tests_old_backup/100/пол./0.1/curve/14000
+tests_old_backup/100/пол./0.1/curve/14000_time
+tests_old_backup/100/пол./0.1/curve/15000
+tests_old_backup/100/пол./0.1/curve/15000_time
+tests_old_backup/100/пол./0.1/eight/1000
+tests_old_backup/100/пол./0.1/eight/1000_time
+tests_old_backup/100/пол./0.1/eight/2000
+tests_old_backup/100/пол./0.1/eight/2000_time
+tests_old_backup/100/пол./0.1/eight/3000
+tests_old_backup/100/пол./0.1/eight/3000_time
+tests_old_backup/100/пол./0.1/eight/4000
+tests_old_backup/100/пол./0.1/eight/4000_time
+tests_old_backup/100/пол./0.1/eight/5000
+tests_old_backup/100/пол./0.1/eight/5000_time
+tests_old_backup/100/пол./0.1/eight/6000
+tests_old_backup/100/пол./0.1/eight/6000_time
+tests_old_backup/100/пол./0.1/eight/7000
+tests_old_backup/100/пол./0.1/eight/7000_time
+tests_old_backup/100/пол./0.1/eight/8000
+tests_old_backup/100/пол./0.1/eight/8000_time
+tests_old_backup/100/пол./0.1/eight/9000
+tests_old_backup/100/пол./0.1/eight/9000_time
+tests_old_backup/100/пол./0.1/eight/10000
+tests_old_backup/100/пол./0.1/eight/10000_time
+tests_old_backup/100/пол./0.1/eight/11000
+tests_old_backup/100/пол./0.1/eight/11000_time
+tests_old_backup/100/пол./0.1/eight/12000
+tests_old_backup/100/пол./0.1/eight/12000_time
+tests_old_backup/100/пол./0.1/eight/13000
+tests_old_backup/100/пол./0.1/eight/13000_time
+tests_old_backup/100/пол./0.1/eight/14000
+tests_old_backup/100/пол./0.1/eight/14000_time
+tests_old_backup/100/пол./0.1/eight/15000
+tests_old_backup/100/пол./0.1/eight/15000_time
+tests_old_backup/100/пол./0.2/curve/1000
+tests_old_backup/100/пол./0.2/curve/1000_time
+tests_old_backup/100/пол./0.2/curve/2000
+tests_old_backup/100/пол./0.2/curve/2000_time
+tests_old_backup/100/пол./0.2/curve/3000
+tests_old_backup/100/пол./0.2/curve/3000_time
+tests_old_backup/100/пол./0.2/curve/4000
+tests_old_backup/100/пол./0.2/curve/4000_time
+tests_old_backup/100/пол./0.2/curve/5000
+tests_old_backup/100/пол./0.2/curve/5000_time
+tests_old_backup/100/пол./0.2/curve/6000
+tests_old_backup/100/пол./0.2/curve/6000_time
+tests_old_backup/100/пол./0.2/curve/7000
+tests_old_backup/100/пол./0.2/curve/7000_time
+tests_old_backup/100/пол./0.2/curve/8000
+tests_old_backup/100/пол./0.2/curve/8000_time
+tests_old_backup/100/пол./0.2/curve/9000
+tests_old_backup/100/пол./0.2/curve/9000_time
+tests_old_backup/100/пол./0.2/curve/10000
+tests_old_backup/100/пол./0.2/curve/10000_time
+tests_old_backup/100/пол./0.2/curve/11000
+tests_old_backup/100/пол./0.2/curve/11000_time
+tests_old_backup/100/пол./0.2/curve/12000
+tests_old_backup/100/пол./0.2/curve/12000_time
+tests_old_backup/100/пол./0.2/curve/13000
+tests_old_backup/100/пол./0.2/curve/13000_time
+tests_old_backup/100/пол./0.2/curve/14000
+tests_old_backup/100/пол./0.2/curve/14000_time
+tests_old_backup/100/пол./0.2/curve/15000
+tests_old_backup/100/пол./0.2/curve/15000_time
+tests_old_backup/100/пол./0.2/eight/1000
+tests_old_backup/100/пол./0.2/eight/1000_time
+tests_old_backup/100/пол./0.2/eight/2000
+tests_old_backup/100/пол./0.2/eight/2000_time
+tests_old_backup/100/пол./0.2/eight/3000
+tests_old_backup/100/пол./0.2/eight/3000_time
+tests_old_backup/100/пол./0.2/eight/4000
+tests_old_backup/100/пол./0.2/eight/4000_time
+tests_old_backup/100/пол./0.2/eight/5000
+tests_old_backup/100/пол./0.2/eight/5000_time
+tests_old_backup/100/пол./0.2/eight/6000
+tests_old_backup/100/пол./0.2/eight/6000_time
+tests_old_backup/100/пол./0.2/eight/7000
+tests_old_backup/100/пол./0.2/eight/7000_time
+tests_old_backup/100/пол./0.2/eight/8000
+tests_old_backup/100/пол./0.2/eight/8000_time
+tests_old_backup/100/пол./0.2/eight/9000
+tests_old_backup/100/пол./0.2/eight/9000_time
+tests_old_backup/100/пол./0.2/eight/10000
+tests_old_backup/100/пол./0.2/eight/10000_time
+tests_old_backup/100/пол./0.2/eight/11000
+tests_old_backup/100/пол./0.2/eight/11000_time
+tests_old_backup/100/пол./0.2/eight/12000
+tests_old_backup/100/пол./0.2/eight/12000_time
+tests_old_backup/100/пол./0.2/eight/13000
+tests_old_backup/100/пол./0.2/eight/13000_time
+tests_old_backup/100/пол./0.2/eight/14000
+tests_old_backup/100/пол./0.2/eight/14000_time
+tests_old_backup/100/пол./0.2/eight/15000
+tests_old_backup/100/пол./0.2/eight/15000_time
+tests_old_backup/100/сист./0.1/curve/1000
+tests_old_backup/100/сист./0.1/curve/1000_time
+tests_old_backup/100/сист./0.1/curve/2000
+tests_old_backup/100/сист./0.1/curve/2000_time
+tests_old_backup/100/сист./0.1/curve/3000
+tests_old_backup/100/сист./0.1/curve/3000_time
+tests_old_backup/100/сист./0.1/curve/4000
+tests_old_backup/100/сист./0.1/curve/4000_time
+tests_old_backup/100/сист./0.1/curve/5000
+tests_old_backup/100/сист./0.1/curve/5000_time
+tests_old_backup/100/сист./0.1/curve/6000
+tests_old_backup/100/сист./0.1/curve/6000_time
+tests_old_backup/100/сист./0.1/curve/7000
+tests_old_backup/100/сист./0.1/curve/7000_time
+tests_old_backup/100/сист./0.1/curve/8000
+tests_old_backup/100/сист./0.1/curve/8000_time
+tests_old_backup/100/сист./0.1/curve/9000
+tests_old_backup/100/сист./0.1/curve/9000_time
+tests_old_backup/100/сист./0.1/curve/10000
+tests_old_backup/100/сист./0.1/curve/10000_time
+tests_old_backup/100/сист./0.1/curve/11000
+tests_old_backup/100/сист./0.1/curve/11000_time
+tests_old_backup/100/сист./0.1/curve/12000
+tests_old_backup/100/сист./0.1/curve/12000_time
+tests_old_backup/100/сист./0.1/curve/13000
+tests_old_backup/100/сист./0.1/curve/13000_time
+tests_old_backup/100/сист./0.1/curve/14000
+tests_old_backup/100/сист./0.1/curve/14000_time
+tests_old_backup/100/сист./0.1/curve/15000
+tests_old_backup/100/сист./0.1/curve/15000_time
+tests_old_backup/100/сист./0.1/eight/1000
+tests_old_backup/100/сист./0.1/eight/1000_time
+tests_old_backup/100/сист./0.1/eight/2000
+tests_old_backup/100/сист./0.1/eight/2000_time
+tests_old_backup/100/сист./0.1/eight/3000
+tests_old_backup/100/сист./0.1/eight/3000_time
+tests_old_backup/100/сист./0.1/eight/4000
+tests_old_backup/100/сист./0.1/eight/4000_time
+tests_old_backup/100/сист./0.1/eight/5000
+tests_old_backup/100/сист./0.1/eight/5000_time
+tests_old_backup/100/сист./0.1/eight/6000
+tests_old_backup/100/сист./0.1/eight/6000_time
+tests_old_backup/100/сист./0.1/eight/7000
+tests_old_backup/100/сист./0.1/eight/7000_time
+tests_old_backup/100/сист./0.1/eight/8000
+tests_old_backup/100/сист./0.1/eight/8000_time
+tests_old_backup/100/сист./0.1/eight/9000
+tests_old_backup/100/сист./0.1/eight/9000_time
+tests_old_backup/100/сист./0.1/eight/10000
+tests_old_backup/100/сист./0.1/eight/10000_time
+tests_old_backup/100/сист./0.1/eight/11000
+tests_old_backup/100/сист./0.1/eight/11000_time
+tests_old_backup/100/сист./0.1/eight/12000
+tests_old_backup/100/сист./0.1/eight/12000_time
+tests_old_backup/100/сист./0.1/eight/13000
+tests_old_backup/100/сист./0.1/eight/13000_time
+tests_old_backup/100/сист./0.1/eight/14000
+tests_old_backup/100/сист./0.1/eight/14000_time
+tests_old_backup/100/сист./0.1/eight/15000
+tests_old_backup/100/сист./0.1/eight/15000_time
+tests_old_backup/100/сист./0.2/curve/1000
+tests_old_backup/100/сист./0.2/curve/1000_time
+tests_old_backup/100/сист./0.2/curve/2000
+tests_old_backup/100/сист./0.2/curve/2000_time
+tests_old_backup/100/сист./0.2/curve/3000
+tests_old_backup/100/сист./0.2/curve/3000_time
+tests_old_backup/100/сист./0.2/curve/4000
+tests_old_backup/100/сист./0.2/curve/4000_time
+tests_old_backup/100/сист./0.2/curve/5000
+tests_old_backup/100/сист./0.2/curve/5000_time
+tests_old_backup/100/сист./0.2/curve/6000
+tests_old_backup/100/сист./0.2/curve/6000_time
+tests_old_backup/100/сист./0.2/curve/7000
+tests_old_backup/100/сист./0.2/curve/7000_time
+tests_old_backup/100/сист./0.2/curve/8000
+tests_old_backup/100/сист./0.2/curve/8000_time
+tests_old_backup/100/сист./0.2/curve/9000
+tests_old_backup/100/сист./0.2/curve/9000_time
+tests_old_backup/100/сист./0.2/curve/10000
+tests_old_backup/100/сист./0.2/curve/10000_time
+tests_old_backup/100/сист./0.2/curve/11000
+tests_old_backup/100/сист./0.2/curve/11000_time
+tests_old_backup/100/сист./0.2/curve/12000
+tests_old_backup/100/сист./0.2/curve/12000_time
+tests_old_backup/100/сист./0.2/curve/13000
+tests_old_backup/100/сист./0.2/curve/13000_time
+tests_old_backup/100/сист./0.2/curve/14000
+tests_old_backup/100/сист./0.2/curve/14000_time
+tests_old_backup/100/сист./0.2/curve/15000
+tests_old_backup/100/сист./0.2/curve/15000_time
+tests_old_backup/100/сист./0.2/eight/1000
+tests_old_backup/100/сист./0.2/eight/1000_time
+tests_old_backup/100/сист./0.2/eight/2000
+tests_old_backup/100/сист./0.2/eight/2000_time
+tests_old_backup/100/сист./0.2/eight/3000
+tests_old_backup/100/сист./0.2/eight/3000_time
+tests_old_backup/100/сист./0.2/eight/4000
+tests_old_backup/100/сист./0.2/eight/4000_time
+tests_old_backup/100/сист./0.2/eight/5000
+tests_old_backup/100/сист./0.2/eight/5000_time
+tests_old_backup/100/сист./0.2/eight/6000
+tests_old_backup/100/сист./0.2/eight/6000_time
+tests_old_backup/100/сист./0.2/eight/7000
+tests_old_backup/100/сист./0.2/eight/7000_time
+tests_old_backup/100/сист./0.2/eight/8000
+tests_old_backup/100/сист./0.2/eight/8000_time
+tests_old_backup/100/сист./0.2/eight/9000
+tests_old_backup/100/сист./0.2/eight/9000_time
+tests_old_backup/100/сист./0.2/eight/10000
+tests_old_backup/100/сист./0.2/eight/10000_time
+tests_old_backup/100/сист./0.2/eight/11000
+tests_old_backup/100/сист./0.2/eight/11000_time
+tests_old_backup/100/сист./0.2/eight/12000
+tests_old_backup/100/сист./0.2/eight/12000_time
+tests_old_backup/100/сист./0.2/eight/13000
+tests_old_backup/100/сист./0.2/eight/13000_time
+tests_old_backup/100/сист./0.2/eight/14000
+tests_old_backup/100/сист./0.2/eight/14000_time
+tests_old_backup/100/сист./0.2/eight/15000
+tests_old_backup/100/сист./0.2/eight/15000_time
+tests_old_backup/100/страт./0.1/curve/1000
+tests_old_backup/100/страт./0.1/curve/1000_time
+tests_old_backup/100/страт./0.1/curve/2000
+tests_old_backup/100/страт./0.1/curve/2000_time
+tests_old_backup/100/страт./0.1/curve/3000
+tests_old_backup/100/страт./0.1/curve/3000_time
+tests_old_backup/100/страт./0.1/curve/4000
+tests_old_backup/100/страт./0.1/curve/4000_time
+tests_old_backup/100/страт./0.1/curve/5000
+tests_old_backup/100/страт./0.1/curve/5000_time
+tests_old_backup/100/страт./0.1/curve/6000
+tests_old_backup/100/страт./0.1/curve/6000_time
+tests_old_backup/100/страт./0.1/curve/7000
+tests_old_backup/100/страт./0.1/curve/7000_time
+tests_old_backup/100/страт./0.1/curve/8000
+tests_old_backup/100/страт./0.1/curve/8000_time
+tests_old_backup/100/страт./0.1/curve/9000
+tests_old_backup/100/страт./0.1/curve/9000_time
+tests_old_backup/100/страт./0.1/curve/10000
+tests_old_backup/100/страт./0.1/curve/10000_time
+tests_old_backup/100/страт./0.1/curve/11000
+tests_old_backup/100/страт./0.1/curve/11000_time
+tests_old_backup/100/страт./0.1/curve/12000
+tests_old_backup/100/страт./0.1/curve/12000_time
+tests_old_backup/100/страт./0.1/curve/13000
+tests_old_backup/100/страт./0.1/curve/13000_time
+tests_old_backup/100/страт./0.1/curve/14000
+tests_old_backup/100/страт./0.1/curve/14000_time
+tests_old_backup/100/страт./0.1/curve/15000
+tests_old_backup/100/страт./0.1/curve/15000_time
+tests_old_backup/100/страт./0.1/eight/1000
+tests_old_backup/100/страт./0.1/eight/1000_time
+tests_old_backup/100/страт./0.1/eight/2000
+tests_old_backup/100/страт./0.1/eight/2000_time
+tests_old_backup/100/страт./0.1/eight/3000
+tests_old_backup/100/страт./0.1/eight/3000_time
+tests_old_backup/100/страт./0.1/eight/4000
+tests_old_backup/100/страт./0.1/eight/4000_time
+tests_old_backup/100/страт./0.1/eight/5000
+tests_old_backup/100/страт./0.1/eight/5000_time
+tests_old_backup/100/страт./0.1/eight/6000
+tests_old_backup/100/страт./0.1/eight/6000_time
+tests_old_backup/100/страт./0.1/eight/7000
+tests_old_backup/100/страт./0.1/eight/7000_time
+tests_old_backup/100/страт./0.1/eight/8000
+tests_old_backup/100/страт./0.1/eight/8000_time
+tests_old_backup/100/страт./0.1/eight/9000
+tests_old_backup/100/страт./0.1/eight/9000_time
+tests_old_backup/100/страт./0.1/eight/10000
+tests_old_backup/100/страт./0.1/eight/10000_time
+tests_old_backup/100/страт./0.1/eight/11000
+tests_old_backup/100/страт./0.1/eight/11000_time
+tests_old_backup/100/страт./0.1/eight/12000
+tests_old_backup/100/страт./0.1/eight/12000_time
+tests_old_backup/100/страт./0.1/eight/13000
+tests_old_backup/100/страт./0.1/eight/13000_time
+tests_old_backup/100/страт./0.1/eight/14000
+tests_old_backup/100/страт./0.1/eight/14000_time
+tests_old_backup/100/страт./0.1/eight/15000
+tests_old_backup/100/страт./0.1/eight/15000_time
+tests_old_backup/100/страт./0.2/curve/1000
+tests_old_backup/100/страт./0.2/curve/1000_time
+tests_old_backup/100/страт./0.2/curve/2000
+tests_old_backup/100/страт./0.2/curve/2000_time
+tests_old_backup/100/страт./0.2/curve/3000
+tests_old_backup/100/страт./0.2/curve/3000_time
+tests_old_backup/100/страт./0.2/curve/4000
+tests_old_backup/100/страт./0.2/curve/4000_time
+tests_old_backup/100/страт./0.2/curve/5000
+tests_old_backup/100/страт./0.2/curve/5000_time
+tests_old_backup/100/страт./0.2/curve/6000
+tests_old_backup/100/страт./0.2/curve/6000_time
+tests_old_backup/100/страт./0.2/curve/7000
+tests_old_backup/100/страт./0.2/curve/7000_time
+tests_old_backup/100/страт./0.2/curve/8000
+tests_old_backup/100/страт./0.2/curve/8000_time
+tests_old_backup/100/страт./0.2/curve/9000
+tests_old_backup/100/страт./0.2/curve/9000_time
+tests_old_backup/100/страт./0.2/curve/10000
+tests_old_backup/100/страт./0.2/curve/10000_time
+tests_old_backup/100/страт./0.2/curve/11000
+tests_old_backup/100/страт./0.2/curve/11000_time
+tests_old_backup/100/страт./0.2/curve/12000
+tests_old_backup/100/страт./0.2/curve/12000_time
+tests_old_backup/100/страт./0.2/curve/13000
+tests_old_backup/100/страт./0.2/curve/13000_time
+tests_old_backup/100/страт./0.2/curve/14000
+tests_old_backup/100/страт./0.2/curve/14000_time
+tests_old_backup/100/страт./0.2/curve/15000
+tests_old_backup/100/страт./0.2/curve/15000_time
+tests_old_backup/100/страт./0.2/eight/1000
+tests_old_backup/100/страт./0.2/eight/1000_time
+tests_old_backup/100/страт./0.2/eight/2000
+tests_old_backup/100/страт./0.2/eight/2000_time
+tests_old_backup/100/страт./0.2/eight/3000
+tests_old_backup/100/страт./0.2/eight/3000_time
+tests_old_backup/100/страт./0.2/eight/4000
+tests_old_backup/100/страт./0.2/eight/4000_time
+tests_old_backup/100/страт./0.2/eight/5000
+tests_old_backup/100/страт./0.2/eight/5000_time
+tests_old_backup/100/страт./0.2/eight/6000
+tests_old_backup/100/страт./0.2/eight/6000_time
+tests_old_backup/100/страт./0.2/eight/7000
+tests_old_backup/100/страт./0.2/eight/7000_time
+tests_old_backup/100/страт./0.2/eight/8000
+tests_old_backup/100/страт./0.2/eight/8000_time
+tests_old_backup/100/страт./0.2/eight/9000
+tests_old_backup/100/страт./0.2/eight/9000_time
+tests_old_backup/100/страт./0.2/eight/10000
+tests_old_backup/100/страт./0.2/eight/10000_time
+tests_old_backup/100/страт./0.2/eight/11000
+tests_old_backup/100/страт./0.2/eight/11000_time
+tests_old_backup/100/страт./0.2/eight/12000
+tests_old_backup/100/страт./0.2/eight/12000_time
+tests_old_backup/100/страт./0.2/eight/13000
+tests_old_backup/100/страт./0.2/eight/13000_time
+tests_old_backup/100/страт./0.2/eight/14000
+tests_old_backup/100/страт./0.2/eight/14000_time
+tests_old_backup/100/страт./0.2/eight/15000
+tests_old_backup/100/страт./0.2/eight/15000_time
+tests_old_backup/2/mult/0.1/curve/1000
+tests_old_backup/2/mult/0.1/curve/1000_time
+tests_old_backup/2/mult/0.1/curve/2000
+tests_old_backup/2/mult/0.1/curve/2000_time
+tests_old_backup/2/mult/0.1/curve/3000
+tests_old_backup/2/mult/0.1/curve/3000_time
+tests_old_backup/2/mult/0.1/curve/4000
+tests_old_backup/2/mult/0.1/curve/4000_time
+tests_old_backup/2/mult/0.1/curve/5000
+tests_old_backup/2/mult/0.1/curve/5000_time
+tests_old_backup/2/mult/0.1/curve/6000
+tests_old_backup/2/mult/0.1/curve/6000_time
+tests_old_backup/2/mult/0.1/curve/7000
+tests_old_backup/2/mult/0.1/curve/7000_time
+tests_old_backup/2/mult/0.1/curve/8000
+tests_old_backup/2/mult/0.1/curve/8000_time
+tests_old_backup/2/mult/0.1/curve/9000
+tests_old_backup/2/mult/0.1/curve/9000_time
+tests_old_backup/2/mult/0.1/curve/10000
+tests_old_backup/2/mult/0.1/curve/10000_time
+tests_old_backup/2/mult/0.1/curve/11000
+tests_old_backup/2/mult/0.1/curve/11000_time
+tests_old_backup/2/mult/0.1/curve/12000
+tests_old_backup/2/mult/0.1/curve/12000_time
+tests_old_backup/2/mult/0.1/curve/13000
+tests_old_backup/2/mult/0.1/curve/13000_time
+tests_old_backup/2/mult/0.1/curve/14000
+tests_old_backup/2/mult/0.1/curve/14000_time
+tests_old_backup/2/mult/0.1/curve/15000
+tests_old_backup/2/mult/0.1/curve/15000_time
+tests_old_backup/2/mult/0.1/eight/1000
+tests_old_backup/2/mult/0.1/eight/1000_time
+tests_old_backup/2/mult/0.1/eight/2000
+tests_old_backup/2/mult/0.1/eight/2000_time
+tests_old_backup/2/mult/0.1/eight/3000
+tests_old_backup/2/mult/0.1/eight/3000_time
+tests_old_backup/2/mult/0.1/eight/4000
+tests_old_backup/2/mult/0.1/eight/4000_time
+tests_old_backup/2/mult/0.1/eight/5000
+tests_old_backup/2/mult/0.1/eight/5000_time
+tests_old_backup/2/mult/0.1/eight/6000
+tests_old_backup/2/mult/0.1/eight/6000_time
+tests_old_backup/2/mult/0.1/eight/7000
+tests_old_backup/2/mult/0.1/eight/7000_time
+tests_old_backup/2/mult/0.1/eight/8000
+tests_old_backup/2/mult/0.1/eight/8000_time
+tests_old_backup/2/mult/0.1/eight/9000
+tests_old_backup/2/mult/0.1/eight/9000_time
+tests_old_backup/2/mult/0.1/eight/10000
+tests_old_backup/2/mult/0.1/eight/10000_time
+tests_old_backup/2/mult/0.1/eight/11000
+tests_old_backup/2/mult/0.1/eight/11000_time
+tests_old_backup/2/mult/0.1/eight/12000
+tests_old_backup/2/mult/0.1/eight/12000_time
+tests_old_backup/2/mult/0.1/eight/13000
+tests_old_backup/2/mult/0.1/eight/13000_time
+tests_old_backup/2/mult/0.1/eight/14000
+tests_old_backup/2/mult/0.1/eight/14000_time
+tests_old_backup/2/mult/0.1/eight/15000
+tests_old_backup/2/mult/0.1/eight/15000_time
+tests_old_backup/2/mult/0.2/curve/1000
+tests_old_backup/2/mult/0.2/curve/1000_time
+tests_old_backup/2/mult/0.2/curve/2000
+tests_old_backup/2/mult/0.2/curve/2000_time
+tests_old_backup/2/mult/0.2/curve/3000
+tests_old_backup/2/mult/0.2/curve/3000_time
+tests_old_backup/2/mult/0.2/curve/4000
+tests_old_backup/2/mult/0.2/curve/4000_time
+tests_old_backup/2/mult/0.2/curve/5000
+tests_old_backup/2/mult/0.2/curve/5000_time
+tests_old_backup/2/mult/0.2/curve/6000
+tests_old_backup/2/mult/0.2/curve/6000_time
+tests_old_backup/2/mult/0.2/curve/7000
+tests_old_backup/2/mult/0.2/curve/7000_time
+tests_old_backup/2/mult/0.2/curve/8000
+tests_old_backup/2/mult/0.2/curve/8000_time
+tests_old_backup/2/mult/0.2/curve/9000
+tests_old_backup/2/mult/0.2/curve/9000_time
+tests_old_backup/2/mult/0.2/curve/10000
+tests_old_backup/2/mult/0.2/curve/10000_time
+tests_old_backup/2/mult/0.2/curve/11000
+tests_old_backup/2/mult/0.2/curve/11000_time
+tests_old_backup/2/mult/0.2/curve/12000
+tests_old_backup/2/mult/0.2/curve/12000_time
+tests_old_backup/2/mult/0.2/curve/13000
+tests_old_backup/2/mult/0.2/curve/13000_time
+tests_old_backup/2/mult/0.2/curve/14000
+tests_old_backup/2/mult/0.2/curve/14000_time
+tests_old_backup/2/mult/0.2/curve/15000
+tests_old_backup/2/mult/0.2/curve/15000_time
+tests_old_backup/2/mult/0.2/eight/1000
+tests_old_backup/2/mult/0.2/eight/1000_time
+tests_old_backup/2/mult/0.2/eight/2000
+tests_old_backup/2/mult/0.2/eight/2000_time
+tests_old_backup/2/mult/0.2/eight/3000
+tests_old_backup/2/mult/0.2/eight/3000_time
+tests_old_backup/2/mult/0.2/eight/4000
+tests_old_backup/2/mult/0.2/eight/4000_time
+tests_old_backup/2/mult/0.2/eight/5000
+tests_old_backup/2/mult/0.2/eight/5000_time
+tests_old_backup/2/mult/0.2/eight/6000
+tests_old_backup/2/mult/0.2/eight/6000_time
+tests_old_backup/2/mult/0.2/eight/7000
+tests_old_backup/2/mult/0.2/eight/7000_time
+tests_old_backup/2/mult/0.2/eight/8000
+tests_old_backup/2/mult/0.2/eight/8000_time
+tests_old_backup/2/mult/0.2/eight/9000
+tests_old_backup/2/mult/0.2/eight/9000_time
+tests_old_backup/2/mult/0.2/eight/10000
+tests_old_backup/2/mult/0.2/eight/10000_time
+tests_old_backup/2/mult/0.2/eight/11000
+tests_old_backup/2/mult/0.2/eight/11000_time
+tests_old_backup/2/mult/0.2/eight/12000
+tests_old_backup/2/mult/0.2/eight/12000_time
+tests_old_backup/2/mult/0.2/eight/13000
+tests_old_backup/2/mult/0.2/eight/13000_time
+tests_old_backup/2/mult/0.2/eight/14000
+tests_old_backup/2/mult/0.2/eight/14000_time
+tests_old_backup/2/mult/0.2/eight/15000
+tests_old_backup/2/mult/0.2/eight/15000_time
+tests_old_backup/2/strat/0.1/curve/1000
+tests_old_backup/2/strat/0.1/curve/1000_time
+tests_old_backup/2/strat/0.1/curve/2000
+tests_old_backup/2/strat/0.1/curve/2000_time
+tests_old_backup/2/strat/0.1/curve/3000
+tests_old_backup/2/strat/0.1/curve/3000_time
+tests_old_backup/2/strat/0.1/curve/4000
+tests_old_backup/2/strat/0.1/curve/4000_time
+tests_old_backup/2/strat/0.1/curve/5000
+tests_old_backup/2/strat/0.1/curve/5000_time
+tests_old_backup/2/strat/0.1/curve/6000
+tests_old_backup/2/strat/0.1/curve/6000_time
+tests_old_backup/2/strat/0.1/curve/7000
+tests_old_backup/2/strat/0.1/curve/7000_time
+tests_old_backup/2/strat/0.1/curve/8000
+tests_old_backup/2/strat/0.1/curve/8000_time
+tests_old_backup/2/strat/0.1/curve/9000
+tests_old_backup/2/strat/0.1/curve/9000_time
+tests_old_backup/2/strat/0.1/curve/10000
+tests_old_backup/2/strat/0.1/curve/10000_time
+tests_old_backup/2/strat/0.1/curve/11000
+tests_old_backup/2/strat/0.1/curve/11000_time
+tests_old_backup/2/strat/0.1/curve/12000
+tests_old_backup/2/strat/0.1/curve/12000_time
+tests_old_backup/2/strat/0.1/curve/13000
+tests_old_backup/2/strat/0.1/curve/13000_time
+tests_old_backup/2/strat/0.1/curve/14000
+tests_old_backup/2/strat/0.1/curve/14000_time
+tests_old_backup/2/strat/0.1/curve/15000
+tests_old_backup/2/strat/0.1/curve/15000_time
+tests_old_backup/2/strat/0.1/eight/1000
+tests_old_backup/2/strat/0.1/eight/1000_time
+tests_old_backup/2/strat/0.1/eight/2000
+tests_old_backup/2/strat/0.1/eight/2000_time
+tests_old_backup/2/strat/0.1/eight/3000
+tests_old_backup/2/strat/0.1/eight/3000_time
+tests_old_backup/2/strat/0.1/eight/4000
+tests_old_backup/2/strat/0.1/eight/4000_time
+tests_old_backup/2/strat/0.1/eight/5000
+tests_old_backup/2/strat/0.1/eight/5000_time
+tests_old_backup/2/strat/0.1/eight/6000
+tests_old_backup/2/strat/0.1/eight/6000_time
+tests_old_backup/2/strat/0.1/eight/7000
+tests_old_backup/2/strat/0.1/eight/7000_time
+tests_old_backup/2/strat/0.1/eight/8000
+tests_old_backup/2/strat/0.1/eight/8000_time
+tests_old_backup/2/strat/0.1/eight/9000
+tests_old_backup/2/strat/0.1/eight/9000_time
+tests_old_backup/2/strat/0.1/eight/10000
+tests_old_backup/2/strat/0.1/eight/10000_time
+tests_old_backup/2/strat/0.1/eight/11000
+tests_old_backup/2/strat/0.1/eight/11000_time
+tests_old_backup/2/strat/0.1/eight/12000
+tests_old_backup/2/strat/0.1/eight/12000_time
+tests_old_backup/2/strat/0.1/eight/13000
+tests_old_backup/2/strat/0.1/eight/13000_time
+tests_old_backup/2/strat/0.1/eight/14000
+tests_old_backup/2/strat/0.1/eight/14000_time
+tests_old_backup/2/strat/0.1/eight/15000
+tests_old_backup/2/strat/0.1/eight/15000_time
+tests_old_backup/2/strat/0.2/curve/1000
+tests_old_backup/2/strat/0.2/curve/1000_time
+tests_old_backup/2/strat/0.2/curve/2000
+tests_old_backup/2/strat/0.2/curve/2000_time
+tests_old_backup/2/strat/0.2/curve/3000
+tests_old_backup/2/strat/0.2/curve/3000_time
+tests_old_backup/2/strat/0.2/curve/4000
+tests_old_backup/2/strat/0.2/curve/4000_time
+tests_old_backup/2/strat/0.2/curve/5000
+tests_old_backup/2/strat/0.2/curve/5000_time
+tests_old_backup/2/strat/0.2/curve/6000
+tests_old_backup/2/strat/0.2/curve/6000_time
+tests_old_backup/2/strat/0.2/curve/7000
+tests_old_backup/2/strat/0.2/curve/7000_time
+tests_old_backup/2/strat/0.2/curve/8000
+tests_old_backup/2/strat/0.2/curve/8000_time
+tests_old_backup/2/strat/0.2/curve/9000
+tests_old_backup/2/strat/0.2/curve/9000_time
+tests_old_backup/2/strat/0.2/curve/10000
+tests_old_backup/2/strat/0.2/curve/10000_time
+tests_old_backup/2/strat/0.2/curve/11000
+tests_old_backup/2/strat/0.2/curve/11000_time
+tests_old_backup/2/strat/0.2/curve/12000
+tests_old_backup/2/strat/0.2/curve/12000_time
+tests_old_backup/2/strat/0.2/curve/13000
+tests_old_backup/2/strat/0.2/curve/13000_time
+tests_old_backup/2/strat/0.2/curve/14000
+tests_old_backup/2/strat/0.2/curve/14000_time
+tests_old_backup/2/strat/0.2/curve/15000
+tests_old_backup/2/strat/0.2/curve/15000_time
+tests_old_backup/2/strat/0.2/eight/1000
+tests_old_backup/2/strat/0.2/eight/1000_time
+tests_old_backup/2/strat/0.2/eight/2000
+tests_old_backup/2/strat/0.2/eight/2000_time
+tests_old_backup/2/strat/0.2/eight/3000
+tests_old_backup/2/strat/0.2/eight/3000_time
+tests_old_backup/2/strat/0.2/eight/4000
+tests_old_backup/2/strat/0.2/eight/4000_time
+tests_old_backup/2/strat/0.2/eight/5000
+tests_old_backup/2/strat/0.2/eight/5000_time
+tests_old_backup/2/strat/0.2/eight/6000
+tests_old_backup/2/strat/0.2/eight/6000_time
+tests_old_backup/2/strat/0.2/eight/7000
+tests_old_backup/2/strat/0.2/eight/7000_time
+tests_old_backup/2/strat/0.2/eight/8000
+tests_old_backup/2/strat/0.2/eight/8000_time
+tests_old_backup/2/strat/0.2/eight/9000
+tests_old_backup/2/strat/0.2/eight/9000_time
+tests_old_backup/2/strat/0.2/eight/10000
+tests_old_backup/2/strat/0.2/eight/10000_time
+tests_old_backup/2/strat/0.2/eight/11000
+tests_old_backup/2/strat/0.2/eight/11000_time
+tests_old_backup/2/strat/0.2/eight/12000
+tests_old_backup/2/strat/0.2/eight/12000_time
+tests_old_backup/2/strat/0.2/eight/13000
+tests_old_backup/2/strat/0.2/eight/13000_time
+tests_old_backup/2/strat/0.2/eight/14000
+tests_old_backup/2/strat/0.2/eight/14000_time
+tests_old_backup/2/strat/0.2/eight/15000
+tests_old_backup/2/strat/0.2/eight/15000_time
+tests_old_backup/2/syst/0.1/curve/1000
+tests_old_backup/2/syst/0.1/curve/1000_time
+tests_old_backup/2/syst/0.1/curve/2000
+tests_old_backup/2/syst/0.1/curve/2000_time
+tests_old_backup/2/syst/0.1/curve/3000
+tests_old_backup/2/syst/0.1/curve/3000_time
+tests_old_backup/2/syst/0.1/curve/4000
+tests_old_backup/2/syst/0.1/curve/4000_time
+tests_old_backup/2/syst/0.1/curve/5000
+tests_old_backup/2/syst/0.1/curve/5000_time
+tests_old_backup/2/syst/0.1/curve/6000
+tests_old_backup/2/syst/0.1/curve/6000_time
+tests_old_backup/2/syst/0.1/curve/7000
+tests_old_backup/2/syst/0.1/curve/7000_time
+tests_old_backup/2/syst/0.1/curve/8000
+tests_old_backup/2/syst/0.1/curve/8000_time
+tests_old_backup/2/syst/0.1/curve/9000
+tests_old_backup/2/syst/0.1/curve/9000_time
+tests_old_backup/2/syst/0.1/curve/10000
+tests_old_backup/2/syst/0.1/curve/10000_time
+tests_old_backup/2/syst/0.1/curve/11000
+tests_old_backup/2/syst/0.1/curve/11000_time
+tests_old_backup/2/syst/0.1/curve/12000
+tests_old_backup/2/syst/0.1/curve/12000_time
+tests_old_backup/2/syst/0.1/curve/13000
+tests_old_backup/2/syst/0.1/curve/13000_time
+tests_old_backup/2/syst/0.1/curve/14000
+tests_old_backup/2/syst/0.1/curve/14000_time
+tests_old_backup/2/syst/0.1/curve/15000
+tests_old_backup/2/syst/0.1/curve/15000_time
+tests_old_backup/2/syst/0.1/eight/1000
+tests_old_backup/2/syst/0.1/eight/1000_time
+tests_old_backup/2/syst/0.1/eight/2000
+tests_old_backup/2/syst/0.1/eight/2000_time
+tests_old_backup/2/syst/0.1/eight/3000
+tests_old_backup/2/syst/0.1/eight/3000_time
+tests_old_backup/2/syst/0.1/eight/4000
+tests_old_backup/2/syst/0.1/eight/4000_time
+tests_old_backup/2/syst/0.1/eight/5000
+tests_old_backup/2/syst/0.1/eight/5000_time
+tests_old_backup/2/syst/0.1/eight/6000
+tests_old_backup/2/syst/0.1/eight/6000_time
+tests_old_backup/2/syst/0.1/eight/7000
+tests_old_backup/2/syst/0.1/eight/7000_time
+tests_old_backup/2/syst/0.1/eight/8000
+tests_old_backup/2/syst/0.1/eight/8000_time
+tests_old_backup/2/syst/0.1/eight/9000
+tests_old_backup/2/syst/0.1/eight/9000_time
+tests_old_backup/2/syst/0.1/eight/10000
+tests_old_backup/2/syst/0.1/eight/10000_time
+tests_old_backup/2/syst/0.1/eight/11000
+tests_old_backup/2/syst/0.1/eight/11000_time
+tests_old_backup/2/syst/0.1/eight/12000
+tests_old_backup/2/syst/0.1/eight/12000_time
+tests_old_backup/2/syst/0.1/eight/13000
+tests_old_backup/2/syst/0.1/eight/13000_time
+tests_old_backup/2/syst/0.1/eight/14000
+tests_old_backup/2/syst/0.1/eight/14000_time
+tests_old_backup/2/syst/0.1/eight/15000
+tests_old_backup/2/syst/0.1/eight/15000_time
+tests_old_backup/2/syst/0.2/curve/1000
+tests_old_backup/2/syst/0.2/curve/1000_time
+tests_old_backup/2/syst/0.2/curve/2000
+tests_old_backup/2/syst/0.2/curve/2000_time
+tests_old_backup/2/syst/0.2/curve/3000
+tests_old_backup/2/syst/0.2/curve/3000_time
+tests_old_backup/2/syst/0.2/curve/4000
+tests_old_backup/2/syst/0.2/curve/4000_time
+tests_old_backup/2/syst/0.2/curve/5000
+tests_old_backup/2/syst/0.2/curve/5000_time
+tests_old_backup/2/syst/0.2/curve/6000
+tests_old_backup/2/syst/0.2/curve/6000_time
+tests_old_backup/2/syst/0.2/curve/7000
+tests_old_backup/2/syst/0.2/curve/7000_time
+tests_old_backup/2/syst/0.2/curve/8000
+tests_old_backup/2/syst/0.2/curve/8000_time
+tests_old_backup/2/syst/0.2/curve/9000
+tests_old_backup/2/syst/0.2/curve/9000_time
+tests_old_backup/2/syst/0.2/curve/10000
+tests_old_backup/2/syst/0.2/curve/10000_time
+tests_old_backup/2/syst/0.2/curve/11000
+tests_old_backup/2/syst/0.2/curve/11000_time
+tests_old_backup/2/syst/0.2/curve/12000
+tests_old_backup/2/syst/0.2/curve/12000_time
+tests_old_backup/2/syst/0.2/curve/13000
+tests_old_backup/2/syst/0.2/curve/13000_time
+tests_old_backup/2/syst/0.2/curve/14000
+tests_old_backup/2/syst/0.2/curve/14000_time
+tests_old_backup/2/syst/0.2/curve/15000
+tests_old_backup/2/syst/0.2/curve/15000_time
+tests_old_backup/2/syst/0.2/eight/1000
+tests_old_backup/2/syst/0.2/eight/1000_time
+tests_old_backup/2/syst/0.2/eight/2000
+tests_old_backup/2/syst/0.2/eight/2000_time
+tests_old_backup/2/syst/0.2/eight/3000
+tests_old_backup/2/syst/0.2/eight/3000_time
+tests_old_backup/2/syst/0.2/eight/4000
+tests_old_backup/2/syst/0.2/eight/4000_time
+tests_old_backup/2/syst/0.2/eight/5000
+tests_old_backup/2/syst/0.2/eight/5000_time
+tests_old_backup/2/syst/0.2/eight/6000
+tests_old_backup/2/syst/0.2/eight/6000_time
+tests_old_backup/2/syst/0.2/eight/7000
+tests_old_backup/2/syst/0.2/eight/7000_time
+tests_old_backup/2/syst/0.2/eight/8000
+tests_old_backup/2/syst/0.2/eight/8000_time
+tests_old_backup/2/syst/0.2/eight/9000
+tests_old_backup/2/syst/0.2/eight/9000_time
+tests_old_backup/2/syst/0.2/eight/10000
+tests_old_backup/2/syst/0.2/eight/10000_time
+tests_old_backup/2/syst/0.2/eight/11000
+tests_old_backup/2/syst/0.2/eight/11000_time
+tests_old_backup/2/syst/0.2/eight/12000
+tests_old_backup/2/syst/0.2/eight/12000_time
+tests_old_backup/2/syst/0.2/eight/13000
+tests_old_backup/2/syst/0.2/eight/13000_time
+tests_old_backup/2/syst/0.2/eight/14000
+tests_old_backup/2/syst/0.2/eight/14000_time
+tests_old_backup/2/syst/0.2/eight/15000
+tests_old_backup/2/syst/0.2/eight/15000_time
+__pycache__/Partucle_filter.cpython-38.pyc
+__pycache__/Robot.cpython-38.pyc
+__pycache__/settings.cpython-38.pyc
+__pycache__/spline.cpython-38.pyc
+__pycache__/tools.cpython-38.pyc
+__pycache__/visualisation.cpython-38.pyc

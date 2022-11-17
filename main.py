@@ -3,22 +3,30 @@ import numpy as np
 
 from Particle_filter import ParticleFilter
 from Robot import Robot, model
-from settings import settings
-from tools import angle, dist, get_katets, vectors
+import settings
+from tools import angle, dist, get_katets, get_script_dir, vectors
 from visualization import visualize_filter
-from datetime import datetime
 import time
 from spline import get_curves
 import os
 
+# Функция запуска фильтра частиц. 
+# Принимает настройки фреймворка. 
+# Опционально принимает используемую кривую (список с данными типа float) 
+# или модель пермещения робота (обхект класса model). 
+# Возвращает список с ошибками (список с данными типа float) или список 
+# с ошибками и список с историей изменения ПРЧ (список с данными типа float).
 def main(settings, curve = None, R_model = None):
+    print("main")
     if settings['detail']:
         settings['fast'] = False
+    
     error = []
     save = False
     particles_hist = []
     mean_hist = []
     Robot_hist = []
+    Density_hist = []
 
     if curve is not None:
         curve_len = 0
@@ -46,21 +54,20 @@ def main(settings, curve = None, R_model = None):
     else:
         R = Robot(settings['size_x'] / 2, settings['size_y'] / 2, uniform(0, 2*np.pi), settings['noize_rot'], settings['noize_dist'], model=R_model)
         
-        
-        
     pf = ParticleFilter(settings['N_p'], settings['size_x'], settings['size_y'])
     R_coords = R.get_coords()
     R_angle = R.get_angle()
     mean = pf.estimate()
     part_start = pf.get_particles()
-
-    
-
+    density = pf.get_density()
+    if settings['change_n'] == 'KD':
+        pf.weight(R_coords, settings)
     particles_hist.append(part_start)
     mean_hist.append(mean)
     Robot_hist.append([R_coords, R_angle])
-    error.append((dist(mean, R_coords), -(R_angle - mean[2])))
-    
+    error.append((dist(mean, R_coords)))
+    Density_hist.append(density)
+
     for i in range(1, settings['iterations'] + 1):
         if curve is not None:
             R.move_on_curve(curve, indexes[i], indexes[i-1])
@@ -73,67 +80,77 @@ def main(settings, curve = None, R_model = None):
         R_coords = R.get_coords()
         R_angle = R.get_angle()
 
-
-        if settings['fast'] == True:
-            if curve is not None:
-                a, b = vectors(curve[indexes[i-1]-1], curve[indexes[i-1]], curve[indexes[i]])
-                c, d = vectors(curve[indexes[i-1]], curve[indexes[i]], curve[indexes[i]+1])
-                resampled = pf.fast_start((dist(curve[indexes[i-1]], curve[indexes[i]]), angle(a, b), angle(c, d)), 
-                                        R.get_coords(), settings['resample_type'], settings['noize_dist'], 
-                                            settings['noize_rot'], settings['noize_sens'])
-            else:
-                resampled = pf.fast_start((R.get_speed(), movement_angle, 0), R.get_coords(), 
-                                        settings['resample_type'], settings['noize_dist'], 
-                                        settings['noize_rot'], settings['noize_sens'])
+        if curve is not None:
+            a, b = vectors(curve[indexes[i-1]-1], curve[indexes[i-1]], curve[indexes[i]])
+            c, d = vectors(curve[indexes[i-1]], curve[indexes[i]], curve[indexes[i]+1])
+            u = (dist(curve[indexes[i-1]], curve[indexes[i]]), angle(a, b), angle(c, d))
         else:
-            if curve is not None:
-                a, b = vectors(curve[indexes[i-1]-1], curve[indexes[i-1]], curve[indexes[i]])
-                pf.predict((dist(curve[indexes[i-1]], curve[indexes[i]]), angle(a, b)), settings['noize_dist'], settings['noize_rot'])
-                a, b = vectors(curve[indexes[i-1]], curve[indexes[i]], curve[indexes[i]+1])
-                pf.predict((0, angle(a, b)), 0, 0)
-            else:
-                pf.predict((R.get_speed(), movement_angle), settings['noize_dist'], settings['noize_rot'])
+            u = (R.get_speed(), movement_angle, 0)
+        if settings['mode'] == 'change_n':
+            if settings['change_n'] == 'KD':
+                eps = 0.05
+                bin = 10
+                if i == 1:
+                    resampled = pf.KL_dist_recount_n(eps, bin, 100, u, R.get_coords(), Robot_hist[i - 1][0], settings)
 
+                else:
+                    resampled = pf.KL_dist_recount_n(eps, bin, 100, u, R.get_coords(), Robot_hist[i - 1][0], settings)
+            elif settings['change_n'] == 'KD_2':
+                if settings['resample_type'] == ParticleFilter.systematic_resample:
+                    c = 3
+                else:
+                    c = 2.5
+                if i == 1:
+                    c = 1
+                resampled = pf.KL_dist_recount_two_rows(u, R.get_coords(), 1.3, 0.7, c, settings)
+            elif settings['change_n'] == 'Pna':
+                resampled = pf.Pmabopd(u, R.get_coords(), 100, 200, .99, .75, 1.5, settings)
+        elif settings['mode'] == 'fast':
+            resampled = pf.fast_start(u, R.get_coords(), settings)
+        elif settings['mode'] == 'normal':
             
+            pf.predict(u, settings)
+
             if settings['detail']:
                 particles_hist.append(pf.get_particles()[:, 0:3])
                 mean_hist.append(pf.estimate())
                 Robot_hist.append([R_coords, R_angle])
-                error.append((dist(mean, R_coords), -(R_angle - mean[2])))
-            pf.weight(R_coords, settings['noize_sens'])
-            if settings['resample_type'] == 'mult':
-                resampled = pf.multinomial_resample()
-            elif settings['resample_type'] == 'strat':
-                resampled = pf.stratified_resample()
-            elif settings['resample_type'] == 'syst':
-                resampled = pf.systematic_resample()
-
+                error.append((dist(mean, R_coords)))
+                Density_hist.append(pf.get_density())
+            pf.weight(R_coords, settings)
+            resampled = settings['resample_type'](pf)
+ 
         mean = pf.estimate()
         
-        error.append((dist(mean, R_coords), -(R_angle - mean[2])))
-        if error[i-1][0] > .5:
+        error.append((dist(mean, R_coords)))
+        if error[i-1] > .3:
             save = True
         particles_hist.append(resampled)
         mean_hist.append(mean)
         Robot_hist.append([R_coords, R_angle])
+        Density_hist.append(pf.get_density())
     
     if settings['visualize']:
-        visualize_filter(Robot_hist, particles_hist, mean_hist, 
+        visualize_filter(Robot_hist, particles_hist, mean_hist, Density_hist,
                     settings['size_x'], settings['size_y'], 
-                    settings['N_p'], settings['iterations'], error, curve)
+                    settings['iterations'], error, curve)
     if save and settings['save_errors']:
-        path = r"//home//bobr_js//Particle filter//"
+        path = get_script_dir()
         i = 1
-        if os.path.getsize(path+f'BIG_ERRORS{i}') >= 1000000:
+        while os.path.getsize(path+f'/BIG_ERRORS{i}')  >= 10000000 and os.path.exists(path+f'/BIG_ERRORS{i}'):
             i+=1
         with open(path + f'BIG_ERRORS{i}', 'a') as f:
-            f.write(str(error) + str(settings['noize_dist']) + str(settings['resample_type']) +'\n')
-
-    return error
+            f.write(str(error) + str(settings['noize_dist']) + str(settings['resample_type']) +str(settings['change_n']) + '\n')
+    
+    if settings['change_n'] == None:
+        return error
+    else:
+        return error, Density_hist
 
 if __name__ == '__main__':
+    curve = get_curves()[1]
     start_time = time.perf_counter()
-    #for i in range(1):
-    main(settings, R_model=model(.4, .4, 180, 3))
-    # curve = get_curves()[0]
-    print(time.perf_counter() - start_time)
+    error = []
+    n = 1
+    for i in range(n):
+        error.append(main(settings.settings, curve))# R_model=model(.4, .4, 180, 1)))
